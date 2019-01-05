@@ -1,10 +1,18 @@
 # Fdb version 3
-["dvipdf"] 1542624329 "nakanishi_bthesis.dvi" "nakanishi_bthesis.pdf" "nakanishi_bthesis" 1542624330
-  "nakanishi_bthesis.dvi" 1542624329 2688 cc2c523debf2fbe49ff653513e830158 "latex"
+["bibtex nakanishi_bthesis"] 1546691414 "nakanishi_bthesis.aux" "nakanishi_bthesis.bbl" "nakanishi_bthesis" 1546691415
+  "jplain.bst" 0 -1 0 ""
+  "nakanishi_bthesis.aux" 1546691414 1014 119c88d9d002252161a66116aa36abcb ""
+  "reference.bib" 1546690596 1028 39bfb494c72d3b15a1355889989f755c ""
+  (generated)
+  "nakanishi_bthesis.blg"
+  "nakanishi_bthesis.bbl"
+["dvipdf"] 1546691414 "nakanishi_bthesis.dvi" "nakanishi_bthesis.pdf" "nakanishi_bthesis" 1546691415
+  "nakanishi_bthesis.dvi" 1546691414 4468 13b31a30943ea0f7238ce00b0c80a988 "latex"
   (generated)
   "nakanishi_bthesis.pdf"
-["latex"] 1542624329 "nakanishi_bthesis.tex" "nakanishi_bthesis.dvi" "nakanishi_bthesis" 1542624330
+["latex"] 1546691414 "nakanishi_bthesis.tex" "nakanishi_bthesis.dvi" "nakanishi_bthesis" 1546691415
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
+  "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1480098701 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1480098701 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1480098701 1520 eccf95517727cb11801f4f1aee3a21b4 ""
@@ -27,11 +35,12 @@
   "/usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf" 1522066949 33362 cf75436e19743e94a92a6b1b9183c434 ""
   "/usr/local/texlive/2018/texmf-var/web2c/euptex/uplatex.fmt" 1541955018 4470728 305368aa7aeb67021a395f7e2ff06ad3 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "nakanishi_bthesis.aux" 1542624329 842 932727ac4428e0b155ab7534a973ce29 ""
-  "nakanishi_bthesis.tex" 1542624329 512 f1dffe6ea4d6239bf68d3feabceaa0f2 ""
-  "nakanishi_bthesis.toc" 1542624329 382 e0be05de24d8dfd052d93e072c8ab9f3 ""
+  "nakanishi_bthesis.aux" 1546691414 1014 119c88d9d002252161a66116aa36abcb ""
+  "nakanishi_bthesis.bbl" 1546691414 0 d41d8cd98f00b204e9800998ecf8427e "bibtex nakanishi_bthesis"
+  "nakanishi_bthesis.tex" 1546691413 2080 c1f93ae0396c82729b845272aee344c6 ""
+  "nakanishi_bthesis.toc" 1546691414 382 e0be05de24d8dfd052d93e072c8ab9f3 ""
   (generated)
-  "nakanishi_bthesis.toc"
-  "nakanishi_bthesis.dvi"
-  "nakanishi_bthesis.log"
   "nakanishi_bthesis.aux"
+  "nakanishi_bthesis.dvi"
+  "nakanishi_bthesis.toc"
+  "nakanishi_bthesis.log"
