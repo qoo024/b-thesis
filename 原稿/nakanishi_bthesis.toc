@@ -11,17 +11,23 @@
 \contentsline {section}{\numberline {2.3}飽和吸収分光法}{8}
 \contentsline {section}{\numberline {2.4}光周波数コム}{8}
 \contentsline {subsection}{\numberline {2.4.1}モード同期レーザーの概要}{8}
-\contentsline {subsection}{\numberline {2.4.2}モード同期レーザーのスペクトル}{8}
+\contentsline {subsection}{\numberline {2.4.2}モード同期レーザーのスペクトル}{9}
 \contentsline {section}{\numberline {2.5}テーパーアンプ}{9}
-\contentsline {subsection}{\numberline {2.5.1}半導体の発光原理}{9}
-\contentsline {subsection}{\numberline {2.5.2}テーパーアンプの構造}{9}
-\contentsline {chapter}{\numberline {第3章}過去の研究}{10}
-\contentsline {section}{\numberline {3.1}従来の課題と光周波数コムによる冷却のメリット}{10}
-\contentsline {section}{\numberline {3.2}二光子コムによるレーザー冷却の理論}{10}
-\contentsline {section}{\numberline {3.3}二光子コムによる冷却の実証}{11}
-\contentsline {chapter}{\numberline {第4章}テープアンプを用いたモード同期レーザーの構築}{12}
-\contentsline {section}{\numberline {4.1}テープアンプのマウンターの組み立て}{12}
-\contentsline {section}{\numberline {4.2}光学系の組み立て}{12}
-\contentsline {chapter}{\numberline {第5章}二色の光周波数コムによる二光子冷却}{13}
-\contentsline {chapter}{\numberline {第6章}考察}{14}
-\contentsline {chapter}{\numberline {第7章}まとめと展望}{15}
+\contentsline {subsection}{\numberline {2.5.1}半導体レーザーの発光原理}{10}
+\contentsline {subsection}{\numberline {2.5.2}テーパーアンプ}{11}
+\contentsline {chapter}{\numberline {第3章}過去の研究}{13}
+\contentsline {section}{\numberline {3.1}従来の課題と光周波数コムによる冷却のメリット}{13}
+\contentsline {section}{\numberline {3.2}二光子コムによるレーザー冷却の理論}{13}
+\contentsline {section}{\numberline {3.3}Cs原子の二色のコムによる励起効率の見積もり}{14}
+\contentsline {chapter}{\numberline {第4章}光周波数コムのテーパーアンプによる増幅実験}{17}
+\contentsline {section}{\numberline {4.1}光周波数コムのテーパーアンプによる増幅}{17}
+\contentsline {section}{\numberline {4.2}テーパーアンプのマウンターの組み立て}{18}
+\contentsline {section}{\numberline {4.3}増幅実験の光学系}{20}
+\contentsline {section}{\numberline {4.4}測定結果}{21}
+\contentsline {subsection}{\numberline {4.4.1}繰り返し周波数の異なるコムの増幅}{21}
+\contentsline {subsection}{\numberline {4.4.2}繰り返し周波数$1.6$ GHzの$890$ nm付近のコムの増幅}{22}
+\contentsline {subsection}{\numberline {4.4.3}ダブルパスでの増幅}{23}
+\contentsline {chapter}{\numberline {第5章}二色の光周波数コムによる二光子冷却}{24}
+\contentsline {chapter}{\numberline {第6章}考察}{25}
+\contentsline {chapter}{\numberline {第7章}まとめと展望}{26}
+\contentsline {chapter}{参考文献}{27}

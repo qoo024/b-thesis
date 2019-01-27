@@ -1,0 +1,413 @@
+This is e-upTeX, Version 3.14159265-p3.8.0-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.11.12)  27 JAN 2019 13:52
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**nakanishi_bthesis_chapter4.tex
+(./nakanishi_bthesis_chapter4.tex
+pLaTeX2e <2018-04-01u02>+1 (based on LaTeX2e <2018-04-01> patch level 2)
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/platex/jsclasses/jsbook.cls
+Document Class: jsbook 2018/03/11 jsclasses (okumura, texjporg)
+\jsc@mpt=\dimen118
+\jsc@mmm=\dimen119
+\jsc@smallskipamount=\skip41
+LaTeX Info: Redefining \rmfamily on input line 471.
+LaTeX Info: Redefining \sffamily on input line 474.
+LaTeX Info: Redefining \ttfamily on input line 477.
+LaTeX Info: Redefining \textmc on input line 481.
+LaTeX Info: Redefining \textgt on input line 483.
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY2/mc/m/n --> JY2/gt/m/n on input line 545.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 736.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 736.
+\fullwidth=\dimen120
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 7.39746pt on input line 897.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 7.39746pt on input line 897.
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\jsc@tocl@width=\dimen121
+\@lnumwidth=\dimen122
+\bibindent=\dimen123
+(/usr/local/texlive/2018/texmf-dist/tex/platex/jsclasses/jslogo.sty
+Package: jslogo 2017/02/24 okumura, texjporg
+LaTeX Info: Redefining \TeX on input line 94.
+LaTeX Info: Redefining \LaTeX on input line 147.
+LaTeX Info: Redefining \LaTeXe on input line 200.
+)
+\heisei=\count92
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup5
+\symboldletters=\mathgroup6
+\symboldsymbols=\mathgroup7
+\symboldmincho=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen124
+)) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+LaTeX Info: Redefining \boldsymbol on input line 28.
+\pmbraise@=\dimen125
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box42
+\strutbox@=\box43
+\big@size=\dimen126
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks16
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks17
+\eqnshift@=\dimen127
+\alignsep@=\dimen128
+\tagshift@=\dimen129
+\tagwidth@=\dimen130
+\totwidth@=\dimen131
+\lineht@=\dimen132
+\@envbody=\toks18
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen133
+\Gin@req@width=\dimen134
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen135
+\WF@size=\dimen136
+\c@WF@wrappedlines=\count105
+\WF@box=\box44
+\WF@everypar=\toks21
+Package: wrapfig 2003/01/31  v 3.6
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen137
+\captionmargin@=\dimen138
+\captionwidth=\dimen139
+\caption@tempdima=\dimen140
+\caption@indent=\dimen141
+\caption@parindent=\dimen142
+\caption@hangindent=\dimen143
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->{\small \advance \leftskip .0628\linewidth \advance \rightskip .0628\linewidth \vskip \abovecaptionskip \sbox \@tempboxa {#1\hskip 1zw\relax #2}\ifdim \wd \@tempboxa <\hsize \centering \fi #1\hskip 1zw\relax #2\par \vskip \belowcaptionskip }.
+\c@ContinuedFloat=\count106
+Package caption Info: wrapfig package is loaded.
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count107
+\c@subtable=\count108
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment') (./nakanishi_bthesis_chapter4.aux)
+\openout1 = `nakanishi_bthesis_chapter4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 15.9785pt on input line 16.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 15.9785pt on input line 16.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 16.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 16.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 5.5481pt on input line 16.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 16.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 7.39746pt on input line 16.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 5.5481pt on input line 16.
+ [1
+
+
+]
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 20.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 20.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 23.0061pt on input line 20.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 23.0061pt on input line 20.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 23.0061pt on input line 20.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 23.0061pt on input line 20.
+ (./nakanishi_bthesis_chapter4.toc
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 2.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 4.62341pt on input line 2.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 2.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 4.62341pt on input line 2.
+)
+\tf@toc=\write4
+\openout4 = `nakanishi_bthesis_chapter4.toc'.
+
+ [1
+
+]
+第1章
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 19.17792pt on input line 23.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 19.17792pt on input line 23.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 19.17792pt on input line 23.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 19.17792pt on input line 23.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 24.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 24.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 24.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 24.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 26.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 26.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 26.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 26.
+
+LaTeX Warning: Citation `PhysRevA.73.063407' on page 2 undefined on input line 26.
+
+
+LaTeX Warning: Citation `PhysRevA.73.063407' on page 2 undefined on input line 27.
+
+
+LaTeX Warning: Citation `PhysRevA.73.063407' on page 2 undefined on input line 27.
+
+
+LaTeX Warning: Citation `PhysRevX.6.041004' on page 2 undefined on input line 31.
+
+[2
+
+]
+
+LaTeX Warning: Citation `PhysRevX.6.041004' on page 3 undefined on input line 58.
+
+
+LaTeX Warning: Citation `PhysRevX.6.041004' on page 3 undefined on input line 61.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 63.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 63.
+ [3]
+
+LaTeX Warning: Citation `PhysRevX.6.041004' on page 4 undefined on input line 71.
+
+[4]
+File: figures/chapter3/2color_excitation_rate_astro.png Graphic file (type bmp)
+<figures/chapter3/2color_excitation_rate_astro.png>
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 120.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 120.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <9> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 120.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 120.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <9> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 120.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 120.
+ [5]
+第2章
+[6
+
+]
+File: figures/chapter4/TA_chip_ds.png Graphic file (type bmp)
+<figures/chapter4/TA_chip_ds.png>
+File: figures/chapter4/TA_mounter_photo_comments.png Graphic file (type bmp)
+<figures/chapter4/TA_mounter_photo_comments.png>
+File: figures/chapter4/TA_mounter_structure.png Graphic file (type bmp)
+<figures/chapter4/TA_mounter_structure.png>
+
+Overfull \hbox (23.17033pt too wide) in paragraph at lines 161--163
+ [][] 
+ []
+
+
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 145--168
+ [][][][] 
+ []
+
+[7]
+File: figures/chapter4/TA_case.jpg Graphic file (type bmp)
+<figures/chapter4/TA_case.jpg>
+ [8] Excluding 'comment' comment.
+File: figures/chapter4/760_amp_diagram.png Graphic file (type bmp)
+<figures/chapter4/760_amp_diagram.png>
+File: figures/chapter4/760_astro_amp_diagram.png Graphic file (type bmp)
+<figures/chapter4/760_astro_amp_diagram.png>
+
+Overfull \hbox (22.47504pt too wide) in paragraph at lines 212--214
+ [][] 
+ []
+
+File: figures/chapter4/890_astro_amp_diagram.png Graphic file (type bmp)
+<figures/chapter4/890_astro_amp_diagram.png>
+
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 187--228
+ [][][][] 
+ []
+
+[9]
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 232.
+ [10]
+File: figures/chapter4/pulse_power-gain-comparison.png Graphic file (type bmp)
+<figures/chapter4/pulse_power-gain-comparison.png>
+
+Overfull \hbox (13.38202pt too wide) in paragraph at lines 245--247
+ [][] 
+ []
+
+File: figures/chapter4/M-S_power_comparison.png Graphic file (type bmp)
+<figures/chapter4/M-S_power_comparison.png>
+File: figures/chapter4/TA_cuurent-gain_comparison.png Graphic file (type bmp)
+<figures/chapter4/TA_cuurent-gain_comparison.png>
+
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 239--269
+ [][][][] 
+ []
+
+File: figures/chapter4/TA_power-current_3A_astro.png Graphic file (type bmp)
+<figures/chapter4/TA_power-current_3A_astro.png>
+
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 280--282
+ [][] 
+ []
+
+File: figures/chapter4/890TPA_power_dependence_0117.png Graphic file (type bmp)
+<figures/chapter4/890TPA_power_dependence_0117.png>
+
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 290--292
+ [][] 
+ []
+
+
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 274--297
+ [][][][] 
+ []
+
+[11] [12]
+第3章
+[13
+
+]
+第4章
+No file nakanishi_bthesis_chapter4.bbl.
+[14
+
+] (./nakanishi_bthesis_chapter4.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2903 strings out of 493270
+ 43032 string characters out of 6145017
+ 125486 words of memory out of 5000000
+ 6804 multiletter control sequences out of 15000+600000
+ 25719 words of font info for 115 fonts, out of 8000000 for 9000
+ 934 hyphenation exceptions out of 8191
+ 36i,15n,39p,1146b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on nakanishi_bthesis_chapter4.dvi (15 pages, 33400 bytes).
