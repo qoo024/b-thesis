@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.8.0-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.11.12)  27 JAN 2019 13:52
+This is e-upTeX, Version 3.14159265-p3.8.0-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.11.12)  28 JAN 2019 14:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -309,7 +309,77 @@ LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 8.32214pt on input line 120.
  [5]
 第2章
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 126.
+File: figures/saturated-absorption/Cs_level_diagram_MOT.png Graphic file (type bmp)
+<figures/saturated-absorption/Cs_level_diagram_MOT.png>
+
+LaTeX Warning: Citation `Cs_level_diagram' on page 6 undefined on input line 138.
+
+
+LaTeX Warning: Citation `Cs_level_diagram' on page 6 undefined on input line 138.
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 133--142
+ [][][][] 
+ []
+
 [6
+
+]
+File: figures/saturated-absorption/ECDL_diagram.png Graphic file (type bmp)
+<figures/saturated-absorption/ECDL_diagram.png>
+
+Overfull \hbox (11.91144pt too wide) in paragraph at lines 151--153
+ [][] 
+ []
+
+
+LaTeX Warning: Citation `ECDL' on page 7 undefined on input line 153.
+
+
+LaTeX Warning: Citation `ECDL' on page 7 undefined on input line 153.
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 148--157
+ [][][][] 
+ []
+
+File: figures/saturated-absorption/Main_Laser_diagram.png Graphic file (type bmp)
+<figures/saturated-absorption/Main_Laser_diagram.png>
+File: figures/saturated-absorption/repump_diagram.png Graphic file (type bmp)
+<figures/saturated-absorption/repump_diagram.png>
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 164--181
+ [][][][] 
+ []
+
+[7] [8]
+File: figures/saturated-absorption/PD_Signal_Main.png Graphic file (type bmp)
+<figures/saturated-absorption/PD_Signal_Main.png>
+File: figures/saturated-absorption/error_signal_main_all-structure.png Graphic file (type bmp)
+<figures/saturated-absorption/error_signal_main_all-structure.png>
+File: figures/saturated-absorption/main-locking-error.png Graphic file (type bmp)
+<figures/saturated-absorption/main-locking-error.png>
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 188--214
+ [][][][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 7.71384pt on input line 214.
+
+[9] [10]
+File: figures/saturated-absorption/Repump_PD_signal.png Graphic file (type bmp)
+<figures/saturated-absorption/Repump_PD_signal.png>
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 219--228
+ [][][][] 
+ []
+
+[11]
+第3章
+[12
 
 ]
 File: figures/chapter4/TA_chip_ds.png Graphic file (type bmp)
@@ -319,43 +389,50 @@ File: figures/chapter4/TA_mounter_photo_comments.png Graphic file (type bmp)
 File: figures/chapter4/TA_mounter_structure.png Graphic file (type bmp)
 <figures/chapter4/TA_mounter_structure.png>
 
-Overfull \hbox (23.17033pt too wide) in paragraph at lines 161--163
+Overfull \hbox (23.17033pt too wide) in paragraph at lines 268--270
  [][] 
  []
 
 
-Overfull \hbox (15.33333pt too wide) in paragraph at lines 145--168
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 252--275
  [][][][] 
  []
 
-[7]
+[13]
 File: figures/chapter4/TA_case.jpg Graphic file (type bmp)
 <figures/chapter4/TA_case.jpg>
- [8] Excluding 'comment' comment.
+ [14] Excluding 'comment' comment.
 File: figures/chapter4/760_amp_diagram.png Graphic file (type bmp)
 <figures/chapter4/760_amp_diagram.png>
 File: figures/chapter4/760_astro_amp_diagram.png Graphic file (type bmp)
 <figures/chapter4/760_astro_amp_diagram.png>
 
-Overfull \hbox (22.47504pt too wide) in paragraph at lines 212--214
+Overfull \hbox (22.47504pt too wide) in paragraph at lines 321--323
  [][] 
  []
 
 File: figures/chapter4/890_astro_amp_diagram.png Graphic file (type bmp)
 <figures/chapter4/890_astro_amp_diagram.png>
 
-Overfull \hbox (15.33333pt too wide) in paragraph at lines 187--228
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 296--337
  [][][][] 
  []
 
-[9]
-LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 232.
- [10]
+[15]
+
+LaTeX Warning: Citation `doi:10.1063/1.3501966' on page 16 undefined on input line 340.
+
+[16]
+File: figures/chapter4/doublepass_photo.png Graphic file (type bmp)
+<figures/chapter4/doublepass_photo.png>
+ [17]
+File: figures/chapter4/spectrum_current_MODORI.png Graphic file (type bmp)
+<figures/chapter4/spectrum_current_MODORI.png>
+ [18] [19]
 File: figures/chapter4/pulse_power-gain-comparison.png Graphic file (type bmp)
 <figures/chapter4/pulse_power-gain-comparison.png>
 
-Overfull \hbox (13.38202pt too wide) in paragraph at lines 245--247
+Overfull \hbox (13.38202pt too wide) in paragraph at lines 376--378
  [][] 
  []
 
@@ -364,37 +441,46 @@ File: figures/chapter4/M-S_power_comparison.png Graphic file (type bmp)
 File: figures/chapter4/TA_cuurent-gain_comparison.png Graphic file (type bmp)
 <figures/chapter4/TA_cuurent-gain_comparison.png>
 
-Overfull \hbox (15.33333pt too wide) in paragraph at lines 239--269
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 370--400
  [][][][] 
  []
 
 File: figures/chapter4/TA_power-current_3A_astro.png Graphic file (type bmp)
 <figures/chapter4/TA_power-current_3A_astro.png>
 
-Overfull \hbox (13.37982pt too wide) in paragraph at lines 280--282
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 412--414
  [][] 
  []
 
 File: figures/chapter4/890TPA_power_dependence_0117.png Graphic file (type bmp)
 <figures/chapter4/890TPA_power_dependence_0117.png>
 
-Overfull \hbox (13.37982pt too wide) in paragraph at lines 290--292
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 422--424
  [][] 
  []
 
 
-Overfull \hbox (15.33333pt too wide) in paragraph at lines 274--297
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 406--429
  [][][][] 
  []
 
-[11] [12]
-第3章
-[13
+[20]
+File: figures/chapter4/double-pass_I-Gain.png Graphic file (type bmp)
+<figures/chapter4/double-pass_I-Gain.png>
+File: figures/chapter4/double-pass-Slave-Spectrum.png Graphic file (type bmp)
+<figures/chapter4/double-pass-Slave-Spectrum.png>
 
-]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 437--458
+ [][][][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 14.27635pt on input line 458.
+
+[21] [22]
 第4章
 No file nakanishi_bthesis_chapter4.bbl.
-[14
+[23
 
 ] (./nakanishi_bthesis_chapter4.aux)
 
@@ -402,12 +488,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2903 strings out of 493270
- 43032 string characters out of 6145017
+ 2953 strings out of 493270
+ 44938 string characters out of 6145017
  125486 words of memory out of 5000000
- 6804 multiletter control sequences out of 15000+600000
+ 6840 multiletter control sequences out of 15000+600000
  25719 words of font info for 115 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 36i,15n,39p,1146b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,15n,39p,1423b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on nakanishi_bthesis_chapter4.dvi (15 pages, 33400 bytes).
+Output written on nakanishi_bthesis_chapter4.dvi (24 pages, 48836 bytes).

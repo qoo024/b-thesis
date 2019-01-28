@@ -150,6 +150,18 @@ INPUT figures/chapter2/TA_structure.png
 INPUT extractbb -B cropbox -O figures/chapter2/TA_structure.png
 INPUT figures/chapter3/2color_excitation_rate_astro.png
 INPUT extractbb -B cropbox -O figures/chapter3/2color_excitation_rate_astro.png
+INPUT figures/saturated-absorption/Cs_level_diagram_MOT.png
+INPUT extractbb -B cropbox -O figures/saturated-absorption/Cs_level_diagram_MOT.png
+INPUT figures/saturated-absorption/ECDL_diagram.png
+INPUT extractbb -B cropbox -O figures/saturated-absorption/ECDL_diagram.png
+INPUT figures/saturated-absorption/PD_Signal_Main.png
+INPUT extractbb -B cropbox -O figures/saturated-absorption/PD_Signal_Main.png
+INPUT figures/saturated-absorption/error_signal_main_all-structure.png
+INPUT extractbb -B cropbox -O figures/saturated-absorption/error_signal_main_all-structure.png
+INPUT figures/saturated-absorption/main-locking-error.png
+INPUT extractbb -B cropbox -O figures/saturated-absorption/main-locking-error.png
+INPUT figures/saturated-absorption/Repump_PD_signal.png
+INPUT extractbb -B cropbox -O figures/saturated-absorption/Repump_PD_signal.png
 INPUT figures/chapter4/TA_chip_ds.png
 INPUT extractbb -B cropbox -O figures/chapter4/TA_chip_ds.png
 INPUT figures/chapter4/TA_mounter_photo_comments.png
@@ -169,14 +181,24 @@ INPUT figures/chapter4/760_astro_amp_diagram.png
 INPUT extractbb -B cropbox -O figures/chapter4/760_astro_amp_diagram.png
 INPUT figures/chapter4/890_astro_amp_diagram.png
 INPUT extractbb -B cropbox -O figures/chapter4/890_astro_amp_diagram.png
+INPUT figures/chapter4/doublepass_photo.png
+INPUT extractbb -B cropbox -O figures/chapter4/doublepass_photo.png
+INPUT figures/chapter4/spectrum_current_MODORI.png
+INPUT extractbb -B cropbox -O figures/chapter4/spectrum_current_MODORI.png
 INPUT figures/chapter4/pulse_power-gain-comparison.png
 INPUT extractbb -B cropbox -O figures/chapter4/pulse_power-gain-comparison.png
 INPUT figures/chapter4/M-S_power_comparison.png
 INPUT extractbb -B cropbox -O figures/chapter4/M-S_power_comparison.png
+INPUT figures/chapter4/TA_cuurent-gain_comparison.png
+INPUT extractbb -B cropbox -O figures/chapter4/TA_cuurent-gain_comparison.png
 INPUT figures/chapter4/TA_power-current_3A_astro.png
 INPUT extractbb -B cropbox -O figures/chapter4/TA_power-current_3A_astro.png
 INPUT figures/chapter4/890TPA_power_dependence_0117.png
 INPUT extractbb -B cropbox -O figures/chapter4/890TPA_power_dependence_0117.png
+INPUT figures/chapter4/double-pass_I-Gain.png
+INPUT extractbb -B cropbox -O figures/chapter4/double-pass_I-Gain.png
+INPUT figures/chapter4/double-pass-Slave-Spectrum.png
+INPUT extractbb -B cropbox -O figures/chapter4/double-pass-Slave-Spectrum.png
 INPUT nakanishi_bthesis.bbl
 INPUT nakanishi_bthesis.bbl
 INPUT nakanishi_bthesis.aux

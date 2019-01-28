@@ -121,6 +121,113 @@ Jayichらはこのパラメータの下で励起効率を$\gamma_N \sim 13000\ \
  \label{2color_excitation_rate}
 \end{figure}
 
+\chapter{Cs原子のMOTのためのcw光源の構築}
+\section{飽和吸収分光法によるCs原子のロック}
+\subsection{MOTに用いるCs原子の超微細構造}
+　今回のMOTで用いるCs原子の準位図は図\ref{Cs_level_diagram_MOT}のようになっている。冷却に用いる遷移は$6 ^ { 2 } S _ { 1 / 2 }$の$F = 4$から$6 ^ { 2 } S _ { 3 / 2 }$の$F ^ { \prime } = 5$の遷移であるが、$6 ^ { 2 } S _ { 1 / 2 }$の$F = 3$に脱励起した電子を冷却のサイクルに戻すために$6 ^ { 2 } S _ { 1 / 2 }$の$F = 3$
+から$6 ^ { 2 } S _ { 3 / 2 }$の$F ^ { \prime } = 4$の遷移に対応するレーザーも使用する。便宜的に前者のレーザーをメインレーザー、後者のレーザーをリポンプレーザーと呼ぶことにする。
+
+
+\begin{figure}[htpb]
+  \centering
+    \begin{tabular}{c}
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.35,  angle=0]
+                          {figures/saturated-absorption/Cs_level_diagram_MOT.png}
+                          \caption{MOTで用いるCs原子の超微細構造の準位図（参考文献\cite{Cs_level_diagram}から引用）}
+                          \label{Cs_level_diagram_MOT}
+      \end{minipage}
+    \end{tabular}
+\end{figure}
+\subsection{ECDLによる周波数の制御}
+今回の実験で飽和吸収分光に用いるためのレーザーの周波数の制御には外部共振器型半導体レーザー（External Cavity Diode Laser, ECDL）を使用している。ECDLは回折格子の持つ波長選択性を用いて特定のモードの1次回折光をレーザーダイオードに戻すことによりそのモードのゲインを上げ、他のモードのゲインを下げるというものである。この回折格子をピエゾ素子に取り付け、電気的に回折格子の角度を調整できるようにすることで目的の周波数の周辺でレーザーの周波数の挿引を可能にしている。
+
+\begin{figure}[htpb]
+  \centering
+    \begin{tabular}{c}
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.35,  angle=0]
+                          {figures/saturated-absorption/ECDL_diagram.png}
+                          \caption{ECDLの概略図（参考文献\cite{ECDL}より引用）}
+                          \label{ECDL_diagram}
+      \end{minipage}
+    \end{tabular}
+\end{figure}
+\subsection{FMサイドバンドロック法}
+飽和吸収分光で得られたPDの信号の凹みに周波数をロックするために目的の周波数で正負が逆転するような信号（エラー信号）を生成し、フィードバックをかけることで周波数をロックするという手法を用いる。このエラー信号を生成する手法として用いるのがFMサイドバンドロック法である。この手法では、まず周波数$f_\mathrm{0}$のレーザー光の位相に対して周波数$f_\mathrm{m}$のラジオ周波数の変調を加えることで周波数空間上で元の周波数に対して周波数軸上で両側に二本の$f_\mathrm{0\pm m}$のサイドバンドを立てる。二本のサイドバンドの位相が逆であるため、それぞれのサイドバンドと元の光のヘテロダインビートを取ると、周波数の違いによるCs原子の吸収の差からエラー信号を生成する。
+\subsection{今回の飽和吸収分光に用いる光学系}
+　今回の実験では、メインレーザーとリポンプレーザーの飽和吸収分光を同一の気体のCs原子が入ったセルを用いて行った。そのため、光学系がやや複雑な形となったので概略図をの二つの図に分けて示した。図\ref{Main_Laser_diagram}はメインレーザーの光学系を示しているが、この光学系の外側に隣接する形で図\ref{repump_diagram}のようにリポンプレーザーの光学系を設置した。
+\begin{figure}[htpb]
+  \centering
+    \begin{tabular}{c}
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.35,  angle=0]
+                          {figures/saturated-absorption/Main_Laser_diagram.png}
+                          \caption{メインレーザーの光学系}
+                          \label{Main_Laser_diagram}
+      \end{minipage}\\
+
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.35,  angle=0]
+                          {figures/saturated-absorption/repump_diagram.png}
+                          \caption{リポンプレーザーの光学系}
+                          \label{repump_diagram}
+      \end{minipage}
+    \end{tabular}
+\end{figure}
+　どの遷移にロックしているかをのべる。ECDLの仕組み。ピエゾに三角波を入れて周波数の挿引を行なっていることを述べる。エラー信号の得かた。ロック回路。
+\section{測定結果}
+\subsection{メインレーザーのロック}
+メインレーザーの超微細構造を捉えたPDの信号は図\ref{PD_Signal_Main}である。この時のエラーシグナルが図\ref{error_signal_main_all-structure}のようになる。図\ref{main-locking-error}は周波数ロック時のエラー信号である。これらの測定結果から周波数ロック時の線幅を評価することができる。
+\begin{figure}[htpb]
+  \centering
+    \begin{tabular}{c}
+
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.6,  angle=0]
+                          {figures/saturated-absorption/PD_Signal_Main.png}
+                          \caption{PDで観測されたCs原子の超微細構造（メインレーザー）}
+                          \label{PD_Signal_Main}
+      \end{minipage}\\
+
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.6,  angle=0]
+                          {figures/saturated-absorption/error_signal_main_all-structure.png}
+                          \caption{図\ref{PD_Signal_Main}の信号のエラー信号}
+                          \label{error_signal_main_all-structure}
+      \end{minipage}\\
+
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.25,  angle=0]
+                          {figures/saturated-absorption/main-locking-error.png}
+                          \caption{メインレーザーの周波数ロック中のエラー信号}
+                          \label{main-locking-error}
+      \end{minipage}
+    \end{tabular}
+\end{figure}
+
+\newpage
+\begin{figure}[htpb]
+  \centering
+    \begin{tabular}{c}
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.35,  angle=0]
+                          {figures/saturated-absorption/Repump_PD_signal.png}
+                          \caption{PDで観測されたCs原子の超微細構造（リポンプレーザー）}
+                          \label{Repump_PD_signal}
+      \end{minipage}
+    \end{tabular}
+\end{figure}
+
+
 
 
 \newpage
@@ -179,8 +286,10 @@ Jayichらはこのパラメータの下で励起効率を$\gamma_N \sim 13000\ \
 
 
 \newpage
-\section{増幅実験の光学系}
+\section{増幅実験の測定手法}
+\subsection{繰り返し周波数の異なるコムでの増幅の比較}
 　繰り返し周波数が$120$ MHzと$1.6$ GHzの二台のコムの、$766$ nmを中心波長とする幅$10$ nmのバンドパスフィルター(BPF)を通過した光をTAで増幅させ、マスター光とスレーブ光のパワーを測定した。その際に、BPF通過前のコムのスペクトルと、テーパーアンプの入り口と出口でのコムのスペクトルも測定を行った。その際の光学系は図\ref{760_amp_diagram}, \ref{760_astro_amp_diagram}に示している。繰り返し周波数$120$ MHzのコムを用いた実験ではアイソレータを入れないでTAの実験を行ったところ、TAからの戻り光がコムに光フィードバックをもたらしcw的発振を引き起こすことが観測された。このためアイソレータを使用している。一方で、くり返し周波数が$1.6$ GHzのコムの実験ではアイソレータを使用しなくても、TAからの戻り光がコムの共振器まで戻らずcw的な発振を起こさなかったため、アイソレータは使用しなかった。\\
+\subsection{自作のTAでの890nm付近のコムの増幅}
 　また、自作したTAで繰り返し周波数が$1.6$ GHzのコムの、$890$ nmを中心波長とする幅$10$ nmのBPFを通過した光を増幅させ、マスター光とスレーブ光のパワーの測定を行った。その際の光学系は図\ref{890_astro_amp_diagram}に示した。
 \begin{figure}[htpb]
   \centering
@@ -226,9 +335,31 @@ Jayichらはこのパラメータの下で励起効率を$\gamma_N \sim 13000\ \
 
     \end{tabular}
 \end{figure}
+\newpage
+\subsection{ダブルパスによる増幅}
+ 　TAは通常ゲイン領域が細い方からマスター光を入射し、ゲイン領域の広い方からスレーブ光を出力するという使用法をする。しかし、通常の出力側からマスター光を入射し通常の入力側から出た光をミラーで打ち返し再度通常の入力側に光を入射させ、二度ゲイン領域を通過させ増幅するという手法がある。この光学系の配置をダブルパスといい、これに対して通常の配置をシングルパスと呼ぶことがある。ダブルパスでのcwレーザーのTAの増幅の振る舞いについては過去の研究\cite{doi:10.1063/1.3501966}があり、通常cw光でTAを飽和させるには数十ワットのマスター光が必要となるが、ダブルパスの場合だと$200 \mathrm{\mu W}$のマスター光で飽和させることが出来ることが分かっている。また、スペクトルの面でもキャリアの周波数的に幅の広い自然放出が抑えられることが分かっている。このように、ダブルパスによるメリットは多いが光周波数コムの増幅にダブルパスを用いている研究はまだない。そのため今回の実験では,繰り返し周波数$1.6$ GHzの$761$ nmから$771$ nmのコムをダブルパスにより増幅する実験を行った。
+
+ \begin{figure}[htbp]
+  \begin{center}
+   \includegraphics[width=120mm]{figures/chapter4/doublepass_photo.png}
+ \end{center}
+  \caption{ダブルパス配置の光学系}
+  \label{doublepass_photo}
+ \end{figure}
 
 \newpage
 \section{測定結果}
+\subsection{アイソレータなしの場合のコムのスペクトルの変化}
+　図\ref{spectrum_current_MODORI}はマスター光入射時にアイソレータを使用しなかった時の、光周波数コムのキャビティの出力口におけるスペクトラムをTAに印加する電流の大きさを変えつつ分光器で測定したものである。TAの印加電流をあげていくと$770$ nm付近でcw的な発振を起こしていることが分かる。これはTAの入射口から出た自然放出の光が光周波数コムの共振器まで戻り、光フィードバックを起こしているものと考えられる。\\
+　そのためマスター光入射時にアイソレータを通過させたところ、スペクトルは図のようになった。このようなcw的な発振は観測されなかった。
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=140mm]{figures/chapter4/spectrum_current_MODORI.png}
+\end{center}
+ \caption{戻り光の影響によるコムのスペクトルの変化}
+ \label{spectrum_current_MODORI}
+\end{figure}
+\newpage
 \subsection{繰り返し周波数の異なるコムの増幅}
 
 図\ref{pulse_power-gain-comparison}は766nm側のコムを増幅した際の利得のパルスエネルギー依存性依存性を二つの繰り返し周波数に応じて比較したものである。繰り返し周波数$120 \mathrm{MHz}$の利得をみると、パルスエネルギーの増加に対して利得が低下していく様子がわかる。これは、各パルスに含まれる光子数に対して励起状態にあるキャリア数が足りておらずパルスエネルギーの増加に対して利得を保てていないと考えられる。それに対し、繰り返し周波数$1.6 \mathrm{GHz}$のコムの利得は$120$ MHzのコムの利得を下回っている。これはパルスの時間間隔が$630$ ps程度で短く、十分な反転分布が励起されていないことが原因ではないかと考えられる。\\
@@ -269,6 +400,7 @@ Jayichらはこのパラメータの下で励起効率を$\gamma_N \sim 13000\ \
 \end{figure}
 \subsection{繰り返し周波数$1.6$ GHzの$890$ nm付近のコムの増幅}
 　繰り返し周波数$1.6$ GHzのコムの$885 \mathrm{nm}から 895 \mathrm{nm}$BPFを通過させた光をTAで増幅した結果を、図\ref{TA_power-current_3A_astro}, \ref{890TPA_power_dependence_0117}に示す。
+
 \begin{figure}[htpb]
   \centering
     \begin{tabular}{c}
@@ -296,11 +428,36 @@ Jayichらはこのパラメータの下で励起効率を$\gamma_N \sim 13000\ \
     \end{tabular}
 \end{figure}
 
-\newpage
 \subsection{ダブルパスでの増幅}
 
+
 \newpage
-\chapter{二色の光周波数コムによる二光子冷却}
+\begin{figure}[htpb]
+  \centering
+    \begin{tabular}{c}
+
+      \begin{minipage}{0.70\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
+                          {figures/chapter4/double-pass_I-Gain.png}
+                          \caption{ダブルパスでの利得の印加電流依存性}
+                          \label{double-pass_I-Gain}
+      \end{minipage}\\
+
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.340,  angle=0]
+                          {figures/chapter4/double-pass-Slave-Spectrum.png}
+                          \caption{ダブルパスでの各印加電流におけるスレーブ光のスペクトル}
+                          \label{double-pass_I-Slave}
+
+      \end{minipage}
+
+
+    \end{tabular}
+\end{figure}
+
+
 
 \chapter{まとめと展望}
 
