@@ -166,8 +166,6 @@
 \subsection{クロスオーバー共鳴}
 　飽和吸収分光においては、準位間の共鳴周波数だけでなく二つの共鳴周波数のちょうど平均の周波数においてもプローブ光の透過率が極大となる。この現象をクロスオーバー共鳴と呼ぶ。もっとも簡単な三準位の系での飽和吸収分光を考える。図の$|1\rangle$から$|2\rangle$,$|3\rangle$への遷移周波数を$\omega_12$, $\omega_13$とする。レーザーの周波数が$\omega$のときに$|1\rangle$から$|2\rangle$へ励起される原子の速度は$v = \pm frac{\omega - \omega_12}{k}$であり、同様に$v = \pm frac{\omega - \omega_13}{k}$の速度の原子が$|3\rangle$へ励起される。
 $\omega = \frac{\omega_12 + \omega_13}{2}$のとき、$|2\rangle$、$|3\rangle$へ励起される原子の速度が一致する。このため、$\omega_12$、$\omega_13$においてだけでなく、$\frac{\omega_12 + \omega_13}{2}$においてもポンプ光による飽和の影響でプローブ光の透過率が極大となることが分かる。
-
-\\
 \begin{figure}[htpb]
   \centering
     \begin{tabular}{c}
@@ -416,7 +414,27 @@ Jayichらはこのパラメータの下で励起効率を$\gamma_N \sim 13000\ \
 \subsection{FMサイドバンドロック法}
 飽和吸収分光で得られたPDの信号の凹みに周波数をロックするために目的の周波数で正負が逆転するような信号（エラー信号）を生成し、フィードバックをかけることで周波数をロックするという手法を用いる。このエラー信号を生成する手法として用いるのがFMサイドバンドロック法である。この手法では、まず周波数$f_\mathrm{0}$のレーザー光の位相に対して周波数$f_\mathrm{m}$のラジオ周波数の変調を加えることで周波数空間上で元の周波数に対して周波数軸上で両側に二本の$f_\mathrm{0\pm m}$のサイドバンドを立てる。二本のサイドバンドの位相が逆であるため、それぞれのサイドバンドと元の光のヘテロダインビートを取ると、周波数の違いによるCs原子の吸収の差からエラー信号を生成する。
 \subsection{今回の飽和吸収分光に用いる光学系}
+　今回の実験では、メインレーザーとリポンプレーザーの飽和吸収分光を同一の気体のCs原子が入ったセルを用いて行った。そのため、光学系がやや複雑な形となったので概略図をの二つの図に分けて示した。図\ref{Main_Laser_diagram}はメインレーザーの光学系を示しているが、この光学系の外側に隣接する形で図\ref{repump_diagram}のようにリポンプレーザーの光学系を設置した。
+\begin{figure}[htpb]
+  \centering
+    \begin{tabular}{c}
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.35,  angle=0]
+                          {figures/saturated-absorption/Main_Laser_diagram.png}
+                          \caption{メインレーザーの光学系}
+                          \label{Main_Laser_diagram}
+      \end{minipage}\\
 
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.35,  angle=0]
+                          {figures/saturated-absorption/repump_diagram.png}
+                          \caption{リポンプレーザーの光学系}
+                          \label{repump_diagram}
+      \end{minipage}
+    \end{tabular}
+\end{figure}
 　どの遷移にロックしているかをのべる。ECDLの仕組み。ピエゾに三角波を入れて周波数の挿引を行なっていることを述べる。エラー信号の得かた。ロック回路。
 \section{測定結果}
 \subsection{メインレーザーのロック}
@@ -705,5 +723,4 @@ Jayichらはこのパラメータの下で励起効率を$\gamma_N \sim 13000\ \
 
 
 \bibliography{reference}
-\end{document}
 \end{document}

@@ -154,6 +154,10 @@ INPUT figures/saturated-absorption/Cs_level_diagram_MOT.png
 INPUT extractbb -B cropbox -O figures/saturated-absorption/Cs_level_diagram_MOT.png
 INPUT figures/saturated-absorption/ECDL_diagram.png
 INPUT extractbb -B cropbox -O figures/saturated-absorption/ECDL_diagram.png
+INPUT figures/saturated-absorption/Main_Laser_diagram.png
+INPUT extractbb -B cropbox -O figures/saturated-absorption/Main_Laser_diagram.png
+INPUT figures/saturated-absorption/repump_diagram.png
+INPUT extractbb -B cropbox -O figures/saturated-absorption/repump_diagram.png
 INPUT figures/saturated-absorption/PD_Signal_Main.png
 INPUT extractbb -B cropbox -O figures/saturated-absorption/PD_Signal_Main.png
 INPUT figures/saturated-absorption/error_signal_main_all-structure.png

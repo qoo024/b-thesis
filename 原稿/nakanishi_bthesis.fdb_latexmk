@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex nakanishi_bthesis"] 1548654523 "nakanishi_bthesis.aux" "nakanishi_bthesis.bbl" "nakanishi_bthesis" 1548654548
+["bibtex nakanishi_bthesis"] 1548659401 "nakanishi_bthesis.aux" "nakanishi_bthesis.bbl" "nakanishi_bthesis" 1548659425
   "jplain.bst" 0 -1 0 ""
-  "nakanishi_bthesis.aux" 1548654529 12542 1e2a330c1c9da29bd64fbd77d2a68377 ""
+  "nakanishi_bthesis.aux" 1548659407 12863 dbd99f30b01713d5969a24b15567172b ""
   "reference.bib" 1548646768 6401 ef9805334df71b9a654f607b4e5b8e67 ""
   (generated)
   "nakanishi_bthesis.bbl"
   "nakanishi_bthesis.blg"
-["dvipdf"] 1548654530 "nakanishi_bthesis.dvi" "nakanishi_bthesis.pdf" "nakanishi_bthesis" 1548654548
-  "nakanishi_bthesis.dvi" 1548654529 81412 e2f55f5f38cf903d999843615f3053c1 "latex"
+["dvipdf"] 1548659407 "nakanishi_bthesis.dvi" "nakanishi_bthesis.pdf" "nakanishi_bthesis" 1548659425
+  "nakanishi_bthesis.dvi" 1548659407 82680 626f413645f685f905b3d0cdc3d00bbe "latex"
   (generated)
   "nakanishi_bthesis.pdf"
-["latex"] 1548654524 "nakanishi_bthesis.tex" "nakanishi_bthesis.dvi" "nakanishi_bthesis" 1548654548
+["latex"] 1548659401 "nakanishi_bthesis.tex" "nakanishi_bthesis.dvi" "nakanishi_bthesis" 1548659425
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1480098698 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1480098698 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -105,10 +105,12 @@
   "extractbb -B cropbox -O figures/chapter4/spectrum_current_MODORI.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/saturated-absorption/Cs_level_diagram_MOT.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/saturated-absorption/ECDL_diagram.png" 0 -1 0 ""
+  "extractbb -B cropbox -O figures/saturated-absorption/Main_Laser_diagram.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/saturated-absorption/PD_Signal_Main.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/saturated-absorption/Repump_PD_signal.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/saturated-absorption/error_signal_main_all-structure.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/saturated-absorption/main-locking-error.png" 0 -1 0 ""
+  "extractbb -B cropbox -O figures/saturated-absorption/repump_diagram.png" 0 -1 0 ""
   "figures/chapter2/MOT_circular_polarization.png" 1547452270 266004 7fa4a54e20228d04c8fe743f93580f35 ""
   "figures/chapter2/MOT_magnetic_field.png" 1547452258 217850 fb7fe6d11ba87021270d051d95de0bdf ""
   "figures/chapter2/MOT_zeeman_split.png" 1547452286 115100 567cf7dce16af5e8d427fd1a3d8259a9 ""
@@ -136,16 +138,18 @@
   "figures/chapter4/spectrum_current_MODORI.png" 1548593610 167354 441aa1c83120242e6156af08394b53f6 ""
   "figures/saturated-absorption/Cs_level_diagram_MOT.png" 1548630834 197697 198b33eccc14ef617fdd76d5000e55f6 ""
   "figures/saturated-absorption/ECDL_diagram.png" 1548631890 1228037 23f4101b5ed4e110d272b2d03a206727 ""
+  "figures/saturated-absorption/Main_Laser_diagram.png" 1548651319 35374 0ef965e8da824ef43f0ac58cf07993b5 ""
   "figures/saturated-absorption/PD_Signal_Main.png" 1548386059 14123 abc29e45d10c9512fcb584b29e6b21a6 ""
   "figures/saturated-absorption/Repump_PD_signal.png" 1548627159 40638 2ef878c09bbc729d55445a9905ffc86b ""
   "figures/saturated-absorption/error_signal_main_all-structure.png" 1548386178 15688 fec30454a3849e072e586dc2b764504b ""
   "figures/saturated-absorption/main-locking-error.png" 1548626669 70845 10d8f363e630b9d8d49e961d03ac8c1d ""
-  "nakanishi_bthesis.aux" 1548654529 12542 1e2a330c1c9da29bd64fbd77d2a68377 ""
-  "nakanishi_bthesis.bbl" 1548654524 0 d41d8cd98f00b204e9800998ecf8427e "bibtex nakanishi_bthesis"
-  "nakanishi_bthesis.tex" 1548654518 55924 8686c029560dfdd5178f269c7ab1ad6c ""
-  "nakanishi_bthesis.toc" 1548654529 3693 b55d456683dbe89af877bfc57f9f411f ""
+  "figures/saturated-absorption/repump_diagram.png" 1548652280 64625 1057cd5ac7d1b90246e8efda61644639 ""
+  "nakanishi_bthesis.aux" 1548659407 12863 dbd99f30b01713d5969a24b15567172b ""
+  "nakanishi_bthesis.bbl" 1548659401 0 d41d8cd98f00b204e9800998ecf8427e "bibtex nakanishi_bthesis"
+  "nakanishi_bthesis.tex" 1548659390 57177 0a9638cc4420a01f867725f7c2b6d9d2 ""
+  "nakanishi_bthesis.toc" 1548659407 3693 74ebac797f5849bea6b068def382a939 ""
   (generated)
-  "nakanishi_bthesis.toc"
-  "nakanishi_bthesis.log"
   "nakanishi_bthesis.dvi"
+  "nakanishi_bthesis.log"
+  "nakanishi_bthesis.toc"
   "nakanishi_bthesis.aux"
