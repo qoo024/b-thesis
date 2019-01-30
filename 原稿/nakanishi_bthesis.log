@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.8.0-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.11.12)  30 JAN 2019 15:45
+This is e-upTeX, Version 3.14159265-p3.8.0-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.11.12)  30 JAN 2019 16:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -419,66 +419,164 @@ LaTeX Warning: Citation `Walpole1996' on page 12 undefined on input line 275.
 [12]
 第3章
 
-LaTeX Warning: Citation `PhysRevA.73.063407' on page 13 undefined on input line 282.
-
-
 LaTeX Warning: Citation `PhysRevA.73.063407' on page 13 undefined on input line 283.
 
 
-LaTeX Warning: Citation `PhysRevA.73.063407' on page 13 undefined on input line 283.
+LaTeX Warning: Citation `PhysRevA.73.063407' on page 13 undefined on input line 284.
 
 
-LaTeX Warning: Citation `PhysRevX.6.041004' on page 13 undefined on input line 287.
+LaTeX Warning: Citation `PhysRevA.73.063407' on page 13 undefined on input line 284.
+
+
+LaTeX Warning: Citation `PhysRevX.6.041004' on page 13 undefined on input line 288.
 
 [13
 
 ]
 
-LaTeX Warning: Citation `PhysRevX.6.041004' on page 14 undefined on input line 314.
+LaTeX Warning: Citation `PhysRevX.6.041004' on page 14 undefined on input line 315.
 
 
-LaTeX Warning: Citation `PhysRevX.6.041004' on page 14 undefined on input line 317.
+LaTeX Warning: Citation `Cs_level_diagram' on page 14 undefined on input line 318.
 
 [14]
+File: figures/chapter3/necessary_excitation_rate.png Graphic file (type bmp)
+<figures/chapter3/necessary_excitation_rate.png>
 
-LaTeX Warning: Citation `PhysRevX.6.041004' on page 15 undefined on input line 327.
+Overfull \hbox (12.0pt too wide) in paragraph at lines 330--340
+ [][][][] 
+ []
+
+
+LaTeX Warning: Citation `PhysRevX.6.041004' on page 15 undefined on input line 342.
 
 [15]
-File: figures/chapter3/2color_excitation_rate_astro.png Graphic file (type bmp)
-<figures/chapter3/2color_excitation_rate_astro.png>
- [16]
+
+LaTeX Warning: Citation `PhysRevX.6.041004' on page 16 undefined on input line 352.
+
+[16]
+File: figures/chapter3/degenerated_2_photon_excitation_rate-P.png Graphic file (type bmp)
+<figures/chapter3/degenerated_2_photon_excitation_rate-P.png>
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 397--406
+ [][][][] 
+ []
+
+[17]
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 414.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 4.62341pt on input line 414.
+
+
+LaTeX Warning: Citation `ノーベル賞と分光学' on page 18 undefined on input line 424.
+
+
+LaTeX Warning: Citation `CsDLine' on page 18 undefined on input line 424.
+
+
+./nakanishi_bthesis.tex:426: LaTeX Error: Unknown float option `H'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.426 \begin{figure}[H]
+                       
+Option `H' ignored and `p' used.
+
+File: figures/chapter3/1photon-sc-rate-2dcolor_120MHz_log.png Graphic file (type bmp)
+<figures/chapter3/1photon-sc-rate-2dcolor_120MHz_log.png>
+File: figures/chapter3/1photon-sc-rate-2dcolor_16GHz_log.png Graphic file (type bmp)
+<figures/chapter3/1photon-sc-rate-2dcolor_16GHz_log.png>
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 428--445
+ [][][][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 17.27454pt on input line 445.
+
+[18] [19] [20] [21]
+
+./nakanishi_bthesis.tex:450: LaTeX Error: Unknown float option `H'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.450 \begin{figure}[H]
+                       
+Option `H' ignored and `p' used.
+
+File: figures/chapter3/2dcolor/5THz-120MHz-02GHz_new.png Graphic file (type bmp)
+<figures/chapter3/2dcolor/5THz-120MHz-02GHz_new.png>
+File: figures/chapter3/2dcolor/5THz-120MHz-04GHz_new.png Graphic file (type bmp)
+<figures/chapter3/2dcolor/5THz-120MHz-04GHz_new.png>
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 452--468
+ [][][][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 4.97327pt on input line 468.
+
+
+./nakanishi_bthesis.tex:470: LaTeX Error: Unknown float option `H'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.470 \begin{figure}[H]
+                       
+Option `H' ignored and `p' used.
+
+File: figures/chapter3/2dcolor/5THz-16GHz-04GHz_new.png Graphic file (type bmp)
+<figures/chapter3/2dcolor/5THz-16GHz-04GHz_new.png>
+File: figures/chapter3/2dcolor/5THz-16GHz-08GHz_new.png Graphic file (type bmp)
+<figures/chapter3/2dcolor/5THz-16GHz-08GHz_new.png>
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 472--489
+ [][][][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 4.97327pt on input line 489.
+
+Excluding 'comment' comment. [22] [23]
 第4章
 File: figures/saturated-absorption/Cs_level_diagram_MOT.png Graphic file (type bmp)
 <figures/saturated-absorption/Cs_level_diagram_MOT.png>
 
-LaTeX Warning: Citation `Cs_level_diagram' on page 17 undefined on input line 394.
+LaTeX Warning: Citation `Cs_level_diagram' on page 24 undefined on input line 528.
 
 
-LaTeX Warning: Citation `Cs_level_diagram' on page 17 undefined on input line 394.
+LaTeX Warning: Citation `Cs_level_diagram' on page 24 undefined on input line 528.
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 389--398
+Overfull \hbox (12.0pt too wide) in paragraph at lines 523--532
  [][][][] 
  []
 
-[17
+[24
 
 ]
 File: figures/saturated-absorption/ECDL_diagram.png Graphic file (type bmp)
 <figures/saturated-absorption/ECDL_diagram.png>
 
-Overfull \hbox (11.91144pt too wide) in paragraph at lines 407--409
+Overfull \hbox (11.91144pt too wide) in paragraph at lines 541--543
  [][] 
  []
 
 
-LaTeX Warning: Citation `ECDL' on page 18 undefined on input line 409.
+LaTeX Warning: Citation `ECDL' on page 25 undefined on input line 543.
 
 
-LaTeX Warning: Citation `ECDL' on page 18 undefined on input line 409.
+LaTeX Warning: Citation `ECDL' on page 25 undefined on input line 543.
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 404--413
+Overfull \hbox (12.0pt too wide) in paragraph at lines 538--547
  [][][][] 
  []
 
@@ -487,11 +585,11 @@ File: figures/saturated-absorption/Main_Laser_diagram.png Graphic file (type bmp
 File: figures/saturated-absorption/repump_diagram.png Graphic file (type bmp)
 <figures/saturated-absorption/repump_diagram.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 420--437
+Overfull \hbox (12.0pt too wide) in paragraph at lines 554--571
  [][][][] 
  []
 
-[18]
+[25]
 File: figures/saturated-absorption/PD_Signal_Main.png Graphic file (type bmp)
 <figures/saturated-absorption/PD_Signal_Main.png>
 File: figures/saturated-absorption/error_signal_main_all-structure.png Graphic file (type bmp)
@@ -499,24 +597,24 @@ File: figures/saturated-absorption/error_signal_main_all-structure.png Graphic f
 File: figures/saturated-absorption/main-locking-error.png Graphic file (type bmp)
 <figures/saturated-absorption/main-locking-error.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 444--470
+Overfull \hbox (12.0pt too wide) in paragraph at lines 578--604
  [][][][] 
  []
 
 
-LaTeX Warning: Float too large for page by 7.71384pt on input line 470.
+LaTeX Warning: Float too large for page by 7.71384pt on input line 604.
 
-[19] [20] [21]
+[26] [27] [28]
 File: figures/saturated-absorption/Repump_PD_signal.png Graphic file (type bmp)
 <figures/saturated-absorption/Repump_PD_signal.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 475--484
+Overfull \hbox (12.0pt too wide) in paragraph at lines 609--618
  [][][][] 
  []
 
-[22]
+[29]
 第5章
-[23
+[30
 
 ]
 File: figures/chapter4/TA_chip_ds.png Graphic file (type bmp)
@@ -526,50 +624,50 @@ File: figures/chapter4/TA_mounter_photo_comments.png Graphic file (type bmp)
 File: figures/chapter4/TA_mounter_structure.png Graphic file (type bmp)
 <figures/chapter4/TA_mounter_structure.png>
 
-Overfull \hbox (23.17033pt too wide) in paragraph at lines 524--526
+Overfull \hbox (23.17033pt too wide) in paragraph at lines 658--660
  [][] 
  []
 
 
-Overfull \hbox (15.33333pt too wide) in paragraph at lines 508--531
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 642--665
  [][][][] 
  []
 
-[24]
+[31]
 File: figures/chapter4/TA_case.jpg Graphic file (type bmp)
 <figures/chapter4/TA_case.jpg>
- [25] Excluding 'comment' comment.
+ [32] Excluding 'comment' comment.
 File: figures/chapter4/760_amp_diagram.png Graphic file (type bmp)
 <figures/chapter4/760_amp_diagram.png>
 File: figures/chapter4/760_astro_amp_diagram.png Graphic file (type bmp)
 <figures/chapter4/760_astro_amp_diagram.png>
 
-Overfull \hbox (22.47504pt too wide) in paragraph at lines 577--579
+Overfull \hbox (22.47504pt too wide) in paragraph at lines 711--713
  [][] 
  []
 
 File: figures/chapter4/890_astro_amp_diagram.png Graphic file (type bmp)
 <figures/chapter4/890_astro_amp_diagram.png>
 
-Overfull \hbox (15.33333pt too wide) in paragraph at lines 552--593
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 686--727
  [][][][] 
  []
 
-[26]
+[33]
 
-LaTeX Warning: Citation `doi:10.1063/1.3501966' on page 27 undefined on input line 596.
+LaTeX Warning: Citation `doi:10.1063/1.3501966' on page 34 undefined on input line 730.
 
-[27]
+[34]
 File: figures/chapter4/doublepass_photo.png Graphic file (type bmp)
 <figures/chapter4/doublepass_photo.png>
- [28]
+ [35]
 File: figures/chapter4/spectrum_current_MODORI.png Graphic file (type bmp)
 <figures/chapter4/spectrum_current_MODORI.png>
- [29] [30]
+ [36] [37]
 File: figures/chapter4/pulse_power-gain-comparison.png Graphic file (type bmp)
 <figures/chapter4/pulse_power-gain-comparison.png>
 
-Overfull \hbox (13.38202pt too wide) in paragraph at lines 632--634
+Overfull \hbox (13.38202pt too wide) in paragraph at lines 766--768
  [][] 
  []
 
@@ -578,45 +676,45 @@ File: figures/chapter4/M-S_power_comparison.png Graphic file (type bmp)
 File: figures/chapter4/TA_cuurent-gain_comparison.png Graphic file (type bmp)
 <figures/chapter4/TA_cuurent-gain_comparison.png>
 
-Overfull \hbox (15.33333pt too wide) in paragraph at lines 626--656
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 760--790
  [][][][] 
  []
 
 File: figures/chapter4/TA_power-current_3A_astro.png Graphic file (type bmp)
 <figures/chapter4/TA_power-current_3A_astro.png>
 
-Overfull \hbox (13.37982pt too wide) in paragraph at lines 668--670
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 802--804
  [][] 
  []
 
 File: figures/chapter4/890TPA_power_dependence_0117.png Graphic file (type bmp)
 <figures/chapter4/890TPA_power_dependence_0117.png>
 
-Overfull \hbox (13.37982pt too wide) in paragraph at lines 678--680
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 812--814
  [][] 
  []
 
 
-Overfull \hbox (15.33333pt too wide) in paragraph at lines 662--685
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 796--819
  [][][][] 
  []
 
-[31]
+[38]
 File: figures/chapter4/double-pass_I-Gain.png Graphic file (type bmp)
 <figures/chapter4/double-pass_I-Gain.png>
 File: figures/chapter4/double-pass-Slave-Spectrum.png Graphic file (type bmp)
 <figures/chapter4/double-pass-Slave-Spectrum.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 693--714
+Overfull \hbox (12.0pt too wide) in paragraph at lines 827--848
  [][][][] 
  []
 
 
-LaTeX Warning: Float too large for page by 14.27635pt on input line 714.
+LaTeX Warning: Float too large for page by 14.27635pt on input line 848.
 
-[32] [33]
+[39] [40]
 第6章
-(./nakanishi_bthesis.bbl) [34
+(./nakanishi_bthesis.bbl) [41
 
 ] (./nakanishi_bthesis.aux)
 
@@ -627,12 +725,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2988 strings out of 493270
- 45988 string characters out of 6145017
- 125486 words of memory out of 5000000
- 6864 multiletter control sequences out of 15000+600000
- 25719 words of font info for 115 fonts, out of 8000000 for 9000
+ 3019 strings out of 493270
+ 47314 string characters out of 6145017
+ 126486 words of memory out of 5000000
+ 6886 multiletter control sequences out of 15000+600000
+ 25937 words of font info for 117 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  36i,19n,39p,1414b,617s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on nakanishi_bthesis.dvi (35 pages, 82760 bytes).
+Output written on nakanishi_bthesis.dvi (42 pages, 97872 bytes).

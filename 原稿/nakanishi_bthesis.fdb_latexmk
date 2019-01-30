@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex nakanishi_bthesis"] 1548830550 "nakanishi_bthesis.aux" "nakanishi_bthesis.bbl" "nakanishi_bthesis" 1548830724
+["bibtex nakanishi_bthesis"] 1548831667 "nakanishi_bthesis.aux" "nakanishi_bthesis.bbl" "nakanishi_bthesis" 1548831692
   "jplain.bst" 0 -1 0 ""
-  "nakanishi_bthesis.aux" 1548830706 12863 9b230267c74aaa9bbacb699c81830570 ""
+  "nakanishi_bthesis.aux" 1548831674 16489 abedcaa8d9aaae4526b2a9c8156057d7 ""
   "reference.bib" 1548692132 6566 c30922e92bfbbd37b6e8c50afed46b45 ""
   (generated)
   "nakanishi_bthesis.bbl"
   "nakanishi_bthesis.blg"
-["dvipdf"] 1548830706 "nakanishi_bthesis.dvi" "nakanishi_bthesis.pdf" "nakanishi_bthesis" 1548830724
-  "nakanishi_bthesis.dvi" 1548830706 82760 e46d0c006af966608a54bdaeab437a47 "latex"
+["dvipdf"] 1548831674 "nakanishi_bthesis.dvi" "nakanishi_bthesis.pdf" "nakanishi_bthesis" 1548831692
+  "nakanishi_bthesis.dvi" 1548831674 97872 03ddb042a619b60b3c9b599c57510cd6 "latex"
   (generated)
   "nakanishi_bthesis.pdf"
-["latex"] 1548830701 "nakanishi_bthesis.tex" "nakanishi_bthesis.dvi" "nakanishi_bthesis" 1548830724
+["latex"] 1548831668 "nakanishi_bthesis.tex" "nakanishi_bthesis.dvi" "nakanishi_bthesis" 1548831692
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1480098698 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1480098698 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -86,7 +86,14 @@
   "extractbb -B cropbox -O figures/chapter2/saturated_absorption_figure.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/chapter2/semicon_bands.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/chapter2/semicon_structure.png" 0 -1 0 ""
-  "extractbb -B cropbox -O figures/chapter3/2color_excitation_rate_astro.png" 0 -1 0 ""
+  "extractbb -B cropbox -O figures/chapter3/1photon-sc-rate-2dcolor_120MHz_log.png" 0 -1 0 ""
+  "extractbb -B cropbox -O figures/chapter3/1photon-sc-rate-2dcolor_16GHz_log.png" 0 -1 0 ""
+  "extractbb -B cropbox -O figures/chapter3/2dcolor/5THz-120MHz-02GHz_new.png" 0 -1 0 ""
+  "extractbb -B cropbox -O figures/chapter3/2dcolor/5THz-120MHz-04GHz_new.png" 0 -1 0 ""
+  "extractbb -B cropbox -O figures/chapter3/2dcolor/5THz-16GHz-04GHz_new.png" 0 -1 0 ""
+  "extractbb -B cropbox -O figures/chapter3/2dcolor/5THz-16GHz-08GHz_new.png" 0 -1 0 ""
+  "extractbb -B cropbox -O figures/chapter3/degenerated_2_photon_excitation_rate-P.png" 0 -1 0 ""
+  "extractbb -B cropbox -O figures/chapter3/necessary_excitation_rate.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/chapter4/760_amp_diagram.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/chapter4/760_astro_amp_diagram.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/chapter4/890TPA_power_dependence_0117.png" 0 -1 0 ""
@@ -119,7 +126,14 @@
   "figures/chapter2/saturated_absorption_figure.png" 1548387725 3190965 85f8ebf18303f329694e953fe70d336f ""
   "figures/chapter2/semicon_bands.png" 1547898254 137532 9256921fea35324bda30bbe7dabc2081 ""
   "figures/chapter2/semicon_structure.png" 1547898774 94447 c786c1c5d7deee38789a5cb5f6c27b7b ""
-  "figures/chapter3/2color_excitation_rate_astro.png" 1548495658 14466 9542b549ef315d4ae2b1f13d45920438 ""
+  "figures/chapter3/1photon-sc-rate-2dcolor_120MHz_log.png" 1548779283 38609 df6e54843cda80d052cb104e3c16e9ed ""
+  "figures/chapter3/1photon-sc-rate-2dcolor_16GHz_log.png" 1548779418 55249 ce995b667b48becea16626e351199a72 ""
+  "figures/chapter3/2dcolor/5THz-120MHz-02GHz_new.png" 1548784453 24714 b0089d212be15a9b5d95596ce722e7fb ""
+  "figures/chapter3/2dcolor/5THz-120MHz-04GHz_new.png" 1548784618 28517 eed04e7cace55a70733b1ead4f9f97d5 ""
+  "figures/chapter3/2dcolor/5THz-16GHz-04GHz_new.png" 1548784394 23469 7632a7cc01ecc7dea91686907fc050fd ""
+  "figures/chapter3/2dcolor/5THz-16GHz-08GHz_new.png" 1548783956 28353 f0a405d0d1065610341e6bdddd62f340 ""
+  "figures/chapter3/degenerated_2_photon_excitation_rate-P.png" 1548670641 12985 9e8c8a6ba643da58edf29359a7e894bf ""
+  "figures/chapter3/necessary_excitation_rate.png" 1548671230 14469 936d80410d346276d1a108716ef0e4e2 ""
   "figures/chapter4/760_amp_diagram.png" 1548299173 130791 b605d412d55ed5ed1b12c62f0687409d ""
   "figures/chapter4/760_astro_amp_diagram.png" 1548300022 86638 6542d0150f0daca3724c5d20b83bcd97 ""
   "figures/chapter4/890TPA_power_dependence_0117.png" 1547723197 8982 1687646a9e9061409497b5f9e05a0c5c ""
@@ -144,12 +158,12 @@
   "figures/saturated-absorption/error_signal_main_all-structure.png" 1548386178 15688 fec30454a3849e072e586dc2b764504b ""
   "figures/saturated-absorption/main-locking-error.png" 1548626669 70845 10d8f363e630b9d8d49e961d03ac8c1d ""
   "figures/saturated-absorption/repump_diagram.png" 1548652280 64625 1057cd5ac7d1b90246e8efda61644639 ""
-  "nakanishi_bthesis.aux" 1548830706 12863 9b230267c74aaa9bbacb699c81830570 ""
-  "nakanishi_bthesis.bbl" 1548830550 0 d41d8cd98f00b204e9800998ecf8427e "bibtex nakanishi_bthesis"
-  "nakanishi_bthesis.tex" 1548830701 57264 45ea002bc6d7b1f8d43bfab5f9c03a66 ""
-  "nakanishi_bthesis.toc" 1548830706 3693 74ebac797f5849bea6b068def382a939 ""
+  "nakanishi_bthesis.aux" 1548831674 16489 abedcaa8d9aaae4526b2a9c8156057d7 ""
+  "nakanishi_bthesis.bbl" 1548831668 0 d41d8cd98f00b204e9800998ecf8427e "bibtex nakanishi_bthesis"
+  "nakanishi_bthesis.tex" 1548831661 69882 ad3404eedce616bbd0072c8c947e2618 ""
+  "nakanishi_bthesis.toc" 1548831674 4213 0c2c31caa3c7dc27bd455796a180da26 ""
   (generated)
   "nakanishi_bthesis.dvi"
-  "nakanishi_bthesis.aux"
   "nakanishi_bthesis.toc"
   "nakanishi_bthesis.log"
+  "nakanishi_bthesis.aux"

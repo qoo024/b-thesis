@@ -148,8 +148,29 @@ INPUT figures/chapter2/semicon_bands.png
 INPUT extractbb -B cropbox -O figures/chapter2/semicon_bands.png
 INPUT figures/chapter2/TA_structure.png
 INPUT extractbb -B cropbox -O figures/chapter2/TA_structure.png
-INPUT figures/chapter3/2color_excitation_rate_astro.png
-INPUT extractbb -B cropbox -O figures/chapter3/2color_excitation_rate_astro.png
+INPUT figures/chapter3/necessary_excitation_rate.png
+INPUT extractbb -B cropbox -O figures/chapter3/necessary_excitation_rate.png
+INPUT figures/chapter3/degenerated_2_photon_excitation_rate-P.png
+INPUT extractbb -B cropbox -O figures/chapter3/degenerated_2_photon_excitation_rate-P.png
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT figures/chapter3/1photon-sc-rate-2dcolor_120MHz_log.png
+INPUT extractbb -B cropbox -O figures/chapter3/1photon-sc-rate-2dcolor_120MHz_log.png
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib9.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy9.tfm
+INPUT figures/chapter3/1photon-sc-rate-2dcolor_16GHz_log.png
+INPUT extractbb -B cropbox -O figures/chapter3/1photon-sc-rate-2dcolor_16GHz_log.png
+INPUT figures/chapter3/2dcolor/5THz-120MHz-02GHz_new.png
+INPUT extractbb -B cropbox -O figures/chapter3/2dcolor/5THz-120MHz-02GHz_new.png
+INPUT figures/chapter3/2dcolor/5THz-120MHz-04GHz_new.png
+INPUT extractbb -B cropbox -O figures/chapter3/2dcolor/5THz-120MHz-04GHz_new.png
+INPUT figures/chapter3/2dcolor/5THz-16GHz-04GHz_new.png
+INPUT extractbb -B cropbox -O figures/chapter3/2dcolor/5THz-16GHz-04GHz_new.png
+INPUT figures/chapter3/2dcolor/5THz-16GHz-08GHz_new.png
+INPUT extractbb -B cropbox -O figures/chapter3/2dcolor/5THz-16GHz-08GHz_new.png
 INPUT figures/saturated-absorption/Cs_level_diagram_MOT.png
 INPUT extractbb -B cropbox -O figures/saturated-absorption/Cs_level_diagram_MOT.png
 INPUT figures/saturated-absorption/ECDL_diagram.png
@@ -176,11 +197,6 @@ INPUT figures/chapter4/TA_case.jpg
 INPUT extractbb -B cropbox -O figures/chapter4/TA_case.jpg
 INPUT figures/chapter4/760_amp_diagram.png
 INPUT extractbb -B cropbox -O figures/chapter4/760_amp_diagram.png
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib9.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy9.tfm
 INPUT figures/chapter4/760_astro_amp_diagram.png
 INPUT extractbb -B cropbox -O figures/chapter4/760_astro_amp_diagram.png
 INPUT figures/chapter4/890_astro_amp_diagram.png
