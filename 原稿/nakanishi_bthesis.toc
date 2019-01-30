@@ -31,18 +31,19 @@
 \contentsline {subsection}{\numberline {4.1.2}ECDLによる周波数の制御}{25}
 \contentsline {subsection}{\numberline {4.1.3}FMサイドバンドロック法}{25}
 \contentsline {subsection}{\numberline {4.1.4}今回の飽和吸収分光に用いる光学系}{26}
-\contentsline {section}{\numberline {4.2}測定結果}{27}
-\contentsline {subsection}{\numberline {4.2.1}メインレーザーのロック}{27}
-\contentsline {chapter}{\numberline {第5章}光周波数コムのテーパーアンプによる増幅実験}{30}
-\contentsline {section}{\numberline {5.1}光周波数コムのテーパーアンプによる増幅}{30}
-\contentsline {section}{\numberline {5.2}テーパーアンプのマウンターの組み立て}{31}
-\contentsline {section}{\numberline {5.3}増幅実験の測定手法}{33}
-\contentsline {subsection}{\numberline {5.3.1}繰り返し周波数の異なるコムでの増幅の比較}{33}
-\contentsline {subsection}{\numberline {5.3.2}自作のTAでの890nm付近のコムの増幅}{33}
-\contentsline {subsection}{\numberline {5.3.3}ダブルパスによる増幅}{34}
-\contentsline {section}{\numberline {5.4}測定結果}{36}
-\contentsline {subsection}{\numberline {5.4.1}アイソレータなしの場合のコムのスペクトルの変化}{36}
-\contentsline {subsection}{\numberline {5.4.2}繰り返し周波数の異なるコムの増幅}{37}
-\contentsline {subsection}{\numberline {5.4.3}繰り返し周波数$1.6$ GHzの$890$ nm付近のコムの増幅}{38}
-\contentsline {subsection}{\numberline {5.4.4}ダブルパスでの増幅}{38}
-\contentsline {chapter}{\numberline {第6章}まとめと展望}{41}
+\contentsline {section}{\numberline {4.2}測定結果}{26}
+\contentsline {subsection}{\numberline {4.2.1}レーザーのロック}{26}
+\contentsline {chapter}{\numberline {第5章}光周波数コムのテーパーアンプによる増幅実験}{31}
+\contentsline {section}{\numberline {5.1}光周波数コムのテーパーアンプによる増幅}{31}
+\contentsline {section}{\numberline {5.2}テーパーアンプのマウンターの組み立て}{32}
+\contentsline {section}{\numberline {5.3}増幅実験の測定手法}{34}
+\contentsline {subsection}{\numberline {5.3.1}繰り返し周波数の異なるコムでの増幅の比較}{34}
+\contentsline {subsection}{\numberline {5.3.2}自作のTAでの890nm付近のコムの増幅}{34}
+\contentsline {subsection}{\numberline {5.3.3}ダブルパスによる増幅}{35}
+\contentsline {section}{\numberline {5.4}測定結果}{37}
+\contentsline {subsection}{\numberline {5.4.1}アイソレータなしの場合のコムのスペクトルの変化}{37}
+\contentsline {subsection}{\numberline {5.4.2}繰り返し周波数の異なるコムの増幅}{38}
+\contentsline {subsection}{\numberline {5.4.3}繰り返し周波数$1.6$ GHzの$890$ nm付近のコムの増幅}{39}
+\contentsline {subsection}{\numberline {5.4.4}ダブルパスでの増幅}{39}
+\contentsline {chapter}{\numberline {第6章}まとめと展望}{42}
+\contentsline {chapter}{参考文献}{43}

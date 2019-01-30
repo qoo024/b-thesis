@@ -48,6 +48,10 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/here/here.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/here/here.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/comment/comment.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/comment/comment.sty
 INPUT nakanishi_bthesis.aux
@@ -140,8 +144,8 @@ INPUT figures/chapter2/MOT_zeeman_split.png
 INPUT extractbb -B cropbox -O figures/chapter2/MOT_zeeman_split.png
 INPUT figures/chapter2/saturated_absorption_figure.png
 INPUT extractbb -B cropbox -O figures/chapter2/saturated_absorption_figure.png
-INPUT figures/chapter2/PD_Signal_Main.png
-INPUT extractbb -B cropbox -O figures/chapter2/PD_Signal_Main.png
+INPUT figures/chapter2/PD_Signal_main.png
+INPUT extractbb -B cropbox -O figures/chapter2/PD_Signal_main.png
 INPUT figures/chapter2/semicon_structure.png
 INPUT extractbb -B cropbox -O figures/chapter2/semicon_structure.png
 INPUT figures/chapter2/semicon_bands.png

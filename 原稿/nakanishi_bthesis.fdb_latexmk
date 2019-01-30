@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex nakanishi_bthesis"] 1548831667 "nakanishi_bthesis.aux" "nakanishi_bthesis.bbl" "nakanishi_bthesis" 1548831692
+["bibtex nakanishi_bthesis"] 1548858000 "nakanishi_bthesis.aux" "nakanishi_bthesis.bbl" "nakanishi_bthesis" 1548858024
   "jplain.bst" 0 -1 0 ""
-  "nakanishi_bthesis.aux" 1548831674 16489 abedcaa8d9aaae4526b2a9c8156057d7 ""
+  "nakanishi_bthesis.aux" 1548858006 16480 4340e5142da77ef6e12ad63b5fae1260 ""
   "reference.bib" 1548692132 6566 c30922e92bfbbd37b6e8c50afed46b45 ""
   (generated)
-  "nakanishi_bthesis.bbl"
   "nakanishi_bthesis.blg"
-["dvipdf"] 1548831674 "nakanishi_bthesis.dvi" "nakanishi_bthesis.pdf" "nakanishi_bthesis" 1548831692
-  "nakanishi_bthesis.dvi" 1548831674 97872 03ddb042a619b60b3c9b599c57510cd6 "latex"
+  "nakanishi_bthesis.bbl"
+["dvipdf"] 1548858006 "nakanishi_bthesis.dvi" "nakanishi_bthesis.pdf" "nakanishi_bthesis" 1548858024
+  "nakanishi_bthesis.dvi" 1548858006 102020 0ce4b01ca69dac1dd151ff546ef2cbe8 "latex"
   (generated)
   "nakanishi_bthesis.pdf"
-["latex"] 1548831668 "nakanishi_bthesis.tex" "nakanishi_bthesis.dvi" "nakanishi_bthesis" 1548831692
+["latex"] 1548858000 "nakanishi_bthesis.tex" "nakanishi_bthesis.dvi" "nakanishi_bthesis" 1548858024
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1480098698 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1480098698 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -65,12 +65,14 @@
   "/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty" 1480098823 64866 1ea74c5f2d1685881497f021b8f186b2 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty" 1480098823 5038 413302044f9700cf65465d590c2f4ad1 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/comment/comment.sty" 1480098825 10197 204f75d5d8d88aa345a8c402e879e63b ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty" 1480098828 6749 16d2656a1984957e674b149555f1ea1d ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1480098830 1224 978390e9c2234eab29404bc21b268d1e ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/dvipdfmx.def" 1498427493 10299 c742d2190e924996d2f4e34b541cd5e3 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty" 1523134385 15272 5a97061616e0c8b2aa79c6615ff769f4 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty" 1523134385 9063 d0a305975932762117cd1f06a582f896 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty" 1523134385 2591 6404d0c7d28505fb38ce0d86c2e28ae7 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty" 1523134385 3977 cb9221976ed8a183afad65b59aa8629a ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/here/here.sty" 1480098831 439 d908692e0f19922874ccfe2bf35addc7 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/tools/bm.sty" 1523050425 12626 7d9d99d0bbe65f44cc0bb90f67262000 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/wrapfig/wrapfig.sty" 1480098843 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "/usr/local/texlive/2018/texmf-dist/tex/platex/jsclasses/jsbook.cls" 1520799791 61821 d6c5eab73dcfda983d7e8dc3166f96ae ""
@@ -81,7 +83,7 @@
   "extractbb -B cropbox -O figures/chapter2/MOT_circular_polarization.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/chapter2/MOT_magnetic_field.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/chapter2/MOT_zeeman_split.png" 0 -1 0 ""
-  "extractbb -B cropbox -O figures/chapter2/PD_Signal_Main.png" 0 -1 0 ""
+  "extractbb -B cropbox -O figures/chapter2/PD_Signal_main.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/chapter2/TA_structure.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/chapter2/saturated_absorption_figure.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/chapter2/semicon_bands.png" 0 -1 0 ""
@@ -121,7 +123,7 @@
   "figures/chapter2/MOT_circular_polarization.png" 1547452270 266004 7fa4a54e20228d04c8fe743f93580f35 ""
   "figures/chapter2/MOT_magnetic_field.png" 1547452258 217850 fb7fe6d11ba87021270d051d95de0bdf ""
   "figures/chapter2/MOT_zeeman_split.png" 1547452286 115100 567cf7dce16af5e8d427fd1a3d8259a9 ""
-  "figures/chapter2/PD_Signal_Main.png" 1548386059 14123 abc29e45d10c9512fcb584b29e6b21a6 ""
+  "figures/chapter2/PD_Signal_main.png" 1548386059 14123 abc29e45d10c9512fcb584b29e6b21a6 ""
   "figures/chapter2/TA_structure.png" 1548037081 152977 bf74a9ef6ce835b06e51f41ec9f21f2e ""
   "figures/chapter2/saturated_absorption_figure.png" 1548387725 3190965 85f8ebf18303f329694e953fe70d336f ""
   "figures/chapter2/semicon_bands.png" 1547898254 137532 9256921fea35324bda30bbe7dabc2081 ""
@@ -158,12 +160,12 @@
   "figures/saturated-absorption/error_signal_main_all-structure.png" 1548386178 15688 fec30454a3849e072e586dc2b764504b ""
   "figures/saturated-absorption/main-locking-error.png" 1548626669 70845 10d8f363e630b9d8d49e961d03ac8c1d ""
   "figures/saturated-absorption/repump_diagram.png" 1548652280 64625 1057cd5ac7d1b90246e8efda61644639 ""
-  "nakanishi_bthesis.aux" 1548831674 16489 abedcaa8d9aaae4526b2a9c8156057d7 ""
-  "nakanishi_bthesis.bbl" 1548831668 0 d41d8cd98f00b204e9800998ecf8427e "bibtex nakanishi_bthesis"
-  "nakanishi_bthesis.tex" 1548831661 69882 ad3404eedce616bbd0072c8c947e2618 ""
-  "nakanishi_bthesis.toc" 1548831674 4213 0c2c31caa3c7dc27bd455796a180da26 ""
+  "nakanishi_bthesis.aux" 1548858006 16480 4340e5142da77ef6e12ad63b5fae1260 ""
+  "nakanishi_bthesis.bbl" 1548858000 0 d41d8cd98f00b204e9800998ecf8427e "bibtex nakanishi_bthesis"
+  "nakanishi_bthesis.tex" 1548857993 73024 4e4ec1d20bd61ac7288ceb1a6457f35f ""
+  "nakanishi_bthesis.toc" 1548858006 4204 439f978ef5a26a14da8dee128b82724d ""
   (generated)
-  "nakanishi_bthesis.dvi"
-  "nakanishi_bthesis.toc"
   "nakanishi_bthesis.log"
+  "nakanishi_bthesis.dvi"
   "nakanishi_bthesis.aux"
+  "nakanishi_bthesis.toc"
