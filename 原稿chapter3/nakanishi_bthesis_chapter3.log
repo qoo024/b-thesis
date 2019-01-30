@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.8.0-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.11.12)  30 JAN 2019 00:27
+This is e-upTeX, Version 3.14159265-p3.8.0-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.11.12)  30 JAN 2019 15:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -165,61 +165,69 @@ Package caption Info: wrapfig package is loaded.
 Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
 \c@subfigure=\count107
 \c@subtable=\count108
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/here/here.sty) (/usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count109
+\float@exts=\toks22
+\float@box=\box45
+\@float@everytoks=\toks23
+\@floatcapt=\box46
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write3
  Excluding comment 'comment') (./nakanishi_bthesis_chapter3.aux)
 \openout1 = `nakanishi_bthesis_chapter3.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 15.9785pt on input line 16.
+(Font)              scaled to size 15.9785pt on input line 17.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 15.9785pt on input line 16.
+(Font)              scaled to size 15.9785pt on input line 17.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 16.
+(Font)              scaled to size 11.09619pt on input line 17.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 16.
+(Font)              scaled to size 11.09619pt on input line 17.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 5.5481pt on input line 16.
+(Font)              scaled to size 5.5481pt on input line 17.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 16.
+(Font)              scaled to size 11.09619pt on input line 17.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 7.39746pt on input line 16.
+(Font)              scaled to size 7.39746pt on input line 17.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 5.5481pt on input line 16.
+(Font)              scaled to size 5.5481pt on input line 17.
  [1
 
 
 ]
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 20.
+(Font)              scaled to size 9.24683pt on input line 21.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 20.
+(Font)              scaled to size 9.24683pt on input line 21.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 23.0061pt on input line 20.
+(Font)              scaled to size 23.0061pt on input line 21.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 23.0061pt on input line 20.
+(Font)              scaled to size 23.0061pt on input line 21.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 23.0061pt on input line 20.
+(Font)              scaled to size 23.0061pt on input line 21.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 23.0061pt on input line 20.
+(Font)              scaled to size 23.0061pt on input line 21.
  (./nakanishi_bthesis_chapter3.toc
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 (Font)              scaled to size 6.47278pt on input line 2.
@@ -238,137 +246,156 @@ LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 ]
 第1章
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 24.
+(Font)              scaled to size 19.17792pt on input line 25.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 24.
+(Font)              scaled to size 19.17792pt on input line 25.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 24.
+(Font)              scaled to size 19.17792pt on input line 25.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 24.
+(Font)              scaled to size 19.17792pt on input line 25.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 25.
+(Font)              scaled to size 13.31541pt on input line 26.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 25.
+(Font)              scaled to size 13.31541pt on input line 26.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 25.
+(Font)              scaled to size 13.31541pt on input line 26.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 25.
+(Font)              scaled to size 13.31541pt on input line 26.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 27.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 28.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 27.
+(Font)              scaled to size 9.24683pt on input line 28.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 27.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 28.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 27.
-
-LaTeX Warning: Citation `PhysRevA.73.063407' on page 2 undefined on input line 27.
-
+(Font)              scaled to size 9.24683pt on input line 28.
 
 LaTeX Warning: Citation `PhysRevA.73.063407' on page 2 undefined on input line 28.
 
 
-LaTeX Warning: Citation `PhysRevA.73.063407' on page 2 undefined on input line 28.
+LaTeX Warning: Citation `PhysRevA.73.063407' on page 2 undefined on input line 29.
 
 
-LaTeX Warning: Citation `PhysRevX.6.041004' on page 2 undefined on input line 32.
+LaTeX Warning: Citation `PhysRevA.73.063407' on page 2 undefined on input line 29.
+
+
+LaTeX Warning: Citation `PhysRevX.6.041004' on page 2 undefined on input line 33.
 
 [2
 
 ]
 
-LaTeX Warning: Citation `PhysRevX.6.041004' on page 3 undefined on input line 59.
+LaTeX Warning: Citation `PhysRevX.6.041004' on page 3 undefined on input line 60.
 
 
-LaTeX Warning: Citation `Cs_level_diagram' on page 3 undefined on input line 62.
+LaTeX Warning: Citation `Cs_level_diagram' on page 3 undefined on input line 63.
 
 [3]
 File: figures/chapter3/necessary_excitation_rate.png Graphic file (type bmp)
 <figures/chapter3/necessary_excitation_rate.png>
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 79.
+(Font)              scaled to size 8.32214pt on input line 80.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 79.
+(Font)              scaled to size 8.32214pt on input line 80.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <9> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 79.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 80.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 79.
+(Font)              scaled to size 8.32214pt on input line 80.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <9> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 79.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 80.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 79.
+(Font)              scaled to size 8.32214pt on input line 80.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 74--84
+Overfull \hbox (12.0pt too wide) in paragraph at lines 75--85
  [][][][] 
  []
 
 
-LaTeX Warning: Citation `PhysRevX.6.041004' on page 4 undefined on input line 86.
+LaTeX Warning: Citation `PhysRevX.6.041004' on page 4 undefined on input line 87.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 88.
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+[4]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 89.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 88.
- [4]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 89.
 
-LaTeX Warning: Citation `PhysRevX.6.041004' on page 5 undefined on input line 96.
+
+LaTeX Warning: Citation `PhysRevX.6.041004' on page 5 undefined on input line 97.
 
 [5]
 File: figures/chapter3/degenerated_2_photon_excitation_rate-P.png Graphic file (type bmp)
 <figures/chapter3/degenerated_2_photon_excitation_rate-P.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 141--150
+Overfull \hbox (12.0pt too wide) in paragraph at lines 142--151
  [][][][] 
  []
 
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 155.
 [6]
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 6.47278pt on input line 156.
+(Font)              scaled to size 6.47278pt on input line 159.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 4.62341pt on input line 156.
+(Font)              scaled to size 4.62341pt on input line 159.
 
 
-LaTeX Warning: Citation `ノーベル賞と分光学' on page 7 undefined on input line 166.
+LaTeX Warning: Citation `ノーベル賞と分光学' on page 7 undefined on input line 169.
 
 
-LaTeX Warning: Citation `CsDLine' on page 7 undefined on input line 166.
+LaTeX Warning: Citation `CsDLine' on page 7 undefined on input line 169.
 
-File: figures/chapter3/1photon-sc-rate-2dcolor_120MHz.png Graphic file (type bmp)
-<figures/chapter3/1photon-sc-rate-2dcolor_120MHz.png>
-File: figures/chapter3/1photon-sc-rate-2dcolor_16GHz.png Graphic file (type bmp)
-<figures/chapter3/1photon-sc-rate-2dcolor_16GHz.png>
+File: figures/chapter3/1photon-sc-rate-2dcolor_120MHz_log.png Graphic file (type bmp)
+<figures/chapter3/1photon-sc-rate-2dcolor_120MHz_log.png>
+File: figures/chapter3/1photon-sc-rate-2dcolor_16GHz_log.png Graphic file (type bmp)
+<figures/chapter3/1photon-sc-rate-2dcolor_16GHz_log.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 170--186
+Overfull \hbox (12.0pt too wide) in paragraph at lines 173--190
  [][][][] 
  []
 
 [7] [8]
-File: figures/chapter3/5THz-16GHz-2GHz_1W.png Graphic file (type bmp)
-<figures/chapter3/5THz-16GHz-2GHz_1W.png>
-File: figures/chapter3/5THz-16GHz-2GHz_200mW.png Graphic file (type bmp)
-<figures/chapter3/5THz-16GHz-2GHz_200mW.png>
+Overfull \vbox (17.27454pt too high) has occurred while \output is active []
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 192--210
+ [9] [10]
+File: figures/chapter3/2dcolor/5THz-120MHz-02GHz_new.png Graphic file (type bmp)
+<figures/chapter3/2dcolor/5THz-120MHz-02GHz_new.png>
+File: figures/chapter3/2dcolor/5THz-120MHz-04GHz_new.png Graphic file (type bmp)
+<figures/chapter3/2dcolor/5THz-120MHz-04GHz_new.png>
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 197--213
  [][][][] 
  []
 
-[9]
-File: figures/chapter3/2color_excitation_rate_astro.png Graphic file (type bmp)
-<figures/chapter3/2color_excitation_rate_astro.png>
- (./nakanishi_bthesis_chapter3.bbl) [10] (./nakanishi_bthesis_chapter3.aux)
+
+Overfull \vbox (4.97327pt too high) has occurred while \output is active []
+
+ [11]
+File: figures/chapter3/2dcolor/5THz-16GHz-04GHz_new.png Graphic file (type bmp)
+<figures/chapter3/2dcolor/5THz-16GHz-04GHz_new.png>
+File: figures/chapter3/2dcolor/5THz-16GHz-08GHz_new.png Graphic file (type bmp)
+<figures/chapter3/2dcolor/5THz-16GHz-08GHz_new.png>
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 217--234
+ [][][][] 
+ []
+
+
+Overfull \vbox (4.97327pt too high) has occurred while \output is active []
+
+ [12] Excluding 'comment' comment. (./nakanishi_bthesis_chapter3.bbl) (./nakanishi_bthesis_chapter3.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2877 strings out of 493270
- 42339 string characters out of 6145017
- 125486 words of memory out of 5000000
- 6785 multiletter control sequences out of 15000+600000
- 25521 words of font info for 115 fonts, out of 8000000 for 9000
+ 2939 strings out of 493270
+ 43496 string characters out of 6145017
+ 126486 words of memory out of 5000000
+ 6836 multiletter control sequences out of 15000+600000
+ 25937 words of font info for 117 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 36i,17n,39p,1041b,613s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,17n,39p,1415b,617s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on nakanishi_bthesis_chapter3.dvi (11 pages, 29880 bytes).
+Output written on nakanishi_bthesis_chapter3.dvi (13 pages, 32708 bytes).
