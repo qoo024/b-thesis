@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex nakanishi_bthesis_chapter3"] 1548829247 "nakanishi_bthesis_chapter3.aux" "nakanishi_bthesis_chapter3.bbl" "nakanishi_bthesis_chapter3" 1548829530
+["bibtex nakanishi_bthesis_chapter3"] 1548829247 "nakanishi_bthesis_chapter3.aux" "nakanishi_bthesis_chapter3.bbl" "nakanishi_bthesis_chapter3" 1548831147
   "jplain.bst" 0 -1 0 ""
-  "nakanishi_bthesis_chapter3.aux" 1548829529 4793 4dfed28ef8bc082179674b34031b3147 ""
+  "nakanishi_bthesis_chapter3.aux" 1548831145 4793 4dfed28ef8bc082179674b34031b3147 ""
   "reference.bib" 1548692132 6566 c30922e92bfbbd37b6e8c50afed46b45 ""
   (generated)
-  "nakanishi_bthesis_chapter3.blg"
   "nakanishi_bthesis_chapter3.bbl"
-["dvipdf"] 1548829529 "nakanishi_bthesis_chapter3.dvi" "nakanishi_bthesis_chapter3.pdf" "nakanishi_bthesis_chapter3" 1548829530
-  "nakanishi_bthesis_chapter3.dvi" 1548829529 32708 227cbc621e7289cf5bc70d97542beecc "latex"
+  "nakanishi_bthesis_chapter3.blg"
+["dvipdf"] 1548831145 "nakanishi_bthesis_chapter3.dvi" "nakanishi_bthesis_chapter3.pdf" "nakanishi_bthesis_chapter3" 1548831147
+  "nakanishi_bthesis_chapter3.dvi" 1548831145 32792 857c26d8633ce1103412e8fd8e0439cd "latex"
   (generated)
   "nakanishi_bthesis_chapter3.pdf"
-["latex"] 1548829527 "nakanishi_bthesis_chapter3.tex" "nakanishi_bthesis_chapter3.dvi" "nakanishi_bthesis_chapter3" 1548829530
+["latex"] 1548831143 "nakanishi_bthesis_chapter3.tex" "nakanishi_bthesis_chapter3.dvi" "nakanishi_bthesis_chapter3" 1548831147
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1480098698 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1480098698 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -96,12 +96,12 @@
   "figures/chapter3/2dcolor/5THz-16GHz-08GHz_new.png" 1548783956 28353 f0a405d0d1065610341e6bdddd62f340 ""
   "figures/chapter3/degenerated_2_photon_excitation_rate-P.png" 1548670641 12985 9e8c8a6ba643da58edf29359a7e894bf ""
   "figures/chapter3/necessary_excitation_rate.png" 1548671230 14469 936d80410d346276d1a108716ef0e4e2 ""
-  "nakanishi_bthesis_chapter3.aux" 1548829529 4793 4dfed28ef8bc082179674b34031b3147 ""
+  "nakanishi_bthesis_chapter3.aux" 1548831145 4793 4dfed28ef8bc082179674b34031b3147 ""
   "nakanishi_bthesis_chapter3.bbl" 1548829247 0 d41d8cd98f00b204e9800998ecf8427e "bibtex nakanishi_bthesis_chapter3"
-  "nakanishi_bthesis_chapter3.tex" 1548829527 24674 2af061fa4497c3028d6926aa008c3cf7 ""
-  "nakanishi_bthesis_chapter3.toc" 1548829529 899 82466aa670ea4fec4e8beeec48683bf6 ""
+  "nakanishi_bthesis_chapter3.tex" 1548831143 24718 fb1f272f801b8667dff6654f8406886d ""
+  "nakanishi_bthesis_chapter3.toc" 1548831145 899 82466aa670ea4fec4e8beeec48683bf6 ""
   (generated)
-  "nakanishi_bthesis_chapter3.dvi"
-  "nakanishi_bthesis_chapter3.toc"
   "nakanishi_bthesis_chapter3.aux"
+  "nakanishi_bthesis_chapter3.dvi"
   "nakanishi_bthesis_chapter3.log"
+  "nakanishi_bthesis_chapter3.toc"
