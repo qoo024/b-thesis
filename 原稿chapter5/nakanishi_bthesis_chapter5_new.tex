@@ -24,7 +24,7 @@
 \chapter{光周波数コムのテーパーアンプによる増幅実験}
 
 \section{光周波数コムのテーパーアンプによる増幅}
-　二光子励起の励起効率の式（\ref{ResonanceRabi}）, （\ref{ExcitationRate}）から分かる通り、励起効率はコムの強度の二乗に比例する。そのため、二光子のレーザー冷却を行うに当たり、高効率の二光子励起を実現するためには高強度のレーザーを用意することが非常に重要である。そのため今回の実験では、光周波数コムから得られた光をテーパーアンプ(Tapered Amplifier,  TA)を用いて増幅するという手段を用いる。しかし、通常TAはcwレーザーを増幅するために用いられるため、光周波数コムの増幅に用いた場合にどのような振る舞いを見せるかについての過去の研究は限られており、異なる繰り返し周波数に対してのTAの利得を調べた研究はまだない。今回の実験では繰り返し周波数の異なる光周波数コムに対してTAの増幅の様子を測定した。
+　第３章の議論から分かる通り、二色のコムによるCs原子の冷却を行うに当たり、数十から数百ミリワットのコムを$760$ nm付近と$894$ nm付近で用意する必要がある。しかし、現在当研究室が所有する光周波数コムから上記の周波数帯を切り出したときの、平均パワーは一ミリワット程度しかない。そのため今回の実験では、光周波数コムから得られた光をテーパーアンプ(Tapered Amplifier,  TA)を用いて増幅するという手段を用いる。しかし、通常TAはcwレーザーを増幅するために用いられるため、光周波数コムの増幅に用いた場合にどのような振る舞いを見せるかについての過去の研究は限られており、異なる繰り返し周波数に対してのTAの増幅の振る舞いを調べた研究はまだない。今回の実験では繰り返し周波数の異なる光周波数コムに対してTAの増幅の様子を測定した。
 
 \section{テーパーアンプの原理}
 今回の実験では光周波数コムの光をTAで増幅しているが, この節ではTAの原理について説明する.
@@ -94,11 +94,11 @@ TAは半導体で構成されており, その発光原理は半導体レーザ�
 \begin{figure}[htpb]
   \centering
     \begin{tabular}{c}
-      \begin{minipage}{0.5\hsize}
+      \begin{minipage}{1\hsize}
         \centering
-          \includegraphics[keepaspectratio,  scale=0.25,  angle=0]
+          \includegraphics[keepaspectratio,  scale=0.4,  angle=0]
                           {figures/chapter4/760_amp_diagram.png}
-                          \caption{繰り返し周波数$120$ MHzのコムの$766$ nm付近の光を増幅した際の光学系\\（アイソレータ有り）}
+                          \caption{繰り返し周波数$120$ MHzのコムの$766$ nm付近の光を増幅した際の光学系。まずアイソレータなしで測定し、その後アイソレータを設置して測定を行った。}
                           \label{760_amp_diagram}
       \end{minipage}
     \end{tabular}
@@ -112,22 +112,76 @@ TAは半導体で構成されており, その発光原理は半導体レーザ�
  \begin{center}
   \includegraphics[width=140mm]{figures/chapter4/spectrum_current_MODORI.png}
 \end{center}
- \caption{戻り光の影響によるコムのスペクトルのTAの印加電流依存性}
+ \caption{戻り光の影響によるコムのスペクトルのTAの印加電流依存性。$f_{\mathrm{rep}} = 120$ MHzのコムで$766$ nm付近の波長を増幅した時のコムの出力口から出た光の一部を測定した。}
  \label{spectrum_current_MODORI}
 \end{figure}
 \begin{figure}[H]
  \begin{center}
   \includegraphics[width=100mm]{figures/chapter4/comb-spectrum_no-return.png}
 \end{center}
- \caption{アイソレータ使用時のコムのスペクトル。TAの印加電流は$1617$ mAとした。}
+ \caption{アイソレータ使用時のコムのスペクトル。$f_{\mathrm{rep}} = 120$ MHzTAのコムで$766$ nm付近の波長を増幅し, 印加電流は$1617$ mAとした。コムの出力口から出た光の一部を計測した。}
  \label{spectrum_current_isolator}
 \end{figure}
+
+\subsubsection{TAの増幅の振る舞いの測定結果}
+　スレーブ光のパワーのマスター光のパワーによる変化は図\ref{766-M-S-power}のようになった。また、その際のスペクトルの変化は図\ref{766_slave-input-power}に示した。
+　また、スレーブ光のパワーとスペクトルのTAの印加電流による変化は図\ref{Gain-current-766,766_slave-current_spectrum}のようになった。
+\begin{figure}[htpb]
+  \centering
+    \begin{tabular}{c}
+
+      \begin{minipage}{0.50\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.45,  angle=0]
+                          {figures/chapter4/766-M-S-power.png}
+                          \caption{スレーブ光のパワーのマスター光のパワー依存性}
+                          \label{766-M-S-power}
+      \end{minipage}
+      \begin{minipage}{0.50\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
+                          {figures/chapter4/Gain-current-766.png}
+                          \caption{スレーブ光のパワーの印加電流依存性}
+                          \label{Gain-current-766}
+      \end{minipage}
+　  \end{tabular}
+\end{figure}
+
+\newpage
+\begin{figure}[H]
+  \centering
+    \begin{tabular}{c}
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.15,  angle=0]
+                          {figures/chapter4/766_slave-input-power.png}
+                          \caption{スレーブ光のスペクトルのマスター光のパワー依存性}
+                          \label{766_slave-input-power}
+      \end{minipage}
+  \end{tabular}
+\end{figure}
+
+\newpage
+\begin{figure}[H]
+  \centering
+    \begin{tabular}{c}
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.20,  angle=0]
+                          {figures/chapter4/766_slave-current_spectrum.png}
+                          \caption{スレーブ光のスペクトルの印加電流依存性}
+                          \label{766_slave-current_spectrum}
+      \end{minipage}
+
+  \end{tabular}
+\end{figure}
+\newpage
+
 
 
 
 \subsection{考察}
 \subsubsection{注入される電子数とレーザーの光子数による考察}
-
 $f_{\mathrm{rep}} = 120$ MHzのコムでは利得の飽和が観測されたが、二光子冷却の励起効率を考えたときに必要なスレーブ光のパワーが得られていない。そこで、TAによるコムの増幅において利得を上げるためにはどのような手法が必要となるのかを簡単なモデルを用いて原理的に考察を行う。\par
 図のような直方体のゲイン領域をもつ半導体の増幅素子を考える。この素子には電流$I$によってキャリアとホールが注入されており、これらの再結合によって光子を生成するメカニズムとなっている。このキャリアの再結合のプロセスにはマスター光による誘導放出に加えて自然放出や自然放出の光子による誘導放出など複数のものがあるが、これらを全てまとめた実効的なキャリアの寿命を$\tau$とする。このとき、キャリア密度$n_{\mathrm{c}}$の時間変化を表す微分方程式は
 \begin{equation}
@@ -194,9 +248,9 @@ $f_{\mathrm{rep}} = 120$ MHzの実験と同様にして、$f_{\mathrm{rep}} = 1.
 \begin{figure}[H]
   \centering
     \begin{tabular}{c}
-      \begin{minipage}{0.5\hsize}
+      \begin{minipage}{1\hsize}
         \centering
-          \includegraphics[keepaspectratio,  scale=0.25,  angle=0]
+          \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
           {figures/chapter4/760_astro_amp_diagram.png}
           \caption{繰り返し周波数$1.6$ GHzのコムの$766$ nm付近の光を増幅した際の光学系}
           \label{760_astro_amp_diagram}
@@ -205,6 +259,55 @@ $f_{\mathrm{rep}} = 120$ MHzの実験と同様にして、$f_{\mathrm{rep}} = 1.
 \end{figure}
 
 \subsection{測定結果}
+\begin{figure}[H]
+  \centering
+    \begin{tabular}{c}
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.7,  angle=0]
+                          {figures/chapter4/current-gain_astro766.png}
+                          \caption{スレーブ光のスペクトルのTAの印加電流依存性. $f_\mathrm{rep} = 1.6$ GHzのコムで$766$ nm付近の光をマスターとして使用した。}
+                          \label{current-gain_astro766}
+      \end{minipage}\\
+
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.7,  angle=0]
+                          {figures/chapter4/astro_seed_dependency760.png}
+                          \caption{スレーブ光のスペクトルのマスター光のパワー依存性. $f_\mathrm{rep} = 1.6$ GHzのコムで$766$ nm付近の光をマスターとして使用した。}
+                          \label{astro_seed_dependency760}
+      \end{minipage}
+
+  \end{tabular}
+\end{figure}
+\newpage
+\begin{figure}[H]
+  \centering
+    \begin{tabular}{c}
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.23,  angle=0]
+                          {figures/chapter4/760_slave-current_spectrum_astro.png}
+                          \caption{スレーブ光のスペクトルのTAの印加電流依存性. $f_\mathrm{rep} = 1.6$ GHzのコムで$766$ nm付近の光をマスターとして使用した。スペクトルの形状を比較するため、分光器の信号の最大値が全てのグラフで同じとなるように規格化を行った。}
+                          \label{760_slave-current_spectrum_astro}
+      \end{minipage}
+  \end{tabular}
+\end{figure}
+
+\newpage
+\begin{figure}[H]
+  \centering
+    \begin{tabular}{c}
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.15,  angle=0]
+                          {figures/chapter4/astro_TA_output_seed_dependency766.png}
+                          \caption{スレーブ光のスペクトルのマスター光のパワー依存性. $f_\mathrm{rep} = 1.6$ GHzのコムで$766$ nm付近の光をマスターとして使用した。スペクトルの形状を比較するため、分光器の信号の最大値が全てのグラフで同じとなるように規格化を行った。}
+                          \label{astro_TA_output_seed_dependency766}
+      \end{minipage}
+  \end{tabular}
+\end{figure}
+
 \subsection{繰り返し周波数$120$ MHzのコムの増幅実験との比較}
 図\ref{pulse_power-gain-comparison}は766nm側のコムを増幅した際の利得のパルスエネルギー依存性依存性を二つの繰り返し周波数に応じて比較したものである。繰り返し周波数$120 \mathrm{MHz}$の利得をみると、パルスエネルギーの増加に対して利得が低下していく様子がわかる。これは、各パルスに含まれる光子数に対して励起状態にあるキャリア数が足りておらずパルスエネルギーの増加に対して利得を保てていないと考えられる。それに対し、繰り返し周波数$1.6 \mathrm{GHz}$のコムの利得は$120$ MHzのコムの利得を下回っている。これはパルスの時間間隔が$630$ ps程度で短く、十分な反転分布が励起されていないことが原因ではないかと考えられる。\\
 　また、スレーブ光強度のマスター光強度依存性を二台のコムで比較すると図\ref{M-S_power-comparison}のようになる。同じマスター光強度で比較すると、繰り返し周波数が$1.6$ GHzのコムのスレーブ光強度が上回っていることがわかる。これは同じ光強度の場合、繰り返し周波数が$120$ MHzのコムでは繰り返し周波数が$1.6$ GHzのコムに比べ一つのパルスに含まれる光子数が多いが、TA内のキャリア数が少ないので誘導放出に使われない光子数が多くなってしまい光が増幅されないことが原因だと考えられる。一方、$1.6$ GHzのコムでは一パルスあたりの光子数が少ないため、無駄になる光子が少なく効率よく増幅することができると考えられる。
@@ -220,34 +323,35 @@ $f_{\mathrm{rep}} = 120$ MHzの実験と同様にして、$f_{\mathrm{rep}} = 1.
 
       \begin{minipage}{1\hsize}
         \centering
-          \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
+          \includegraphics[keepaspectratio,  scale=0.7,  angle=0]
                       {figures/chapter4/M-S_power_comparison.png}
-                      \caption{二台のコムにおけるスレーブ光強度のマスター光強度依存性の比較}
+                      \caption{二台のコムにおけるスレーブ光パワーのマスター光パワー依存性の比較}
                       \label{M-S_power-comparison}
       \end{minipage}\\
 
       \begin{minipage}{1\hsize}
         \centering
-          \includegraphics[keepaspectratio,  scale=0.30,  angle=0]
+          \includegraphics[keepaspectratio,  scale=0.25,  angle=0]
                           {figures/chapter4/pulse_power-gain-comparison_errorbar.png}
-                          \caption{二台のコムにおけるTAの利得のパルスエネルギー依存性の比較}
+                          \caption{二台のコムにおけるTAの利得のパルスエネルギー依存性の比較。エラーバーは測定時の有効数字の最終桁に起因する不確かさを示す。}
                           \label{pulse_power-gain-comparison}
       \end{minipage}
     \end{tabular}
 \end{figure}
+
 \newpage
-\begin{figure}[htpb]
-  \begin{tabular}
+\begin{figure}[H]
+  \centering
+    \begin{tabular}{c}
       \begin{minipage}{1\hsize}
         \centering
-          \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
-                          {figures/chapter4/TA_cuurent-gain_comparison.png}
-                          \caption{二台のコムにおけるTAの利得の印加電流依存性の比較}
-                          \label{TA_cuurent-gain_comparison}
+          \includegraphics[keepaspectratio,  scale=0.8,  angle=0]
+          {figures/chapter4/TA_cuurent-gain_comparison.png}
+          \caption{二台のコムにおけるTAの利得の印加電流依存性の比較}
+          \label{TA_cuurent-gain_comparison}
       \end{minipage}
     \end{tabular}
 \end{figure}
-
 \newpage
 \section{$890$ nm用テーパーアンプのチップマウンターの組み立て}
 　今回の実験では、Cs原子のレーザー冷却に必要なパワーを得るためにTAを用いた。光周波数コムのから$760 \mathrm{nm}$付近の波長と$890 \mathrm{nm}$付近の波長を切り出し増幅した。$890 \mathrm{nm}$側の増幅に用いるTAのチップのマウンターに関しては、設計と組み立てを行った。TAのチップはeagleyard社のEYP-TPA-0915-01500-3006-CMT03-0000を用いた。TAのチップの構造は図\ref{TA_chip_ds}のようになっている。\\
@@ -273,7 +377,6 @@ $f_{\mathrm{rep}} = 120$ MHzの実験と同様にして、$f_{\mathrm{rep}} = 1.
                           \caption{TAチップマウンターの概観}
                           \label{TA_mounter_photo_comments}
       \end{minipage}
-
 %----- TAチップマウンターの構造図 -----
 
       \begin{minipage}{0.50\hsize}
@@ -298,14 +401,14 @@ $f_{\mathrm{rep}} = 120$ MHzの実験と同様にして、$f_{\mathrm{rep}} = 1.
 
 \section{繰り返し周波数$1.6$ GHzのコムの$890$ nm付近の増幅}
 \subsection{測定手法}
-　自作したTAで繰り返し周波数が$1.6$ GHzのコムの、$890$ nmを中心波長とする幅$10$ nmのBPFを通過した光を増幅させ、マスター光とスレーブ光のパワーの測定を行った。その際の光学系は図\ref{890_astro_amp_diagram}に示した。
+　自作したTAで繰り返し周波数が$1.6$ GHzのコムの、$890$ nmを中心波長とする幅$10$ nmのBPFを通過した光を増幅させた。その際の光学系は図\ref{890_astro_amp_diagram}に示した。マスター光のパワーが一定の下でスレーブ光のパワーの電流依存性の測定を行った。また、TAの印加電流$1.95$ Aの下でスレーブ光のパワーのマスター光のパワーの依存性を測定した。測定の際にはTAのチップの温度が安定するように、マスター光のパワーが最大の点から測定を開始し、パワーを順に下げていくように測定を行った。
 
 \begin{figure}[H]
   \centering
     \begin{tabular}{c}
-      \begin{minipage}{0.5\hsize}
+      \begin{minipage}{1\hsize}
         \centering
-          \includegraphics[keepaspectratio,  scale=0.25,  angle=0]
+          \includegraphics[keepaspectratio,  scale=0.4,  angle=0]
           {figures/chapter4/890_astro_amp_diagram.png}
           \caption{繰り返し周波数$1.6$ GHzのコムの$890$ nm付近の光を増幅した際の光学系}
           \label{890_astro_amp_diagram}
@@ -326,7 +429,7 @@ $f_{\mathrm{rep}} = 120$ MHzの実験と同様にして、$f_{\mathrm{rep}} = 1.
         \centering
           \includegraphics[keepaspectratio,  scale=0.50,  angle=0]
                           {figures/chapter4/TA_power-current_3A_astro.png}
-                          \caption{890nm側の繰り返し周波数$1.6$ GHzでのTAのスレーブ光強度の電流依存性}
+                          \caption{890nm側の繰り返し周波数$1.6$ GHzでのTAのスレーブ光パワーの電流依存性}
                           \label{TA_power-current_3A_astro}
       \end{minipage}
 
@@ -336,7 +439,7 @@ $f_{\mathrm{rep}} = 120$ MHzの実験と同様にして、$f_{\mathrm{rep}} = 1.
         \centering
           \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
                           {figures/chapter4/890TPA_power_dependence_0117.png}
-                          \caption{890nm側の繰り返し周波数$1.6$ GHzでのTAのスレーブ光強度のマスター光強度依存性}
+                          \caption{890nm側の繰り返し周波数$1.6$ GHzでのTAのスレーブ光パワーのマスター光強度依存性}
                           \label{890TPA_power_dependence_0117}
       \end{minipage} \\
 
@@ -347,6 +450,7 @@ $f_{\mathrm{rep}} = 120$ MHzの実験と同様にして、$f_{\mathrm{rep}} = 1.
 \section{ダブルパスでの増幅実験}
 
 TAは通常ゲイン領域が細い方からマスター光を入射し、ゲイン領域の広い方からスレーブ光を出力するという使用法をする。しかし、通常の出力側からマスター光を入射し通常の入力側から出た光をミラーで打ち返し再度通常の入力側に光を入射させ、二度ゲイン領域を通過させ増幅するという手法がある。この光学系の配置をダブルパスといい、これに対して通常の配置をシングルパスと呼ぶことがある。ダブルパスでのcwレーザーのTAの増幅の振る舞いについては過去の研究\cite{doi:10.1063/1.3501966}があり、通常cw光でTAを飽和させるには数十ワットのマスター光が必要となるが、ダブルパスの場合だと$200 \mathrm{\mu W}$のマスター光で飽和させることが出来ることが分かっている。また、スペクトルの面でもキャリアの周波数的に幅の広い自然放出が抑えられることが分かっている。このように、ダブルパスによるメリットは多いが光周波数コムの増幅にダブルパスを用いている研究はまだない。そのため今回の実験では,繰り返し周波数$1.6$ GHzの$761$ nmから$771$ nmのコムをダブルパスにより増幅する実験を行った。
+
 
 \subsection{測定手法}
 
@@ -359,7 +463,7 @@ TAは通常ゲイン領域が細い方からマスター光を入射し、ゲイ
 \end{figure}
 
 \subsection{測定結果}
-ダブルパスでの増幅の様子を図\ref{double-pass_I-Gain},\ref{double-pass_I-Slave}に示す。図\ref{double-pass_I-Slave}で示されたスレーブ光のスペクトルをみると印加電流が$930$ mA以上ではスレーブ光がcw的に発振してしまっていることが分かる。これは、マスター光が$116 \mathrm{\mu W}$と小さなパワーしか用意することができなかったため、使用したTAのゲイン特性の偏りからゲインの高い波長で優先的に自然放出が起きてしまったものと考えられる。
+ダブルパスでの増幅の様子を図\ref{double-pass_I-Gain},\ref{double-pass_I-Slave}に示す。図\ref{double-pass_I-Slave}で示されたスレーブ光のスペクトルをみると印加電流が$930$ mA以上ではスレーブ光がcw的に発振してしまっていることが分かる。これは、マスター光が$116 \mathrm{\mu W}$と小さなパワーしか用意することができなかったため、使用したTAのゲイン特性の偏りからゲインの高い波長で優先的に自然放出の光が増幅されてしまったものが観測されたと考えられる。
 
 \newpage
 \begin{figure}[htpb]
@@ -369,14 +473,14 @@ TAは通常ゲイン領域が細い方からマスター光を入射し、ゲイ
         \centering
           \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
                           {figures/chapter4/double-pass_I-slavepower.png}
-                          \caption{ダブルパスでのスレーブ光強度の印加電流依存性}
+                          \caption{ダブルパスでのスレーブ光パワーの印加電流依存性。$f_{\mathrm{rep}} = 1.6$ GHzで$890$ nm付近を増幅した。シード光の平均パワーは$112\ \mu W$である。}
                           \label{double-pass_I-slavepower}
       \end{minipage}
       \begin{minipage}{0.50\hsize}
         \centering
           \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
                           {figures/chapter4/double-pass_I-Gain.png}
-                          \caption{ダブルパスでの利得の印加電流依存性}
+                          \caption{ダブルパスでの利得の印加電流依存性。測定条件は図\ref{double-pass_I-slavepower}と同じである。}
                           \label{double-pass_I-Gain}
       \end{minipage}\\
 
@@ -384,7 +488,7 @@ TAは通常ゲイン領域が細い方からマスター光を入射し、ゲイ
         \centering
           \includegraphics[keepaspectratio,  scale=0.340,  angle=0]
                           {figures/chapter4/double-pass-Slave-Spectrum.png}
-                          \caption{ダブルパスでの各印加電流におけるスレーブ光のスペクトル}
+                          \caption{ダブルパスでの各印加電流におけるスレーブ光のスペクトル。測定条件は図\ref{double-pass_I-slavepower}と同じである。}
                           \label{double-pass_I-Slave}
 
       \end{minipage}
@@ -392,17 +496,9 @@ TAは通常ゲイン領域が細い方からマスター光を入射し、ゲイ
 
     \end{tabular}
 \end{figure}
+\section{結論}
 
-
-
-
-
-
-
-
-
-
-
+今回の実験では$766$ nm付近の波長では~~mW、$890$ nm付近の波長では~~mWのパワーを得た。このパワーで二光子冷却の励起効率を見積もると~~であることが分かる。目標としていた$10000 \mathrm{s^{-1}}$には至らなかったが、
 
 \bibliography{reference}
 \end{document}
