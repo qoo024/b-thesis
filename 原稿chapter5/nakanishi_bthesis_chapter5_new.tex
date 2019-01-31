@@ -124,8 +124,9 @@ TAは半導体で構成されており, その発光原理は半導体レーザ�
 \end{figure}
 
 \subsubsection{TAの増幅の振る舞いの測定結果}
-　スレーブ光のパワーのマスター光のパワーによる変化は図\ref{766-M-S-power}のようになった。また、その際のスペクトルの変化は図\ref{766_slave-input-power}に示した。
-　また、スレーブ光のパワーとスペクトルのTAの印加電流による変化は図\ref{Gain-current-766,766_slave-current_spectrum}のようになった。
+　スレーブ光のパワーのマスター光のパワーによる変化は図\ref{766-M-S-power}のようになった。出力パワーからマスター光なしのときのパワーを自然放出のパワーとして差し引いた値をスレーブパワーとしている。これ以後の全ての実験でこの処理を行っている。また、その際のスペクトルの変化は図\ref{766_slave-input-power}に示した。また、スレーブ光のパワーとスペクトルのTAの印加電流による変化は図\ref{Gain-current-766,766_slave-current_spectrum}のようになった。\\
+　図\ref{766-M-S-power}を見るとスレーブパワーは$15$ mW程度で飽和している様子が分かる。また、図\ref{Gain-current-766}を見ると印加電流に対しては$1400$ mW程度からやや傾きが小さくなっており飽和に近づいていると推測される。
+　また、図\ref{766_slave-input-power}に示されたスレーブ光のスペクトルを見ると、マスターパワーが大きくなると出力のピーク付近の形状がややコムの波長分布を反映してピークが出るが、スペクトルの裾の部分の形状には大きな変化は見られないことがわかる。次にスレーブ光のスペクトルの電流依存性を示した図\ref{Gain-current-766}を見ると、やはりピーク付近のスペクトルの形状が電流が増えていくにしたがって、コムの形を反映したものになっていることがわかる。裾の部分の形状に大きな変化は見られない。
 \begin{figure}[htpb]
   \centering
     \begin{tabular}{c}
@@ -134,14 +135,14 @@ TAは半導体で構成されており, その発光原理は半導体レーザ�
         \centering
           \includegraphics[keepaspectratio,  scale=0.45,  angle=0]
                           {figures/chapter4/766-M-S-power.png}
-                          \caption{スレーブ光のパワーのマスター光のパワー依存性}
+                          \caption{スレーブ光のパワーのマスター光のパワー依存性。$f_{rep} = 120$ MHzで766nm付近の波長を増幅した。}
                           \label{766-M-S-power}
       \end{minipage}
       \begin{minipage}{0.50\hsize}
         \centering
           \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
                           {figures/chapter4/Gain-current-766.png}
-                          \caption{スレーブ光のパワーの印加電流依存性}
+                          \caption{スレーブ光のパワーの印加電流依存性。$f_{rep} = 120$ MHzで766nm付近の波長を増幅した。}
                           \label{Gain-current-766}
       \end{minipage}
 　  \end{tabular}
@@ -176,9 +177,6 @@ TAは半導体で構成されており, その発光原理は半導体レーザ�
   \end{tabular}
 \end{figure}
 \newpage
-
-
-
 
 \subsection{考察}
 \subsubsection{注入される電子数とレーザーの光子数による考察}
@@ -243,22 +241,38 @@ $n_0$は$1.5-3\times10^{18}\ \mathrm{cm^{-3}}$程度の値となることが知�
 
 \section{繰り返し周波数$1.6$ GHzのコムの$766$ nm付近の増幅}
 \subsection{測定手法}
-$f_{\mathrm{rep}} = 120$ MHzの実験と同様にして、$f_{\mathrm{rep}} = 1.6$ GHzのコムの、$766$ nmを中心波長とする幅$10$ nmのバンドパスフィルター(BPF)を通過した光をTAで増幅させ、マスター光とスレーブ光のパワーを測定した。その際に、BPF通過前のコムのスペクトルと、テーパーアンプの入り口と出口でのコムのスペクトルも測定を行った。その際の光学系は図\ref{760_astro_amp_diagram}に示している。一方で、$_{\mathrm{rep}} = 1.6$ GHzのコムの実験ではアイソレータを使用しなくても、TAからの戻り光がコムの共振器まで戻らずcw的な発振を起こさなかったため、アイソレータは使用しなかった。\\
+$f_{\mathrm{rep}} = 120$ MHzの実験と同様にして、$f_{\mathrm{rep}} = 1.6$ GHzのコムの、$766$ nmを中心波長とする幅$10$ nmのバンドパスフィルター(BPF)を通過した光をTAで増幅させ、マスター光とスレーブ光のパワーを測定した。その際に、BPF通過前のコムのスペクトルと、テーパーアンプの入り口と出口でのコムのスペクトルも測定を行った。その際の光学系は図\ref{astro_amp_diagram_isolator}, \ref{760_astro_amp_diagram}に示している。TAによる増幅のマスターパワー依存性の計測時には図\ref{astro_amp_diagram_isolator}のようにアイソレータを使用した。一方で、$_{\mathrm{rep}} = 1.6$
+ GHzのコムの実験ではアイソレータを使用しなくても、TAからの戻り光がコムの共振器まで戻らずcw的な発振を起こさなかったため、TAによる増幅の電流依存性の測定時にはアイソレータは使用しなかった。\\
 
 \begin{figure}[H]
   \centering
     \begin{tabular}{c}
       \begin{minipage}{1\hsize}
         \centering
-          \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
+          \includegraphics[keepaspectratio,  scale=0.35,  angle=0]
+          {figures/chapter4/astro_amp_diagram_isolator.png}
+          \caption{繰り返し周波数$1.6$ GHzのコムの$766$ nm付近の光を増幅し、TAによる利得の印加電流依存性を測定した際の光学系。}
+          \label{astro_amp_diagram_isolator}
+      \end{minipage}
+    \end{tabular}
+\end{figure}
+\begin{figure}[H]
+  \centering
+    \begin{tabular}{c}
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.35,  angle=0]
           {figures/chapter4/760_astro_amp_diagram.png}
-          \caption{繰り返し周波数$1.6$ GHzのコムの$766$ nm付近の光を増幅した際の光学系}
+          \caption{繰り返し周波数$1.6$ GHzのコムの$766$ nm付近の光を増幅し、スレーブパワーのマスターパワー依存性を測定した際の光学系。}
           \label{760_astro_amp_diagram}
       \end{minipage}
     \end{tabular}
 \end{figure}
 
 \subsection{測定結果}
+TAによる利得の印加電流依存性については、図\ref{current-gain_astro766}のようなデータが得られた。$900$ mA付近と$1200$ mA付近で利得に滑らかでない揺らぎが見られるが、これは測定時にコムの共振器の状態があまり良くなく、マスターパワーが低下してしまったことが原因だと考えられる。\\
+（エラーバーを追加）\\
+（マスターパワー依存性についてもエラーバーを追加）
 \begin{figure}[H]
   \centering
     \begin{tabular}{c}
@@ -266,7 +280,7 @@ $f_{\mathrm{rep}} = 120$ MHzの実験と同様にして、$f_{\mathrm{rep}} = 1.
         \centering
           \includegraphics[keepaspectratio,  scale=0.7,  angle=0]
                           {figures/chapter4/current-gain_astro766.png}
-                          \caption{スレーブ光のスペクトルのTAの印加電流依存性. $f_\mathrm{rep} = 1.6$ GHzのコムで$766$ nm付近の光をマスターとして使用した。}
+                          \caption{TAによる利得の印加電流依存性. $f_\mathrm{rep} = 1.6$ GHzのコムで$766$ nm付近の光をマスターとして使用した。}
                           \label{current-gain_astro766}
       \end{minipage}\\
 
@@ -274,7 +288,7 @@ $f_{\mathrm{rep}} = 120$ MHzの実験と同様にして、$f_{\mathrm{rep}} = 1.
         \centering
           \includegraphics[keepaspectratio,  scale=0.7,  angle=0]
                           {figures/chapter4/astro_seed_dependency760.png}
-                          \caption{スレーブ光のスペクトルのマスター光のパワー依存性. $f_\mathrm{rep} = 1.6$ GHzのコムで$766$ nm付近の光をマスターとして使用した。}
+                          \caption{スレーブパワーのマスターパワー依存性. $f_\mathrm{rep} = 1.6$ GHzのコムで$766$ nm付近の光をマスターとして使用した。}
                           \label{astro_seed_dependency760}
       \end{minipage}
 
@@ -309,8 +323,9 @@ $f_{\mathrm{rep}} = 120$ MHzの実験と同様にして、$f_{\mathrm{rep}} = 1.
 \end{figure}
 
 \subsection{繰り返し周波数$120$ MHzのコムの増幅実験との比較}
-図\ref{pulse_power-gain-comparison}は766nm側のコムを増幅した際の利得のパルスエネルギー依存性依存性を二つの繰り返し周波数に応じて比較したものである。繰り返し周波数$120 \mathrm{MHz}$の利得をみると、パルスエネルギーの増加に対して利得が低下していく様子がわかる。これは、各パルスに含まれる光子数に対して励起状態にあるキャリア数が足りておらずパルスエネルギーの増加に対して利得を保てていないと考えられる。それに対し、繰り返し周波数$1.6 \mathrm{GHz}$のコムの利得は$120$ MHzのコムの利得を下回っている。これはパルスの時間間隔が$630$ ps程度で短く、十分な反転分布が励起されていないことが原因ではないかと考えられる。\\
-　また、スレーブ光強度のマスター光強度依存性を二台のコムで比較すると図\ref{M-S_power-comparison}のようになる。同じマスター光強度で比較すると、繰り返し周波数が$1.6$ GHzのコムのスレーブ光強度が上回っていることがわかる。これは同じ光強度の場合、繰り返し周波数が$120$ MHzのコムでは繰り返し周波数が$1.6$ GHzのコムに比べ一つのパルスに含まれる光子数が多いが、TA内のキャリア数が少ないので誘導放出に使われない光子数が多くなってしまい光が増幅されないことが原因だと考えられる。一方、$1.6$ GHzのコムでは一パルスあたりの光子数が少ないため、無駄になる光子が少なく効率よく増幅することができると考えられる。
+　スレーブ光強度のマスター光強度依存性を二台のコムで比較すると図\ref{M-S_power-comparison}のようになる。同じマスター光強度で比較すると、繰り返し周波数が$1.6$ GHzのコムのスレーブ光強度が上回っていることがわかる。これは同じ光強度の場合、繰り返し周波数が$120$ MHzのコムでは繰り返し周波数が$1.6$ GHzのコムに比べ一つのパルスに含まれる光子数が多いが、TA内のキャリア数が少ないので誘導放出に使われない光子数が多くなってしまい光が増幅されないことが原因だと考えられる。一方、$1.6$ GHzのコムでは一パルスあたりの光子数が少ないため、無駄になる光子が少なく効率よく増幅することができると考えられる。\\
+　図\ref{pulse_power-gain-comparison}は766nm側のコムを増幅した際の利得のパルスエネルギー依存性依存性を二つの繰り返し周波数に応じて比較したものである。繰り返し周波数$120 \mathrm{MHz}$の利得をみると、パルスエネルギーの増加に対して利得が低下していく様子がわかる。これは、各パルスに含まれる光子数に対して励起状態にあるキャリア数が足りておらずパルスエネルギーの増加に対して利得を保てていないことを表していると考えられる。それに対し、繰り返し周波数$1.6 \mathrm{GHz}$のコムの利得は$120$ MHzのコムの利得を下回っている。これはパルスの時間間隔が$630$ ps程度で短く、十分な反転分布が励起されていないことが原因ではないかと考えられる。\\
+　また、二台のコムにおける利得の印加電流依存性を比較すると、図\ref{TA_cuurent-gain_comparison}のようなグラフが得られる。繰り返し周波数の高い$f_\mathrm{rep} = 1.6$ GHzのコムは同じ平均パワーの$f_\mathrm{rep} = 120$ MHzよりも高い利得を得ていることが分かる。前述のような理由からであると考えられる。
 
 \begin{figure}[htpb]
   \centering
@@ -498,7 +513,7 @@ TAは通常ゲイン領域が細い方からマスター光を入射し、ゲイ
 \end{figure}
 \section{結論}
 
-今回の実験では$766$ nm付近の波長では~~mW、$890$ nm付近の波長では~~mWのパワーを得た。このパワーで二光子冷却の励起効率を見積もると~~であることが分かる。目標としていた$10000 \mathrm{s^{-1}}$には至らなかったが、
+今回の実験では$766$ nm付近の波長では$35$mW、$890$ nm付近の波長では$70$ mWのパワーを得た。このパワーで二光子冷却の励起効率を見積もると~~であることが分かる。
 
 \bibliography{reference}
 \end{document}

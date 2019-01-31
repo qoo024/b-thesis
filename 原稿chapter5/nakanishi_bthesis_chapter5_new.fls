@@ -167,6 +167,8 @@ INPUT figures/chapter4/766_slave-current_spectrum.png
 INPUT extractbb -B cropbox -O figures/chapter4/766_slave-current_spectrum.png
 INPUT figures/chapter4/carrier_saturation.png
 INPUT extractbb -B cropbox -O figures/chapter4/carrier_saturation.png
+INPUT figures/chapter4/astro_amp_diagram_isolator.png
+INPUT extractbb -B cropbox -O figures/chapter4/astro_amp_diagram_isolator.png
 INPUT figures/chapter4/760_astro_amp_diagram.png
 INPUT extractbb -B cropbox -O figures/chapter4/760_astro_amp_diagram.png
 INPUT figures/chapter4/current-gain_astro766.png

@@ -14,12 +14,12 @@
 \contentsline {section}{\numberline {1.4}繰り返し周波数$1.6$ GHzのコムの$766$ nm付近の増幅}{12}
 \contentsline {subsection}{\numberline {1.4.1}測定手法}{12}
 \contentsline {subsection}{\numberline {1.4.2}測定結果}{13}
-\contentsline {subsection}{\numberline {1.4.3}繰り返し周波数$120$ MHzのコムの増幅実験との比較}{16}
-\contentsline {section}{\numberline {1.5}$890$ nm用テーパーアンプのチップマウンターの組み立て}{19}
-\contentsline {section}{\numberline {1.6}繰り返し周波数$1.6$ GHzのコムの$890$ nm付近の増幅}{20}
-\contentsline {subsection}{\numberline {1.6.1}測定手法}{20}
-\contentsline {subsection}{\numberline {1.6.2}測定結果}{21}
-\contentsline {section}{\numberline {1.7}ダブルパスでの増幅実験}{22}
-\contentsline {subsection}{\numberline {1.7.1}測定手法}{22}
-\contentsline {subsection}{\numberline {1.7.2}測定結果}{23}
-\contentsline {section}{\numberline {1.8}結論}{24}
+\contentsline {subsection}{\numberline {1.4.3}繰り返し周波数$120$ MHzのコムの増幅実験との比較}{17}
+\contentsline {section}{\numberline {1.5}$890$ nm用テーパーアンプのチップマウンターの組み立て}{20}
+\contentsline {section}{\numberline {1.6}繰り返し周波数$1.6$ GHzのコムの$890$ nm付近の増幅}{21}
+\contentsline {subsection}{\numberline {1.6.1}測定手法}{21}
+\contentsline {subsection}{\numberline {1.6.2}測定結果}{22}
+\contentsline {section}{\numberline {1.7}ダブルパスでの増幅実験}{23}
+\contentsline {subsection}{\numberline {1.7.1}測定手法}{23}
+\contentsline {subsection}{\numberline {1.7.2}測定結果}{24}
+\contentsline {section}{\numberline {1.8}結論}{25}
