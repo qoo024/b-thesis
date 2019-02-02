@@ -10,9 +10,10 @@
 \captionsetup{compatibility=false}
 
 \bibliographystyle{junsrt}
-\title{二色の光周波数コムによるレーザー冷却法の開拓}
-\author{物理工学科４年　中西亮}
-\date{2018/11/19}
+
+\title{\fontsize{23pt}{0pt}\selectfont 卒業論文 \vspace{2cm}\\ 二色の光周波数コムによる\vspace{4mm}\\ レーザー冷却法の開拓 \vspace{3cm}\\ \fontsize{18pt}{0pt}\selectfont 指導教員\ \ \ \ \ 吉岡孝高\ \ 准教授 \vspace{4cm}\\ \fontsize{18pt}{0pt}\selectfont  平成31年2月提出 \vspace{2cm} \\ \fontsize{18pt}{0pt}\selectfont 東京大学工学部物理工学科 \vspace{3mm} \\ 03-170579\ \ \ 中西亮}
+\date{}
+
 \begin{document}
 \maketitle
 \newpage
@@ -176,6 +177,44 @@ TAは半導体で構成されており, その発光原理は半導体レーザ�
 
   \end{tabular}
 \end{figure}
+
+\newpage
+
+\begin{figure}[H]
+  \centering
+    \begin{tabular}{c}
+
+      \begin{minipage}{0.5\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
+                          {figures/chapter4/120-power-comb.png}
+                          \caption{スレーブパワーのマスターパワー依存性測定時のコムのスペクトル。$f_{rep} = 120$ MHz。}
+                          \label{120-power-comb}
+      \end{minipage}
+      \begin{minipage}{0.5\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
+                          {figures/chapter4/120-power_Master.png}
+                          \caption{スレーブパワーのマスターパワー依存性測定時のマスター光のスペクトル。$f_{rep} = 120$ MHz。}
+                          \label{120-power_Master}
+      \end{minipage}\\
+
+      \begin{minipage}{0.5\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
+                          {figures/chapter4/120-current-comb.png}
+                          \caption{スレーブ光のパワーの印加電流依存性測定時のコムのスペクトル。$f_{rep} = 120$ MHz。}
+                          \label{120-current-comb}
+      \end{minipage}
+      \begin{minipage}{0.5\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
+                          {figures/chapter4/120-current-766_Master.png}
+                          \caption{スレーブ光のパワーの印加電流依存性測定時のマスター光のスペクトル。$f_{rep} = 120$ MHz。}
+                          \label{120-current-766_Master}
+      \end{minipage}\\
+　  \end{tabular}
+\end{figure}
 \newpage
 
 \subsection{考察}
@@ -321,6 +360,46 @@ $f_{\mathrm{rep}} = 120$ MHzの実験と同様にして、$f_{\mathrm{rep}} = 1.
   \end{tabular}
 \end{figure}
 
+\newpage
+
+\begin{figure}[H]
+  \centering
+    \begin{tabular}{c}
+
+      \begin{minipage}{0.5\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
+                          {figures/chapter4/astro-power-766_Comb.png}
+                          \caption{スレーブパワーのマスターパワー依存性測定時のコムのスペクトル。$f_{rep} = 1.6$ GHz。}
+                          \label{astro-power-766_Comb}
+      \end{minipage}
+      \begin{minipage}{0.5\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
+                          {figures/chapter4/astro-power-766_master.png}
+                          \caption{スレーブパワーのマスターパワー依存性測定時のマスター光のスペクトル。$f_{rep} = 1.6$ GHz。}
+                          \label{astro-power-766_master}
+      \end{minipage}\\
+
+      \begin{minipage}{0.5\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
+                          {figures/chapter4/astro-current-766_Comb.png}
+                          \caption{スレーブ光のパワーの印加電流依存性測定時のコムのスペクトル。コムの帯域はフォトニック結晶ファイバーによって拡げられている。$f_{rep} = 1.6$ GHz。}
+                          \label{astro-current-766_Comb}
+      \end{minipage}
+      \begin{minipage}{0.5\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
+                          {figures/chapter4/astro-current-766_master.png}
+                          \caption{スレーブ光のパワーの印加電流依存性測定時のマスター光のスペクトル。コムの帯域はフォトニック結晶ファイバーによって拡げられている。$f_{rep} = 1.6$ GHz。}
+                          \label{astro-current-766_master}
+      \end{minipage}\\
+　  \end{tabular}
+\end{figure}
+
+
+\newpage
 \subsection{繰り返し周波数$120$ MHzのコムの増幅実験との比較}
 　スレーブ光強度のマスター光強度依存性を二台のコムで比較すると図\ref{M-S_power-comparison}のようになる。同じマスター光強度で比較すると、繰り返し周波数が$1.6$ GHzのコムのスレーブ光強度が上回っていることがわかる。これは同じ光強度の場合、繰り返し周波数が$120$ MHzのコムでは繰り返し周波数が$1.6$ GHzのコムに比べ一つのパルスに含まれる光子数が多いが、TA内のキャリア数が少ないので誘導放出に使われない光子数が多くなってしまい光が増幅されないことが原因だと考えられる。一方、$1.6$ GHzのコムでは一パルスあたりの光子数が少ないため、無駄になる光子が少なく効率よく増幅することができると考えられる。\\
 　図\ref{pulse_power-gain-comparison}は766nm側のコムを増幅した際の利得のパルスエネルギー依存性依存性を二つの繰り返し周波数に応じて比較したものである。繰り返し周波数$120 \mathrm{MHz}$の利得をみると、パルスエネルギーの増加に対して利得が低下していく様子がわかる。これは、各パルスに含まれる光子数に対して励起状態にあるキャリア数が足りておらずパルスエネルギーの増加に対して利得を保てていないことを表していると考えられる。それに対し、繰り返し周波数$1.6 \mathrm{GHz}$のコムの利得は$120$ MHzのコムの利得を下回っている。これはパルスの時間間隔が$630$ ps程度で短く、十分な反転分布が励起されていないことが原因ではないかと考えられる。ただ、$f_\mathrm{rep} = 120MHz$で測定されたマスター光の最小の平均パワーは$10.5 \mathrm{\mu W}$であるのに対して、このときのスレーブ光の平均パワーは$0.9$ mWとなっている。スレーブ光の平均パワーに対してマスター光の平均パワーが小さいため、利得はスレーブ光の平均パワーの測定誤差の影響を受けやすいと考えられる。そのため、パルスエネルギーの小さな領域の利得の比較についてはより測定点を増やした詳細な実験が必要であると考えられる。\\
@@ -457,6 +536,18 @@ $f_{\mathrm{rep}} = 120$ MHzの実験と同様にして、$f_{\mathrm{rep}} = 1.
     \end{tabular}
 \end{figure}
 
+\begin{figure}[H]
+  \centering
+    \begin{tabular}{c}
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
+          {figures/chapter4/astro-890_comb.png}
+          \caption{繰り返し周波数$1.6$ GHzのコムの$890$ nm付近の光を増幅した際のコムのスペクトル。スペクトルはフォトニック結晶ファイバーによって拡げられている。}
+          \label{astro-890_comb}
+      \end{minipage}
+    \end{tabular}
+\end{figure}
 
 \section{ダブルパスでの増幅実験}
 
@@ -507,6 +598,20 @@ TAは通常ゲイン領域が細い方からマスター光を入射し、ゲイ
 
     \end{tabular}
 \end{figure}
+
+\begin{figure}[H]
+  \centering
+    \begin{tabular}{c}
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.5,  angle=0]
+          {figures/chapter4/doublepass_master.png}
+          \caption{繰り返し周波数$1.6$ GHzのコムでダブルパスで増幅した際のマスター光のスペクトル。}
+          \label{doublepass_master}
+      \end{minipage}
+    \end{tabular}
+\end{figure}
+
 \section{結論}
 
 今回の実験では$766$ nm付近の波長では$35$mW、$890$ nm付近の波長では$70$ mWのパワーを得た。このパワーのときに中間状態への一光子励起効率が$200\ \mathrm{s^{-1}}$を下回るためには、中間状態と一光子コムの最近接の縦モードの離調が$0.70$ GHz以上で必要である。この離調が$0.70$ GHzのときの、実験で得られたパワーでの二光子冷却の励起効率を見積もると$1.8\times10^3\ \mathrm{s^{-1}}$であることが分かる。\par

@@ -218,8 +218,8 @@ INPUT figures/chapter4/astro_amp_diagram_isolator.png
 INPUT extractbb -B cropbox -O figures/chapter4/astro_amp_diagram_isolator.png
 INPUT figures/chapter4/760_astro_amp_diagram.png
 INPUT extractbb -B cropbox -O figures/chapter4/760_astro_amp_diagram.png
-INPUT figures/chapter4/current-gain_astro766.png
-INPUT extractbb -B cropbox -O figures/chapter4/current-gain_astro766.png
+INPUT figures/chapter4/current-gain_astro766_errorbar.png
+INPUT extractbb -B cropbox -O figures/chapter4/current-gain_astro766_errorbar.png
 INPUT figures/chapter4/astro_seed_dependency760.png
 INPUT extractbb -B cropbox -O figures/chapter4/astro_seed_dependency760.png
 INPUT figures/chapter4/760_slave-current_spectrum_astro.png
@@ -242,8 +242,8 @@ INPUT figures/chapter4/TA_case.jpg
 INPUT extractbb -B cropbox -O figures/chapter4/TA_case.jpg
 INPUT figures/chapter4/890_astro_amp_diagram.png
 INPUT extractbb -B cropbox -O figures/chapter4/890_astro_amp_diagram.png
-INPUT figures/chapter4/TA_power-current_3A_astro.png
-INPUT extractbb -B cropbox -O figures/chapter4/TA_power-current_3A_astro.png
+INPUT figures/chapter4/TA_power-current_3A.png
+INPUT extractbb -B cropbox -O figures/chapter4/TA_power-current_3A.png
 INPUT figures/chapter4/890TPA_power_dependence_0117.png
 INPUT extractbb -B cropbox -O figures/chapter4/890TPA_power_dependence_0117.png
 INPUT figures/chapter4/doublepass_photo.png
