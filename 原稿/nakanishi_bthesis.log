@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.8.0-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.11.12)  2 FEB 2019 16:57
+This is e-upTeX, Version 3.14159265-p3.8.0-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2018.11.12)  2 FEB 2019 17:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -571,28 +571,28 @@ File: figures/saturated-absorption/error_signal_main_all-structure.png Graphic f
 File: figures/saturated-absorption/main-locking-error.png Graphic file (type bmp)
 <figures/saturated-absorption/main-locking-error.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 600--626
+Overfull \hbox (12.0pt too wide) in paragraph at lines 598--624
  [][][][] 
  []
 
 
-LaTeX Warning: Float too large for page by 7.71384pt on input line 626.
+LaTeX Warning: Float too large for page by 20.71384pt on input line 624.
 
 [27] [28]
 File: figures/saturated-absorption/Repump_PD_signal.png Graphic file (type bmp)
 <figures/saturated-absorption/Repump_PD_signal.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 631--640
+Overfull \hbox (12.0pt too wide) in paragraph at lines 629--638
  [][][][] 
  []
 
 [29]
 第5章
 
-LaTeX Warning: Citation `わかる半導体レーザーの基礎と応用' on page 30 undefined on input line 652.
+LaTeX Warning: Citation `わかる半導体レーザーの基礎と応用' on page 30 undefined on input line 650.
 
 
-LaTeX Warning: Citation `grynberg_aspect_fabre_cohen-tannoudji_2010' on page 30 undefined on input line 653.
+LaTeX Warning: Citation `grynberg_aspect_fabre_cohen-tannoudji_2010' on page 30 undefined on input line 651.
 
 [30
 
@@ -603,27 +603,27 @@ File: figures/chapter2/semicon_bands.png Graphic file (type bmp)
 <figures/chapter2/semicon_bands.png>
  [31]
 
-LaTeX Warning: Citation `Cruz:06' on page 32 undefined on input line 686.
+LaTeX Warning: Citation `Cruz:06' on page 32 undefined on input line 684.
 
 
-LaTeX Warning: Citation `Walpole1996' on page 32 undefined on input line 696.
+LaTeX Warning: Citation `Walpole1996' on page 32 undefined on input line 694.
 
 
-LaTeX Warning: Citation `Walpole1996' on page 32 undefined on input line 696.
+LaTeX Warning: Citation `Walpole1996' on page 32 undefined on input line 694.
 
 File: figures/chapter2/TA_structure.png Graphic file (type bmp)
 <figures/chapter2/TA_structure.png>
 
-LaTeX Warning: Citation `Walpole1996' on page 32 undefined on input line 703.
+LaTeX Warning: Citation `Walpole1996' on page 32 undefined on input line 701.
 
 
-LaTeX Warning: Citation `Walpole1996' on page 32 undefined on input line 703.
+LaTeX Warning: Citation `Walpole1996' on page 32 undefined on input line 701.
 
 [32]
 File: figures/chapter4/760_amp_diagram.png Graphic file (type bmp)
 <figures/chapter4/760_amp_diagram.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 715--724
+Overfull \hbox (12.0pt too wide) in paragraph at lines 713--722
  [][][][] 
  []
 
@@ -634,7 +634,7 @@ File: figures/chapter4/comb-spectrum_no-return.png Graphic file (type bmp)
 <figures/chapter4/comb-spectrum_no-return.png>
  [34]
 
-LaTeX Warning: Reference `Gain-current-766,766_slave-current_spectrum' on page 35 undefined on input line 746.
+LaTeX Warning: Reference `Gain-current-766,766_slave-current_spectrum' on page 35 undefined on input line 744.
 
 [35]
 File: figures/chapter4/766-M-S-power.png Graphic file (type bmp)
@@ -642,7 +642,7 @@ File: figures/chapter4/766-M-S-power.png Graphic file (type bmp)
 File: figures/chapter4/Gain-current-766.png Graphic file (type bmp)
 <figures/chapter4/Gain-current-766.png>
 
-Overfull \hbox (24.58015pt too wide) in paragraph at lines 752--769
+Overfull \hbox (24.58015pt too wide) in paragraph at lines 750--767
  [][][][] 
  []
 
@@ -650,7 +650,7 @@ Overfull \hbox (24.58015pt too wide) in paragraph at lines 752--769
 File: figures/chapter4/766_slave-input-power.png Graphic file (type bmp)
 <figures/chapter4/766_slave-input-power.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 774--783
+Overfull \hbox (12.0pt too wide) in paragraph at lines 772--781
  [][][][] 
  []
 
@@ -658,7 +658,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 774--783
 File: figures/chapter4/766_slave-current_spectrum.png Graphic file (type bmp)
 <figures/chapter4/766_slave-current_spectrum.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 787--797
+Overfull \hbox (12.0pt too wide) in paragraph at lines 785--795
  [][][][] 
  []
 
@@ -666,33 +666,33 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 787--797
 File: figures/chapter4/120-power-comb.png Graphic file (type bmp)
 <figures/chapter4/120-power-comb.png>
 
-Overfull \hbox (13.37982pt too wide) in paragraph at lines 807--809
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 805--807
  [][] 
  []
 
 File: figures/chapter4/120-power_Master.png Graphic file (type bmp)
 <figures/chapter4/120-power_Master.png>
 
-Overfull \hbox (13.37982pt too wide) in paragraph at lines 814--816
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 812--814
  [][] 
  []
 
 File: figures/chapter4/120-current-comb.png Graphic file (type bmp)
 <figures/chapter4/120-current-comb.png>
 
-Overfull \hbox (13.37982pt too wide) in paragraph at lines 822--824
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 820--822
  [][] 
  []
 
 File: figures/chapter4/120-current-766_Master.png Graphic file (type bmp)
 <figures/chapter4/120-current-766_Master.png>
 
-Overfull \hbox (13.37982pt too wide) in paragraph at lines 829--831
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 827--829
  [][] 
  []
 
 
-Overfull \hbox (15.33333pt too wide) in paragraph at lines 803--835
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 801--833
  [][][][] 
  []
 
@@ -703,14 +703,14 @@ File: figures/chapter4/carrier_saturation.png Graphic file (type bmp)
 File: figures/chapter4/astro_amp_diagram_isolator.png Graphic file (type bmp)
 <figures/chapter4/astro_amp_diagram_isolator.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 906--915
+Overfull \hbox (12.0pt too wide) in paragraph at lines 904--913
  [][][][] 
  []
 
 File: figures/chapter4/760_astro_amp_diagram.png Graphic file (type bmp)
 <figures/chapter4/760_astro_amp_diagram.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 918--927
+Overfull \hbox (12.0pt too wide) in paragraph at lines 916--925
  [][][][] 
  []
 
@@ -720,7 +720,7 @@ File: figures/chapter4/current-gain_astro766_errorbar.png Graphic file (type bmp
 File: figures/chapter4/astro_seed_dependency760.png Graphic file (type bmp)
 <figures/chapter4/astro_seed_dependency760.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 934--952
+Overfull \hbox (12.0pt too wide) in paragraph at lines 932--950
  [][][][] 
  []
 
@@ -728,7 +728,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 934--952
 File: figures/chapter4/760_slave-current_spectrum_astro.png Graphic file (type bmp)
 <figures/chapter4/760_slave-current_spectrum_astro.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 956--965
+Overfull \hbox (12.0pt too wide) in paragraph at lines 954--963
  [][][][] 
  []
 
@@ -736,12 +736,12 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 956--965
 File: figures/chapter4/astro_TA_output_seed_dependency766.png Graphic file (type bmp)
 <figures/chapter4/astro_TA_output_seed_dependency766.png>
 
-Overfull \hbox (26.89255pt too wide) in paragraph at lines 973--975
+Overfull \hbox (26.89255pt too wide) in paragraph at lines 971--973
  [][] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 970--979
+Overfull \hbox (12.0pt too wide) in paragraph at lines 968--977
  [][][][] 
  []
 
@@ -752,33 +752,33 @@ Overfull \vbox (2.29283pt too high) has occurred while \output is active []
 File: figures/chapter4/astro-power-766_Comb.png Graphic file (type bmp)
 <figures/chapter4/astro-power-766_Comb.png>
 
-Overfull \hbox (13.37982pt too wide) in paragraph at lines 989--991
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 987--989
  [][] 
  []
 
 File: figures/chapter4/astro-power-766_master.png Graphic file (type bmp)
 <figures/chapter4/astro-power-766_master.png>
 
-Overfull \hbox (13.37982pt too wide) in paragraph at lines 996--998
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 994--996
  [][] 
  []
 
 File: figures/chapter4/astro-current-766_Comb.png Graphic file (type bmp)
 <figures/chapter4/astro-current-766_Comb.png>
 
-Overfull \hbox (13.37982pt too wide) in paragraph at lines 1004--1006
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 1002--1004
  [][] 
  []
 
 File: figures/chapter4/astro-current-766_master.png Graphic file (type bmp)
 <figures/chapter4/astro-current-766_master.png>
 
-Overfull \hbox (13.37982pt too wide) in paragraph at lines 1011--1013
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 1009--1011
  [][] 
  []
 
 
-Overfull \hbox (15.33333pt too wide) in paragraph at lines 985--1017
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 983--1015
  [][][][] 
  []
 
@@ -788,18 +788,18 @@ File: figures/chapter4/M-S_power_comparison.png Graphic file (type bmp)
 File: figures/chapter4/pulse_power-gain-comparison_errorbar.png Graphic file (type bmp)
 <figures/chapter4/pulse_power-gain-comparison_errorbar.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1028--1051
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1026--1049
  [][][][] 
  []
 
 
-LaTeX Warning: Float too large for page by 33.84444pt on input line 1051.
+LaTeX Warning: Float too large for page by 33.84444pt on input line 1049.
 
 [48] [49]
 File: figures/chapter4/TA_cuurent-gain_comparison.png Graphic file (type bmp)
 <figures/chapter4/TA_cuurent-gain_comparison.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1056--1065
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1054--1063
  [][][][] 
  []
 
@@ -811,12 +811,12 @@ File: figures/chapter4/TA_mounter_photo_comments.png Graphic file (type bmp)
 File: figures/chapter4/TA_mounter_structure.png Graphic file (type bmp)
 <figures/chapter4/TA_mounter_structure.png>
 
-Overfull \hbox (23.17033pt too wide) in paragraph at lines 1095--1097
+Overfull \hbox (23.17033pt too wide) in paragraph at lines 1093--1095
  [][] 
  []
 
 
-Overfull \hbox (15.33333pt too wide) in paragraph at lines 1080--1102
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 1078--1100
  [][][][] 
  []
 
@@ -826,7 +826,7 @@ File: figures/chapter4/TA_case.jpg Graphic file (type bmp)
 File: figures/chapter4/890_astro_amp_diagram.png Graphic file (type bmp)
 <figures/chapter4/890_astro_amp_diagram.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1119--1128
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1117--1126
  [][][][] 
  []
 
@@ -834,32 +834,32 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 1119--1128
 File: figures/chapter4/TA_power-current_3A.png Graphic file (type bmp)
 <figures/chapter4/TA_power-current_3A.png>
 
-Overfull \hbox (13.37982pt too wide) in paragraph at lines 1138--1140
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 1136--1138
  [][] 
  []
 
 File: figures/chapter4/890TPA_power_dependence_0117.png Graphic file (type bmp)
 <figures/chapter4/890TPA_power_dependence_0117.png>
 
-Overfull \hbox (13.37982pt too wide) in paragraph at lines 1148--1150
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 1146--1148
  [][] 
  []
 
 
-Overfull \hbox (15.33333pt too wide) in paragraph at lines 1135--1155
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 1133--1153
  [][][][] 
  []
 
 File: figures/chapter4/astro-890_comb.png Graphic file (type bmp)
 <figures/chapter4/astro-890_comb.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1159--1168
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1157--1166
  [][][][] 
  []
 
 [53]
 
-LaTeX Warning: Citation `doi:10.1063/1.3501966' on page 54 undefined on input line 1172.
+LaTeX Warning: Citation `doi:10.1063/1.3501966' on page 54 undefined on input line 1170.
 
 File: figures/chapter4/doublepass_photo.png Graphic file (type bmp)
 <figures/chapter4/doublepass_photo.png>
@@ -871,7 +871,7 @@ File: figures/chapter4/double-pass_I-Gain.png Graphic file (type bmp)
 File: figures/chapter4/double-pass-Slave-Spectrum.png Graphic file (type bmp)
 <figures/chapter4/double-pass-Slave-Spectrum.png>
 
-Overfull \hbox (15.33333pt too wide) in paragraph at lines 1191--1218
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 1189--1216
  [][][][] 
  []
 
@@ -882,7 +882,7 @@ Overfull \vbox (24.36658pt too high) has occurred while \output is active []
 File: figures/chapter4/doublepass_master.png Graphic file (type bmp)
 <figures/chapter4/doublepass_master.png>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1222--1231
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1220--1229
  [][][][] 
  []
 
@@ -905,10 +905,10 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  3177 strings out of 493270
  51689 string characters out of 6145017
- 126486 words of memory out of 5000000
+ 127486 words of memory out of 5000000
  7013 multiletter control sequences out of 15000+600000
  28270 words of font info for 127 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  36i,19n,39p,1545b,621s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on nakanishi_bthesis.dvi (61 pages, 143888 bytes).
+Output written on nakanishi_bthesis.dvi (61 pages, 143404 bytes).
