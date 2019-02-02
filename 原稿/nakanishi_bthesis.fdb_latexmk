@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex nakanishi_bthesis"] 1548973689 "nakanishi_bthesis.aux" "nakanishi_bthesis.bbl" "nakanishi_bthesis" 1548973720
+["bibtex nakanishi_bthesis"] 1549078077 "nakanishi_bthesis.aux" "nakanishi_bthesis.bbl" "nakanishi_bthesis" 1549078108
   "junsrt.bst" 0 -1 0 ""
-  "nakanishi_bthesis.aux" 1548973697 21813 09ba74d2cb9045767046bde8c7fc32ed ""
+  "nakanishi_bthesis.aux" 1549078085 22120 d080ef926196afa07be287c38a7e16d5 ""
   "reference.bib" 1548692132 6566 c30922e92bfbbd37b6e8c50afed46b45 ""
   (generated)
   "nakanishi_bthesis.bbl"
   "nakanishi_bthesis.blg"
-["dvipdf"] 1548973697 "nakanishi_bthesis.dvi" "nakanishi_bthesis.pdf" "nakanishi_bthesis" 1548973720
-  "nakanishi_bthesis.dvi" 1548973697 124080 326bb3c6d4230708ea017d73a51d0184 "latex"
+["dvipdf"] 1549078085 "nakanishi_bthesis.dvi" "nakanishi_bthesis.pdf" "nakanishi_bthesis" 1549078108
+  "nakanishi_bthesis.dvi" 1549078085 132968 1e9996f6779478b840f92662801751f7 "latex"
   (generated)
   "nakanishi_bthesis.pdf"
-["latex"] 1548973690 "nakanishi_bthesis.tex" "nakanishi_bthesis.dvi" "nakanishi_bthesis" 1548973720
+["latex"] 1549078077 "nakanishi_bthesis.tex" "nakanishi_bthesis.dvi" "nakanishi_bthesis" 1549078108
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1480098698 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1480098698 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -151,7 +151,7 @@
   "figures/chapter4/760_amp_diagram.png" 1548299173 130791 b605d412d55ed5ed1b12c62f0687409d ""
   "figures/chapter4/760_astro_amp_diagram.png" 1548300022 86638 6542d0150f0daca3724c5d20b83bcd97 ""
   "figures/chapter4/760_slave-current_spectrum_astro.png" 1548964469 384539 32e88771c04f79798b25db31c7c5209d ""
-  "figures/chapter4/766-M-S-power.png" 1548969289 16013 039e67bd8cf88e8da1c07091e9eafc2c ""
+  "figures/chapter4/766-M-S-power.png" 1549007699 13178 1b6b598aa5005f1d8d00a015fcfe09f4 ""
   "figures/chapter4/766_slave-current_spectrum.png" 1548960768 328892 2bbe38b8e6c6acc3c4cf32fbeb858ef8 ""
   "figures/chapter4/766_slave-input-power.png" 1548961092 402196 b42a2406cc09a1bab09f6326f4901c45 ""
   "figures/chapter4/890TPA_power_dependence_0117.png" 1547723197 8982 1687646a9e9061409497b5f9e05a0c5c ""
@@ -166,7 +166,7 @@
   "figures/chapter4/TA_power-current_3A_astro.png" 1547710542 9914 b6354cf8f728dc2270a477742908754c ""
   "figures/chapter4/astro_TA_output_seed_dependency766.png" 1548965816 454742 3133813b95649f9d179fb13f89a50456 ""
   "figures/chapter4/astro_amp_diagram_isolator.png" 1548969920 93129 aadebd7fde1b13e228c050bfbafe9fde ""
-  "figures/chapter4/astro_seed_dependency760.png" 1547204858 9360 b7e07da844678d793aa40fa854456634 ""
+  "figures/chapter4/astro_seed_dependency760.png" 1549007881 9479 0d441c0ec6b0753c8caec27c8815678f ""
   "figures/chapter4/carrier_saturation.png" 1548936549 105233 58e6d52a71c46ba714e2911a41e34f13 ""
   "figures/chapter4/comb-spectrum_no-return.png" 1548910287 14974 399607df112e919e69e1eca937f9b739 ""
   "figures/chapter4/current-gain_astro766.png" 1548561869 8823 c4f850a13c57ac1806154014e656db43 ""
@@ -184,12 +184,12 @@
   "figures/saturated-absorption/error_signal_main_all-structure.png" 1548386178 15688 fec30454a3849e072e586dc2b764504b ""
   "figures/saturated-absorption/main-locking-error.png" 1548626669 70845 10d8f363e630b9d8d49e961d03ac8c1d ""
   "figures/saturated-absorption/repump_diagram.png" 1548907210 35258 755fcf126d66ea6a2192a7c31260fbf0 ""
-  "nakanishi_bthesis.aux" 1548973697 21813 09ba74d2cb9045767046bde8c7fc32ed ""
-  "nakanishi_bthesis.bbl" 1548973690 0 d41d8cd98f00b204e9800998ecf8427e "bibtex nakanishi_bthesis"
-  "nakanishi_bthesis.tex" 1548973681 92730 ecbbd1a71ed1be3fbfef072fb5240ec5 ""
-  "nakanishi_bthesis.toc" 1548973697 4980 0b1d239ad3f46e538e9e7a12e3d28454 ""
+  "nakanishi_bthesis.aux" 1549078085 22120 d080ef926196afa07be287c38a7e16d5 ""
+  "nakanishi_bthesis.bbl" 1549078077 0 d41d8cd98f00b204e9800998ecf8427e "bibtex nakanishi_bthesis"
+  "nakanishi_bthesis.tex" 1549078068 96560 7cd95101bb3c839f99a9dd4526ef7323 ""
+  "nakanishi_bthesis.toc" 1549078085 5269 8cf5ef0a578717e412ebe59e5aa6730a ""
   (generated)
-  "nakanishi_bthesis.toc"
-  "nakanishi_bthesis.aux"
-  "nakanishi_bthesis.dvi"
   "nakanishi_bthesis.log"
+  "nakanishi_bthesis.dvi"
+  "nakanishi_bthesis.aux"
+  "nakanishi_bthesis.toc"

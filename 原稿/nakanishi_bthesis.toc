@@ -1,60 +1,63 @@
 \contentsline {chapter}{\numberline {第1章}序論}{3}
 \contentsline {section}{\numberline {1.1}研究の背景と目的}{3}
-\contentsline {section}{\numberline {1.2}本論文の構成}{3}
-\contentsline {chapter}{\numberline {第2章}背景知識}{4}
-\contentsline {section}{\numberline {2.1}ドップラー冷却}{4}
-\contentsline {subsection}{\numberline {2.1.1}光が原子に及ぼす力}{4}
-\contentsline {subsection}{\numberline {2.1.2}光糖蜜効果}{4}
-\contentsline {subsection}{\numberline {2.1.3}ドップラー冷却限界}{5}
-\contentsline {subsection}{\numberline {2.1.4}ドップラー冷却できる原子}{5}
-\contentsline {section}{\numberline {2.2}磁気光学トラップ (MOT)}{6}
-\contentsline {section}{\numberline {2.3}飽和吸収分光法}{8}
-\contentsline {subsection}{\numberline {2.3.1}原理}{8}
-\contentsline {subsection}{\numberline {2.3.2}クロスオーバー共鳴}{8}
-\contentsline {section}{\numberline {2.4}光周波数コム}{8}
-\contentsline {subsection}{\numberline {2.4.1}モード同期レーザーの概要}{8}
-\contentsline {subsection}{\numberline {2.4.2}モード同期レーザーのスペクトル}{10}
-\contentsline {chapter}{\numberline {第3章}過去の研究に基づくCs原子の二光子冷却のシミュレーション}{11}
-\contentsline {section}{\numberline {3.1}従来の課題と光周波数コムによる冷却のメリット}{11}
-\contentsline {section}{\numberline {3.2}二光子コムによるレーザー冷却の理論}{11}
-\contentsline {section}{\numberline {3.3}Cs原子の冷却に必要な励起効率の見積もり}{13}
-\contentsline {section}{\numberline {3.4}Cs原子の二色のコムによる励起効率の見積もり}{14}
-\contentsline {section}{\numberline {3.5}二色のコムによる励起に必要なパワーの見積もり}{16}
-\contentsline {subsection}{\numberline {3.5.1}一光子遷移による中間状態への励起効率の見積もり}{16}
-\contentsline {subsection}{\numberline {3.5.2}二色のコムによる冷却に必要なパワーの見積もり}{19}
-\contentsline {section}{\numberline {3.6}まとめ}{22}
-\contentsline {chapter}{\numberline {第4章}Cs原子のMOTのためのcw光源の構築}{23}
-\contentsline {section}{\numberline {4.1}飽和吸収分光法によるCs原子のロック}{23}
-\contentsline {subsection}{\numberline {4.1.1}MOTに用いるCs原子の超微細構造}{23}
-\contentsline {subsection}{\numberline {4.1.2}ECDLによる周波数の制御}{24}
-\contentsline {subsection}{\numberline {4.1.3}FMサイドバンドロック法}{24}
-\contentsline {subsection}{\numberline {4.1.4}今回の飽和吸収分光に用いる光学系}{25}
-\contentsline {section}{\numberline {4.2}測定結果}{26}
-\contentsline {subsection}{\numberline {4.2.1}メインレーザーのロック}{26}
-\contentsline {chapter}{\numberline {第5章}光周波数コムのテーパーアンプによる増幅実験}{29}
-\contentsline {section}{\numberline {5.1}光周波数コムのテーパーアンプによる増幅}{29}
-\contentsline {section}{\numberline {5.2}テーパーアンプの原理}{29}
-\contentsline {subsection}{\numberline {5.2.1}半導体レーザーの発光原理}{29}
-\contentsline {subsection}{\numberline {5.2.2}テーパーアンプ}{31}
-\contentsline {section}{\numberline {5.3}繰り返し周波数$120$ MHzのコムの$766$ nm付近の増幅}{32}
-\contentsline {subsection}{\numberline {5.3.1}測定手法}{32}
-\contentsline {subsection}{\numberline {5.3.2}測定結果}{32}
-\contentsline {subsubsection}{TAの戻り光による光周波数コムのスペクトルの変化}{32}
-\contentsline {subsubsection}{TAの増幅の振る舞いの測定結果}{34}
-\contentsline {subsection}{\numberline {5.3.3}考察}{37}
-\contentsline {subsubsection}{注入される電子数とレーザーの光子数による考察}{37}
-\contentsline {subsubsection}{TAのパルスの伝播の数式的なモデル}{38}
-\contentsline {section}{\numberline {5.4}繰り返し周波数$1.6$ GHzのコムの$766$ nm付近の増幅}{39}
-\contentsline {subsection}{\numberline {5.4.1}測定手法}{39}
-\contentsline {subsection}{\numberline {5.4.2}測定結果}{40}
-\contentsline {subsection}{\numberline {5.4.3}繰り返し周波数$120$ MHzのコムの増幅実験との比較}{44}
-\contentsline {section}{\numberline {5.5}$890$ nm用テーパーアンプのチップマウンターの組み立て}{47}
-\contentsline {section}{\numberline {5.6}繰り返し周波数$1.6$ GHzのコムの$890$ nm付近の増幅}{48}
-\contentsline {subsection}{\numberline {5.6.1}測定手法}{48}
-\contentsline {subsection}{\numberline {5.6.2}測定結果}{49}
-\contentsline {section}{\numberline {5.7}ダブルパスでの増幅実験}{50}
-\contentsline {subsection}{\numberline {5.7.1}測定手法}{50}
-\contentsline {subsection}{\numberline {5.7.2}測定結果}{51}
-\contentsline {section}{\numberline {5.8}結論}{52}
-\contentsline {chapter}{\numberline {第6章}まとめと展望}{54}
-\contentsline {chapter}{参考文献}{55}
+\contentsline {subsection}{\numberline {1.1.1}レーザー冷却の研究の現在と課題}{3}
+\contentsline {subsection}{\numberline {1.1.2}今回の研究の目的}{3}
+\contentsline {section}{\numberline {1.2}本論文の構成}{4}
+\contentsline {chapter}{\numberline {第2章}背景知識}{5}
+\contentsline {section}{\numberline {2.1}ドップラー冷却}{5}
+\contentsline {subsection}{\numberline {2.1.1}光が原子に及ぼす力}{5}
+\contentsline {subsection}{\numberline {2.1.2}光糖蜜効果}{5}
+\contentsline {subsection}{\numberline {2.1.3}ドップラー冷却限界}{6}
+\contentsline {subsection}{\numberline {2.1.4}ドップラー冷却できる原子}{6}
+\contentsline {section}{\numberline {2.2}磁気光学トラップ (MOT)}{7}
+\contentsline {section}{\numberline {2.3}飽和吸収分光法}{9}
+\contentsline {subsection}{\numberline {2.3.1}原理}{9}
+\contentsline {subsection}{\numberline {2.3.2}クロスオーバー共鳴}{9}
+\contentsline {section}{\numberline {2.4}光周波数コム}{9}
+\contentsline {subsection}{\numberline {2.4.1}モード同期レーザーの概要}{9}
+\contentsline {subsection}{\numberline {2.4.2}モード同期レーザーのスペクトル}{11}
+\contentsline {chapter}{\numberline {第3章}過去の研究に基づくCs原子の二光子冷却のシミュレーション}{12}
+\contentsline {section}{\numberline {3.1}従来の課題と光周波数コムによる冷却のメリット}{12}
+\contentsline {section}{\numberline {3.2}二光子コムによるレーザー冷却の理論}{12}
+\contentsline {section}{\numberline {3.3}Cs原子の冷却に必要な励起効率の見積もり}{14}
+\contentsline {section}{\numberline {3.4}Cs原子の二色のコムによる励起効率の見積もり}{15}
+\contentsline {section}{\numberline {3.5}二色のコムによる励起に必要なパワーの見積もり}{17}
+\contentsline {subsection}{\numberline {3.5.1}一光子遷移による中間状態への励起効率の見積もり}{17}
+\contentsline {subsection}{\numberline {3.5.2}二色のコムによる冷却に必要なパワーの見積もり}{20}
+\contentsline {section}{\numberline {3.6}まとめ}{23}
+\contentsline {chapter}{\numberline {第4章}Cs原子のMOTのためのcw光源の構築}{24}
+\contentsline {section}{\numberline {4.1}飽和吸収分光法によるCs原子のロック}{24}
+\contentsline {subsection}{\numberline {4.1.1}MOTに用いるCs原子の超微細構造}{24}
+\contentsline {subsection}{\numberline {4.1.2}ECDLによる周波数の制御}{25}
+\contentsline {subsection}{\numberline {4.1.3}FMサイドバンドロック法}{25}
+\contentsline {subsection}{\numberline {4.1.4}今回の飽和吸収分光に用いる光学系}{26}
+\contentsline {section}{\numberline {4.2}測定結果}{27}
+\contentsline {subsection}{\numberline {4.2.1}メインレーザーのロック}{27}
+\contentsline {chapter}{\numberline {第5章}光周波数コムのテーパーアンプによる増幅実験}{30}
+\contentsline {section}{\numberline {5.1}光周波数コムのテーパーアンプによる増幅}{30}
+\contentsline {section}{\numberline {5.2}テーパーアンプの原理}{30}
+\contentsline {subsection}{\numberline {5.2.1}半導体レーザーの発光原理}{30}
+\contentsline {subsection}{\numberline {5.2.2}テーパーアンプ}{32}
+\contentsline {section}{\numberline {5.3}繰り返し周波数$120$ MHzのコムの$766$ nm付近の増幅}{33}
+\contentsline {subsection}{\numberline {5.3.1}測定手法}{33}
+\contentsline {subsection}{\numberline {5.3.2}測定結果}{33}
+\contentsline {subsubsection}{TAの戻り光による光周波数コムのスペクトルの変化}{33}
+\contentsline {subsubsection}{TAの増幅の振る舞いの測定結果}{35}
+\contentsline {subsection}{\numberline {5.3.3}考察}{38}
+\contentsline {subsubsection}{注入される電子数とレーザーの光子数による考察}{38}
+\contentsline {subsubsection}{TAのパルスの伝播の数式的なモデル}{39}
+\contentsline {section}{\numberline {5.4}繰り返し周波数$1.6$ GHzのコムの$766$ nm付近の増幅}{40}
+\contentsline {subsection}{\numberline {5.4.1}測定手法}{40}
+\contentsline {subsection}{\numberline {5.4.2}測定結果}{41}
+\contentsline {subsection}{\numberline {5.4.3}繰り返し周波数$120$ MHzのコムの増幅実験との比較}{45}
+\contentsline {section}{\numberline {5.5}$890$ nm用テーパーアンプのチップマウンターの組み立て}{48}
+\contentsline {section}{\numberline {5.6}繰り返し周波数$1.6$ GHzのコムの$890$ nm付近の増幅}{49}
+\contentsline {subsection}{\numberline {5.6.1}測定手法}{49}
+\contentsline {subsection}{\numberline {5.6.2}測定結果}{50}
+\contentsline {section}{\numberline {5.7}ダブルパスでの増幅実験}{51}
+\contentsline {subsection}{\numberline {5.7.1}測定手法}{51}
+\contentsline {subsection}{\numberline {5.7.2}測定結果}{52}
+\contentsline {section}{\numberline {5.8}結論}{53}
+\contentsline {chapter}{\numberline {第6章}まとめと展望}{55}
+\contentsline {section}{\numberline {6.1}まとめ}{55}
+\contentsline {section}{\numberline {6.2}今後の展望}{55}
