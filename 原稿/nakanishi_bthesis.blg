@@ -7,9 +7,9 @@ I couldn't open style file junsrt.bst
  :                 }
 I'm skipping whatever remains of this command
 I found no style file---while reading file nakanishi_bthesis.aux
-You've used 15 entries,
+You've used 16 entries,
             0 wiz_defined-function locations,
-            109 strings with 975 characters,
+            110 strings with 984 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0

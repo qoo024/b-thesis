@@ -277,6 +277,8 @@ INPUT figures/chapter4/double-pass-Slave-Spectrum.png
 INPUT extractbb -B cropbox -O figures/chapter4/double-pass-Slave-Spectrum.png
 INPUT figures/chapter4/doublepass_master.png
 INPUT extractbb -B cropbox -O figures/chapter4/doublepass_master.png
+INPUT figures/chapter4/result-colorplot.png
+INPUT extractbb -B cropbox -O figures/chapter4/result-colorplot.png
 INPUT nakanishi_bthesis.bbl
 INPUT nakanishi_bthesis.bbl
 INPUT nakanishi_bthesis.aux

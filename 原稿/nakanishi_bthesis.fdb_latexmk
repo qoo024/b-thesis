@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex nakanishi_bthesis"] 1549111602 "nakanishi_bthesis.aux" "nakanishi_bthesis.bbl" "nakanishi_bthesis" 1549111955
+["bibtex nakanishi_bthesis"] 1549207024 "nakanishi_bthesis.aux" "nakanishi_bthesis.bbl" "nakanishi_bthesis" 1549207060
   "junsrt.bst" 0 -1 0 ""
-  "nakanishi_bthesis.aux" 1549111929 25316 0d2b89bb915626d5f4b5d72e89d05bdd ""
-  "reference.bib" 1549098136 6785 1015068113b02b38f585dbcfa5e4e5ad ""
+  "nakanishi_bthesis.aux" 1549207035 26302 996f96ea7d60707bd6d0a97e3cae6d52 ""
+  "reference.bib" 1549206131 6980 32ec5f5fafe1454c9794f16c459b1594 ""
   (generated)
-  "nakanishi_bthesis.blg"
   "nakanishi_bthesis.bbl"
-["dvipdf"] 1549111929 "nakanishi_bthesis.dvi" "nakanishi_bthesis.pdf" "nakanishi_bthesis" 1549111955
-  "nakanishi_bthesis.dvi" 1549111929 144592 de99b991cfba400ca946eaf4effdf12c "latex"
+  "nakanishi_bthesis.blg"
+["dvipdf"] 1549207035 "nakanishi_bthesis.dvi" "nakanishi_bthesis.pdf" "nakanishi_bthesis" 1549207060
+  "nakanishi_bthesis.dvi" 1549207035 156324 ac549053411f18cbe6f793f032a62239 "latex"
   (generated)
   "nakanishi_bthesis.pdf"
-["latex"] 1549111919 "nakanishi_bthesis.tex" "nakanishi_bthesis.dvi" "nakanishi_bthesis" 1549111955
+["latex"] 1549207024 "nakanishi_bthesis.tex" "nakanishi_bthesis.dvi" "nakanishi_bthesis" 1549207060
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1480098698 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1480098698 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -135,6 +135,7 @@
   "extractbb -B cropbox -O figures/chapter4/doublepass_master.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/chapter4/doublepass_photo.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/chapter4/pulse_power-gain-comparison_errorbar.png" 0 -1 0 ""
+  "extractbb -B cropbox -O figures/chapter4/result-colorplot.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/chapter4/spectrum_current_MODORI.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/saturated-absorption/Cs_level_diagram_MOT.png" 0 -1 0 ""
   "extractbb -B cropbox -O figures/saturated-absorption/ECDL_diagram.png" 0 -1 0 ""
@@ -199,6 +200,7 @@
   "figures/chapter4/doublepass_master.png" 1549089210 20905 609513ed0c9f91a052899474cc483771 ""
   "figures/chapter4/doublepass_photo.png" 1548645021 6412325 1916a8bbdb288ce69553594e95fba591 ""
   "figures/chapter4/pulse_power-gain-comparison_errorbar.png" 1548945983 39479 f4a209c181bfbfa7a72853c39ed078ba ""
+  "figures/chapter4/result-colorplot.png" 1549193485 26918 60b25d198e8cfc22368ba3458f9a6dc8 ""
   "figures/chapter4/spectrum_current_MODORI.png" 1548910613 170770 454dcd76c07c290dc80efacb06b49fd9 ""
   "figures/saturated-absorption/Cs_level_diagram_MOT.png" 1548630834 197697 198b33eccc14ef617fdd76d5000e55f6 ""
   "figures/saturated-absorption/ECDL_diagram.png" 1548631890 1228037 23f4101b5ed4e110d272b2d03a206727 ""
@@ -208,12 +210,12 @@
   "figures/saturated-absorption/error_signal_main_all-structure.png" 1548386178 15688 fec30454a3849e072e586dc2b764504b ""
   "figures/saturated-absorption/main-locking-error.png" 1548626669 70845 10d8f363e630b9d8d49e961d03ac8c1d ""
   "figures/saturated-absorption/repump_diagram.png" 1548907210 35258 755fcf126d66ea6a2192a7c31260fbf0 ""
-  "nakanishi_bthesis.aux" 1549111929 25316 0d2b89bb915626d5f4b5d72e89d05bdd ""
-  "nakanishi_bthesis.bbl" 1549111602 0 d41d8cd98f00b204e9800998ecf8427e "bibtex nakanishi_bthesis"
-  "nakanishi_bthesis.tex" 1549111919 107716 ecc8666d02e4fb2497c1c96c1011cbc2 ""
-  "nakanishi_bthesis.toc" 1549111929 5186 177d7653b0c2818ae6105d0da29ddbbd ""
+  "nakanishi_bthesis.aux" 1549207035 26302 996f96ea7d60707bd6d0a97e3cae6d52 ""
+  "nakanishi_bthesis.bbl" 1549207024 0 d41d8cd98f00b204e9800998ecf8427e "bibtex nakanishi_bthesis"
+  "nakanishi_bthesis.tex" 1549207014 114884 2a961371eb0527ee02e38ec2d846bab5 ""
+  "nakanishi_bthesis.toc" 1549207035 5516 06539dcbcf6a03ed088918906d68c09a ""
   (generated)
-  "nakanishi_bthesis.toc"
-  "nakanishi_bthesis.log"
   "nakanishi_bthesis.dvi"
   "nakanishi_bthesis.aux"
+  "nakanishi_bthesis.log"
+  "nakanishi_bthesis.toc"
