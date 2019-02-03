@@ -11,8 +11,9 @@
 
 \bibliographystyle{junsrt}
 
-\title{\fontsize{23pt}{0pt}\selectfont 卒業論文 \vspace{2cm}\\ 二色の光周波数コムによる\vspace{4mm}\\ レーザー冷却法の開拓 \vspace{3cm}\\ \fontsize{18pt}{0pt}\selectfont 指導教員\ \ \ \ \ 吉岡孝高\ \ 准教授 \vspace{4cm}\\ \fontsize{18pt}{0pt}\selectfont  平成31年2月提出 \vspace{2cm} \\ \fontsize{18pt}{0pt}\selectfont 東京大学工学部物理工学科 \vspace{3mm} \\ 03-170579\ \ \ 中西亮}
+\title{\fontsize{24.88pt}{0pt}\selectfont 卒業論文 \vspace{2cm}\\ 二色の光周波数コムによる\vspace{4mm}\\ レーザー冷却法の開拓 \vspace{3cm}\\ \fontsize{17.28pt}{0pt}\selectfont 指導教員\ \ \ \ \ 吉岡孝高\ \ 准教授 \vspace{4cm}\\ \fontsize{17.28pt}{0pt}\selectfont  平成31年2月提出 \vspace{2cm} \\ \fontsize{17.28pt}{0pt}\selectfont 東京大学工学部物理工学科 \vspace{3mm} \\ 03-170579\ \ \ 中西亮}
 \date{}
+\author{}
 
 \begin{document}
 \maketitle
@@ -41,7 +42,7 @@
 
 \section{ドップラー冷却}
 \subsection{光が原子に及ぼす力}
- 光が原子に及ぼす力は輻射圧と双極子力に分けることができる. 輻射圧は, 光子を吸収・放出する際に原子の運動量変化を起こす撃力である\cite{ノーベル賞と分光学}.
+ 光が原子に及ぼす力は輻射圧と双極子力に分けることができる. 輻射圧は, 光子を吸収・放出する際に原子の運動量変化を起こす撃力である\cite{ノーベル賞と分光学}. 双極子力は、光電場により誘起された原子の双極子モーメントが光電場強度の空間的な不均一性を感じることに起因する保存力である\cite{気体原子のレーザー冷却}。
  電磁場の周波数を$\omega$, 原子の共鳴周波数を$\omega_0$としたとき, 波数$\bm k$の平面電磁場が速度$\bm v$の原子に与える平均輻射圧は,
  \begin{equation}\label{scattering_force}
 \bm{F} _ { \mathrm { scatt } } = \hbar \bm{k}\frac { \Gamma } { 2 } \frac { \Omega ^ { 2 } / 2 } { \delta ^ { 2 } + \Omega ^ { 2 } / 2 + \Gamma ^ { 2 } / 4 }
@@ -169,24 +170,24 @@
 今回の実験の目標はコムでレーザー冷却をすることで, まずcw光によるMOTを構成しそこにコムの光を当てる. ここで, MOTを構成するために使うcw光の周波数をロックするために「飽和吸収分光法」を利用している. 通常の分光法では原子の遷移周波数の線幅は, 温度に応じたドップラー拡がりを持っている. これに対し, 飽和吸収分光法はドップラー拡がりを克服し, 原子の遷移周波数を測定する手法である. \\図\ref{saturated_absorption_figure}のように, レーザーをポンプ光とプローブ光に分けて原子の気体が入ったセルに照射し, プローブ光のセルの透過強度を測定する.\\
 レーザーの周波数が原子の共鳴周波数$\omega_0$に合っているとき, レーザーの進行方向に対して速度ゼロ近傍の原子が平均パワーの大きなポンプ光によって吸収飽和を生じているため, セル通過後のプローブ光はポンプ光の影響を受けてあまり原子に吸収されない. レーザーの周波数が$\omega_0$からずれているときは, 吸収飽和を生じているのは有限のドップラーシフトをもつ原子であるため, 逆方向から進行してくるプローブ光に対してはポンプ光の影響はない. この効果により, レーザーの周波数を掃引すると, プローブ光の透過光強度は図図\ref{PD_Signal_main}のようになり, ドップラーフリーの吸収スペクトルを得ることができる.
 \subsection{クロスオーバー共鳴}
-　飽和吸収分光においては, 準位間の共鳴周波数だけでなく二つの共鳴周波数のちょうど平均の周波数においてもプローブ光の透過率が極大となる. この現象をクロスオーバー共鳴と呼ぶ. もっとも簡単な三準位の系での飽和吸収分光を考える. 図のようなエネルギー準位において, $|1\rangle$から$|2\rangle$,$|3\rangle$への遷移周波数を$\omega_{12}$, $\omega_{13}$とする. レーザーの周波数が$\omega$のときに$|1\rangle$から$|2\rangle$へ励起される原子の速度は$v = \frac{\omega - \omega_{12}}{k}$であり, 同様に$v = \frac{\omega - \omega_{13}}{k}$の速度の原子が$|3\rangle$へ励起される.
+　飽和吸収分光においては, 準位間の共鳴周波数だけでなく二つの共鳴周波数のちょうど平均の周波数においてもプローブ光の透過率が極大となる. この現象をクロスオーバー共鳴と呼ぶ. もっとも簡単な三準位の系での飽和吸収分光を考える. 図\ref{crossover-diagram}のようなエネルギー準位において, $|1\rangle$から$|2\rangle$,$|3\rangle$への遷移周波数を$\omega_{12}$, $\omega_{13}$とする. レーザーの周波数が$\omega$のときに$|1\rangle$から$|2\rangle$へ励起される原子の速度は$v = \frac{\omega - \omega_{12}}{k}$であり, 同様に$v = \frac{\omega - \omega_{13}}{k}$の速度の原子が$|3\rangle$へ励起される.
 $\omega = \frac{\omega_{12} + \omega_{13}}{2}$のとき, $|2\rangle$, $|3\rangle$へ励起される原子の速度が一致する. このため, $\omega_12$, $\omega_13$においてだけでなく, $\frac{\omega_{12} + \omega_{13}}{2}$においてもポンプ光による飽和の影響でプローブ光の透過率が極大となることが分かる.
-\begin{figure}[htpb]
+\begin{figure}[H]
   \centering
     \begin{tabular}{c}
 
 %----- 写真 -----
 
-      \begin{minipage}{0.50\hsize}
+      \begin{minipage}{1\hsize}
         \centering
-          \includegraphics[keepaspectratio,  scale=0.20,  angle=0]
+          \includegraphics[keepaspectratio,  scale=0.15,  angle=0]
                           {figures/chapter2/saturated_absorption_figure.png}
                           \caption{飽和吸収分光の光学系\\
                           ただし, PBSはPolarization Beam Splitter, PDはPhoto Detectorを意味する. }
                           \label{saturated_absorption_figure}
-      \end{minipage}
+      \end{minipage}\\
 
-%----- PD Signal -----
+%----- PD Signal ----
 
       \begin{minipage}{0.50\hsize}
         \centering
@@ -195,19 +196,17 @@ $\omega = \frac{\omega_{12} + \omega_{13}}{2}$のとき, $|2\rangle$, $|3\rangle
                           \caption{飽和吸収分光によって観測されたCsの超微細構造}
                           \label{PD_Signal_main}
       \end{minipage} \\
-
+      \begin{minipage}{0.50\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.3,  angle=0]
+                          {figures/chapter2/crossover-diagram.png}
+                          \caption{３準位系の図}
+                          \label{crossover-diagram}
+      \end{minipage}
     \end{tabular}
 \end{figure}
 
-\begin{figure}[htbp]
- \begin{center}
-  \includegraphics[width=100mm]{figures/chapter2/TA_structure.png}
- \end{center}
- \caption{TAの基本構造(文献\cite{Walpole1996}から引用)}
- \label{TA_structure}
-\end{figure}
-
-
+\newpage
 \section{光周波数コム}
 \subsection{モード同期レーザーの概要}
 今回の実験で光源として用いられているモード同期レーザーは, 時間的に等間隔で出力されるパルス列である. このパルス列は共振器内の異なる縦モードの位相を同期することで得られる. モード同期の手法には能動的モード同期と受動的モード同期があるが, 今回の実験では受動的モード同期を用いている.\\
@@ -300,7 +299,7 @@ TAは半導体で構成されており, その発光原理は半導体レーザ�
 
 \section{二光子コムによるレーザー冷却の理論}
 　Jayichらの論文\cite{PhysRevX.6.041004}で説明されている, 二光子遷移を用いた光周波数コムレーザー冷却の理論を紹介する.\\
-コムによる二光子の遷移を考えるとき, パルスに含まれる二光子のエネルギーもまた, コム（櫛）を形成する.これを二光子コムと呼ぶことにすると, 二光子コムのn番目の縦モードの周波数は
+コムによる二光子の遷移を考えるとき, パルスに含まれる二光子のエネルギーもまた, コム（櫛）を形成する.これを二光子コムと呼ぶことにすると, 図\ref{two-photon-comb-figure}のように二光子コムのn番目の縦モードの周波数は
 \begin{equation}
 f_n = nf_r + 2f_0
 \end{equation}
@@ -311,6 +310,21 @@ f_n = nf_r + 2f_0
 \end{eqnarray}\\
 ただし, $g^{\left( 1\right) }_{p}$は$p$番目のコムの歯による基底状態から中間状態への共鳴一光子ラビ周波数, $g^{\left( 2\right) }_{p}$は$p$番目のコムの歯による中間状態から励起状態への共鳴一光子ラビ周波数を表す.
 $\Delta _{p}=pf_{r}+f_{0}-f_{gi}$は一光子の中間状態からの離調である. ただし, $f_{gi}$は基底状態から中間状態へのエネルギー差をプランク定数$h$で割ったものである.また, $\epsilon_0$は真空の誘電率, $c$は光速, $e$は電気素量, $\hbar$はプランク定数$h$を$2\pi$で割った値を表す. \\
+
+\begin{figure}[H]
+  \centering
+    \begin{tabular}{c}
+      \begin{minipage}{1\hsize}
+        \centering
+          \includegraphics[keepaspectratio,  scale=0.2,  angle=0]
+                          {figures/chapter3/two-photon-comb-figure.png}
+                          \caption{二光子コムの図（文献\cite{PhysRevX.6.041004}より引用。)左の図は一光子コムの全ての縦モードが励起に寄与する様子を示している。右の図は二光子コムの歯を示している。}
+                          \label{two-photon-comb-figure}
+
+      \end{minipage}
+    \end{tabular}
+\end{figure}
+
 二光子コムのN番目のコムの歯が共鳴周波数に最も近いとき, 速度$v$で動く原子の励起確率の時間平均は,
 \begin{equation}\label{ExcitationRate}
 \gamma_\mathrm{comb} = \frac{\Omega^2_{N}T_\mathrm{r}} {4} \frac{\sinh(\gamma T_\mathrm{r}/2)}{\cosh(\gamma T_\mathrm{r}/2) - \cos(\delta_N(\bm{v})T_\mathrm{r})}
@@ -387,7 +401,7 @@ Jayichらはこのパラメータの下で励起効率を$\gamma_N \sim 13000\ \
   &=& \frac{\Omega^2_N}{\gamma}  \nonumber\\
   &=& \frac{1}{\gamma} \Biggl[ \sum _ { p } \frac { e ^ { 2 } \mathcal { E } ^{(1)}_ { p } \mathcal { E }^{(2)} _ { N - p } } { \hbar ^ { 2 } } \left\langle \mathrm { e } \left| ( \hat { \boldsymbol { \epsilon } } \cdot \mathbf { r } ) \left(  \frac { | \mathrm { i } \rangle \langle \mathrm { i } | } { 2 \Delta _ { p } ^ { ( \mathrm { i } ) } } \right) ( \hat { \boldsymbol { \epsilon } } \cdot \mathbf { r } ) \right| \mathrm { g } \right\rangle \Biggr]^2 \nonumber \\
   &=& \frac{1}{\gamma} \Biggl[ \sum _ { p } \frac { e ^ { 2 } \mathcal { E }^{(1)} \mathcal { E } ^ {(2)} } { \hbar ^ { 2 } } \left\langle \mathrm { e } \left| ( \hat { \boldsymbol { \epsilon } } \cdot \mathbf { r } ) \left(  \frac { | \mathrm { i } \rangle \langle \mathrm { i } | } { 2 \Delta _ { p } ^ { ( \mathrm { i } ) } } \right) ( \hat { \boldsymbol { \epsilon } } \cdot \mathbf { r } ) \right| \mathrm { g } \right\rangle \Biggr]^2 \nonumber \\
-  &=& \frac{e^2  \mathcal { E } ^ {(1)} \mathcal { E } ^ {(2)}}{ 2 \gamma \hbar ^ { 2 }  }\Biggl[ \left\langle \mathrm { e } \left| ( \hat { \boldsymbol { \epsilon } } \cdot \mathbf { r } ) | \mathrm { i } \rangle \langle \mathrm { i } |  ( \hat { \boldsymbol { \epsilon } } \cdot \mathbf { r } ) \right| \mathrm { g } \right\rangle\sum _ { p }\frac{1}{2 \Delta _ { p } ^ { ( \mathrm { i } ) }} \Biggr]^2\\
+  &=& \frac{1}{  \gamma   }\Biggl[ \frac{e^2  \mathcal { E } ^ {(1)} \mathcal { E } ^ {(2)}}{2\hbar ^ {2}}\left\langle \mathrm { e } \left| ( \hat { \boldsymbol { \epsilon } } \cdot \mathbf { r } ) | \mathrm { i } \rangle \langle \mathrm { i } |  ( \hat { \boldsymbol { \epsilon } } \cdot \mathbf { r } ) \right| \mathrm { g } \right\rangle\sum _ { p }\frac{1}{ \Delta _ { p } ^ { ( \mathrm { i } ) }} \Biggr]^2\\
   \mathcal{E}^{(i)} &=&  \sqrt{\frac{2 I_{i}}{M \epsilon_0 c}}\ \ \ \ (i = 1,2)
 \end{eqnarray}\\
 ただし, $\mathcal{E}^{(1)}_p$は基底状態から中間状態へのコムの$p$番目の縦モードの電場の大きさを表し, , $\mathcal{E}^{(2)}_p$は中間状態から励起状態へのコムの$p$番目の縦モードの電場の大きさを表す. $\mathcal{E}^{(i)}\ \ (i = 1,2)$は近似(c)の下でのコムの電場の強さを表す. $I_{i}\ \ (i = 1,2)$はそれぞれのコムの強度を表す. $M$はコムの歯の本数を表し, 計算上では2つのコムの歯の数は等しいとした. \\
@@ -682,7 +696,7 @@ TAは半導体で構成されており, その発光原理は半導体レーザ�
 
 \subsection{テーパーアンプ}
  TAは近赤外の連続波(continuous wave,  cw)のレーザーを$20$ dB以上の利得で増幅することができる素子として知られている\cite{Cruz:06}.\\
-　TAは図\ref{TA_structure}のような構造をしており, 半導体レーザーと同じDH構造を有している. TAの特徴は入力側から出力側にだんだんと拡がっているゲイン領域である. また, 増幅器として用いるためへき界面に反射材がコーティングされておらず光フィードバックがないことが半導体レーザーとの大きな違いである.\\
+　TAは図\ref{TA_structure}のような構造をしており, 半導体レーザーと同じDH構造を有している. TAの特徴は入力側から出力側にだんだんと拡がっているゲイン領域である. ここにマスター光と呼ばれる光を入れるとで誘導放出が起き増幅される。また, 増幅器として用いるためへき界面に反射材がコーティングされておらず光フィードバックがないことが半導体レーザーとの大きな違いである.\\
 　TAの一つの特徴は従来の細いストライプを持つ半導体レーザーよりも高い輝度を出せることである. 輝度は
  \begin{equation}
    B = P/(A\Omega)
@@ -741,7 +755,7 @@ TAは半導体で構成されており, その発光原理は半導体レーザ�
 \end{figure}
 
 \subsubsection{TAの増幅の振る舞いの測定結果}
-　スレーブ光のパワーのマスター光のパワーによる変化は図\ref{766-M-S-power}のようになった。出力パワーからマスター光なしのときのパワーを自然放出のパワーとして差し引いた値をスレーブパワーとしている。これ以後の全ての実験でこの処理を行っている。また、その際のスペクトルの変化は図\ref{766_slave-input-power}に示した。また、スレーブ光のパワーとスペクトルのTAの印加電流による変化は図\ref{Gain-current-766,766_slave-current_spectrum}のようになった。\\
+　スレーブ光のパワーのマスター光のパワーによる変化は図\ref{766-M-S-power}のようになった。出力パワーからマスター光なしのときのパワーを自然放出のパワーとして差し引いた値をスレーブパワーとしている。これ以後の全ての実験でこの処理を行っている。また、その際のスペクトルの変化は図\ref{766_slave-input-power}に示した。また、スレーブ光のパワーとスペクトルのTAの印加電流による変化は図\ref{Gain-current-766}, \ref{766_slave-current_spectrum}のようになった。\\
 　図\ref{766-M-S-power}を見るとスレーブパワーは$15$ mW程度で飽和している様子が分かる。また、図\ref{Gain-current-766}を見ると印加電流に対しては$1400$ mW程度からやや傾きが小さくなっており飽和に近づいていると推測される。
 　また、図\ref{766_slave-input-power}に示されたスレーブ光のスペクトルを見ると、マスターパワーが大きくなると出力のピーク付近の形状がややコムの波長分布を反映してピークが出るが、スペクトルの裾の部分の形状には大きな変化は見られないことがわかる。次にスレーブ光のスペクトルの電流依存性を示した図\ref{Gain-current-766}を見ると、やはりピーク付近のスペクトルの形状が電流が増えていくにしたがって、コムの形を反映したものになっていることがわかる。裾の部分の形状に大きな変化は見られない。
 \newpage

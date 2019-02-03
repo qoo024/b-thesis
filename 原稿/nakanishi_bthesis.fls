@@ -65,8 +65,6 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
@@ -95,8 +93,6 @@ OUTPUT nakanishi_bthesis.dvi
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmss17.tfm
@@ -150,8 +146,10 @@ INPUT figures/chapter2/saturated_absorption_figure.png
 INPUT extractbb -B cropbox -O figures/chapter2/saturated_absorption_figure.png
 INPUT figures/chapter2/PD_Signal_main.png
 INPUT extractbb -B cropbox -O figures/chapter2/PD_Signal_main.png
-INPUT figures/chapter2/TA_structure.png
-INPUT extractbb -B cropbox -O figures/chapter2/TA_structure.png
+INPUT figures/chapter2/crossover-diagram.png
+INPUT extractbb -B cropbox -O figures/chapter2/crossover-diagram.png
+INPUT figures/chapter3/two-photon-comb-figure.png
+INPUT extractbb -B cropbox -O figures/chapter3/two-photon-comb-figure.png
 INPUT figures/chapter3/necessary_excitation_rate.png
 INPUT extractbb -B cropbox -O figures/chapter3/necessary_excitation_rate.png
 INPUT figures/chapter3/degenerated_2_photon_excitation_rate-P.png
@@ -196,6 +194,7 @@ INPUT extractbb -B cropbox -O figures/chapter2/semicon_structure.png
 INPUT figures/chapter2/semicon_bands.png
 INPUT extractbb -B cropbox -O figures/chapter2/semicon_bands.png
 INPUT figures/chapter2/TA_structure.png
+INPUT extractbb -B cropbox -O figures/chapter2/TA_structure.png
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
