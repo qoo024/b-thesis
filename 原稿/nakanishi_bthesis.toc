@@ -48,19 +48,19 @@
 \contentsline {subsubsection}{TAのパルスの伝播の数式的なモデル}{43}
 \contentsline {section}{\numberline {5.4}繰り返し周波数$1.6$ GHzのコムの$766$ nm付近の増幅}{43}
 \contentsline {subsection}{\numberline {5.4.1}測定手法}{43}
-\contentsline {subsection}{\numberline {5.4.2}測定結果}{44}
-\contentsline {subsection}{\numberline {5.4.3}繰り返し周波数$120$ MHzのコムの増幅実験との比較}{49}
-\contentsline {section}{\numberline {5.5}$890$ nm用テーパーアンプのチップマウンターの組み立て}{52}
-\contentsline {section}{\numberline {5.6}繰り返し周波数$1.6$ GHzのコムの$890$ nm付近の増幅}{53}
-\contentsline {subsection}{\numberline {5.6.1}測定手法}{53}
-\contentsline {subsection}{\numberline {5.6.2}測定結果}{54}
-\contentsline {section}{\numberline {5.7}ダブルパスでの増幅実験}{55}
-\contentsline {subsection}{\numberline {5.7.1}測定手法}{55}
-\contentsline {subsection}{\numberline {5.7.2}測定結果}{56}
-\contentsline {section}{\numberline {5.8}結論}{58}
-\contentsline {chapter}{\numberline {第6章}まとめと展望}{60}
-\contentsline {section}{\numberline {6.1}まとめ}{60}
-\contentsline {subsection}{\numberline {6.1.1}二光子冷却のための励起効率のシミュレーション}{60}
-\contentsline {subsection}{\numberline {6.1.2}TAによるコムの増幅実験}{60}
-\contentsline {section}{\numberline {6.2}今後の展望}{61}
-\contentsline {chapter}{謝辞}{62}
+\contentsline {subsection}{\numberline {5.4.2}測定結果}{45}
+\contentsline {subsection}{\numberline {5.4.3}繰り返し周波数$120$ MHzのコムの増幅実験との比較}{50}
+\contentsline {section}{\numberline {5.5}$890$ nm用テーパーアンプのチップマウンターの組み立て}{53}
+\contentsline {section}{\numberline {5.6}繰り返し周波数$1.6$ GHzのコムの$890$ nm付近の増幅}{54}
+\contentsline {subsection}{\numberline {5.6.1}測定手法}{54}
+\contentsline {subsection}{\numberline {5.6.2}測定結果}{55}
+\contentsline {section}{\numberline {5.7}ダブルパスでの増幅実験}{56}
+\contentsline {subsection}{\numberline {5.7.1}測定手法}{56}
+\contentsline {subsection}{\numberline {5.7.2}測定結果}{57}
+\contentsline {section}{\numberline {5.8}結論}{59}
+\contentsline {chapter}{\numberline {第6章}まとめと展望}{61}
+\contentsline {section}{\numberline {6.1}まとめ}{61}
+\contentsline {subsection}{\numberline {6.1.1}二光子冷却のための励起効率のシミュレーション}{61}
+\contentsline {subsection}{\numberline {6.1.2}TAによるコムの増幅実験}{61}
+\contentsline {section}{\numberline {6.2}今後の展望}{62}
+\contentsline {chapter}{謝辞}{63}
