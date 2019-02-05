@@ -1,51 +1,47 @@
-This is BibTeX, Version 0.99d (TeX Live 2018)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is upBibTeX, Version 0.99d-j0.33-u1.21 (utf8.euc) (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: nakanishi_bthesis.aux
-I couldn't open style file junsrt.bst
----line 2 of file nakanishi_bthesis.aux
- : \bibstyle{junsrt
- :                 }
-I'm skipping whatever remains of this command
-I found no style file---while reading file nakanishi_bthesis.aux
+The style file: junsrt.bst
+Database file #1: reference.bib
 You've used 16 entries,
-            0 wiz_defined-function locations,
-            110 strings with 984 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+            2270 wiz_defined-function locations,
+            646 strings with 6369 characters,
+and the built_in function-call counts, 5070 in all, are:
+= -- 408
+> -- 115
+< -- 23
++ -- 49
+- -- 33
+* -- 232
+:= -- 587
+add.period$ -- 47
+call.type$ -- 16
+change.case$ -- 10
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
-format.name$ -- 0
-if$ -- 0
+cite$ -- 16
+duplicate$ -- 359
+empty$ -- 493
+format.name$ -- 66
+if$ -- 1287
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
-num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
+int.to.str$ -- 16
+missing$ -- 19
+newline$ -- 81
+num.names$ -- 15
+pop$ -- 113
+preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 0
+skip$ -- 302
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 240
+swap$ -- 126
+text.length$ -- 23
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 0
-(There were 2 error messages)
+while$ -- 34
+width$ -- 18
+write$ -- 174
+is.kanji.str$ -- 167
