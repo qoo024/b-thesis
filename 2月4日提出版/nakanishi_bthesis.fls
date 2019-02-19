@@ -1,0 +1,282 @@
+PWD /Users/ryo/Dropbox (東京大学　吉岡研究室)/Yoshioka Group Team Folder/Nakanishi/卒業論文/2月4日提出版
+INPUT /usr/local/texlive/2018/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-var/web2c/euptex/uplatex.fmt
+INPUT nakanishi_bthesis.tex
+OUTPUT nakanishi_bthesis.log
+INPUT /usr/local/texlive/2018/texmf-dist/tex/platex/jsclasses/jsbook.cls
+INPUT /usr/local/texlive/2018/texmf-dist/tex/platex/jsclasses/jsbook.cls
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/platex/jsclasses/jslogo.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/platex/jsclasses/jslogo.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/platex/jsclasses/jslogo.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/bm.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/bm.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/here/here.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/here/here.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/comment/comment.sty
+INPUT nakanishi_bthesis.aux
+INPUT nakanishi_bthesis.aux
+OUTPUT nakanishi_bthesis.aux
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+OUTPUT nakanishi_bthesis.dvi
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmss17.tfm
+INPUT nakanishi_bthesis.toc
+INPUT nakanishi_bthesis.toc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib5.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+OUTPUT nakanishi_bthesis.toc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmss17.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+INPUT figures/chapter2/MOT_circular_polarization.png
+INPUT extractbb -B cropbox -O figures/chapter2/MOT_circular_polarization.png
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
+INPUT figures/chapter2/MOT_magnetic_field.png
+INPUT extractbb -B cropbox -O figures/chapter2/MOT_magnetic_field.png
+INPUT figures/chapter2/MOT_zeeman_split.png
+INPUT extractbb -B cropbox -O figures/chapter2/MOT_zeeman_split.png
+INPUT figures/chapter2/saturated_absorption_figure.png
+INPUT extractbb -B cropbox -O figures/chapter2/saturated_absorption_figure.png
+INPUT figures/chapter2/PD_Signal_main.png
+INPUT extractbb -B cropbox -O figures/chapter2/PD_Signal_main.png
+INPUT figures/chapter2/crossover-diagram.png
+INPUT extractbb -B cropbox -O figures/chapter2/crossover-diagram.png
+INPUT figures/chapter3/two-photon-comb-figure.png
+INPUT extractbb -B cropbox -O figures/chapter3/two-photon-comb-figure.png
+INPUT figures/chapter3/necessary_excitation_rate.png
+INPUT extractbb -B cropbox -O figures/chapter3/necessary_excitation_rate.png
+INPUT figures/chapter3/degenerated_2_photon_excitation_rate-P.png
+INPUT extractbb -B cropbox -O figures/chapter3/degenerated_2_photon_excitation_rate-P.png
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT figures/chapter3/1photon-sc-rate-2dcolor_120MHz_log.png
+INPUT extractbb -B cropbox -O figures/chapter3/1photon-sc-rate-2dcolor_120MHz_log.png
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib9.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy9.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
+INPUT figures/chapter3/1photon-sc-rate-2dcolor_16GHz_log.png
+INPUT extractbb -B cropbox -O figures/chapter3/1photon-sc-rate-2dcolor_16GHz_log.png
+INPUT figures/chapter3/2dcolor/5THz-120MHz-02GHz_new.png
+INPUT extractbb -B cropbox -O figures/chapter3/2dcolor/5THz-120MHz-02GHz_new.png
+INPUT figures/chapter3/2dcolor/5THz-120MHz-04GHz_new.png
+INPUT extractbb -B cropbox -O figures/chapter3/2dcolor/5THz-120MHz-04GHz_new.png
+INPUT figures/chapter3/2dcolor/5THz-16GHz-04GHz_new.png
+INPUT extractbb -B cropbox -O figures/chapter3/2dcolor/5THz-16GHz-04GHz_new.png
+INPUT figures/chapter3/2dcolor/5THz-16GHz-08GHz_new.png
+INPUT extractbb -B cropbox -O figures/chapter3/2dcolor/5THz-16GHz-08GHz_new.png
+INPUT figures/saturated-absorption/Cs_level_diagram_MOT.png
+INPUT extractbb -B cropbox -O figures/saturated-absorption/Cs_level_diagram_MOT.png
+INPUT figures/saturated-absorption/ECDL_diagram.png
+INPUT extractbb -B cropbox -O figures/saturated-absorption/ECDL_diagram.png
+INPUT figures/saturated-absorption/Main_Laser_diagram.png
+INPUT extractbb -B cropbox -O figures/saturated-absorption/Main_Laser_diagram.png
+INPUT figures/saturated-absorption/repump_diagram.png
+INPUT extractbb -B cropbox -O figures/saturated-absorption/repump_diagram.png
+INPUT figures/saturated-absorption/PD_Signal_Main.png
+INPUT extractbb -B cropbox -O figures/saturated-absorption/PD_Signal_Main.png
+INPUT figures/saturated-absorption/error_signal_main_all-structure.png
+INPUT extractbb -B cropbox -O figures/saturated-absorption/error_signal_main_all-structure.png
+INPUT figures/saturated-absorption/main-locking-error.png
+INPUT extractbb -B cropbox -O figures/saturated-absorption/main-locking-error.png
+INPUT figures/saturated-absorption/Repump_PD_signal.png
+INPUT extractbb -B cropbox -O figures/saturated-absorption/Repump_PD_signal.png
+INPUT figures/chapter2/semicon_structure.png
+INPUT extractbb -B cropbox -O figures/chapter2/semicon_structure.png
+INPUT figures/chapter2/semicon_bands.png
+INPUT extractbb -B cropbox -O figures/chapter2/semicon_bands.png
+INPUT figures/chapter2/TA_structure.png
+INPUT extractbb -B cropbox -O figures/chapter2/TA_structure.png
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT figures/chapter4/760_amp_diagram.png
+INPUT extractbb -B cropbox -O figures/chapter4/760_amp_diagram.png
+INPUT figures/chapter4/spectrum_current_MODORI.png
+INPUT extractbb -B cropbox -O figures/chapter4/spectrum_current_MODORI.png
+INPUT figures/chapter4/comb-spectrum_no-return.png
+INPUT extractbb -B cropbox -O figures/chapter4/comb-spectrum_no-return.png
+INPUT figures/chapter4/766-M-S-power.png
+INPUT extractbb -B cropbox -O figures/chapter4/766-M-S-power.png
+INPUT figures/chapter4/Gain-current-766.png
+INPUT extractbb -B cropbox -O figures/chapter4/Gain-current-766.png
+INPUT figures/chapter4/766_slave-input-power.png
+INPUT extractbb -B cropbox -O figures/chapter4/766_slave-input-power.png
+INPUT figures/chapter4/766_slave-current_spectrum.png
+INPUT extractbb -B cropbox -O figures/chapter4/766_slave-current_spectrum.png
+INPUT figures/chapter4/120-power-comb.png
+INPUT extractbb -B cropbox -O figures/chapter4/120-power-comb.png
+INPUT figures/chapter4/120-power_Master.png
+INPUT extractbb -B cropbox -O figures/chapter4/120-power_Master.png
+INPUT figures/chapter4/120-current-comb.png
+INPUT extractbb -B cropbox -O figures/chapter4/120-current-comb.png
+INPUT figures/chapter4/120-current-766_Master.png
+INPUT extractbb -B cropbox -O figures/chapter4/120-current-766_Master.png
+INPUT figures/chapter4/carrier_saturation.png
+INPUT extractbb -B cropbox -O figures/chapter4/carrier_saturation.png
+INPUT figures/chapter4/astro_amp_diagram_isolator.png
+INPUT extractbb -B cropbox -O figures/chapter4/astro_amp_diagram_isolator.png
+INPUT figures/chapter4/760_astro_amp_diagram.png
+INPUT extractbb -B cropbox -O figures/chapter4/760_astro_amp_diagram.png
+INPUT figures/chapter4/current-gain_astro766_errorbar.png
+INPUT extractbb -B cropbox -O figures/chapter4/current-gain_astro766_errorbar.png
+INPUT figures/chapter4/astro_seed_dependency760.png
+INPUT extractbb -B cropbox -O figures/chapter4/astro_seed_dependency760.png
+INPUT figures/chapter4/760_slave-current_spectrum_astro.png
+INPUT extractbb -B cropbox -O figures/chapter4/760_slave-current_spectrum_astro.png
+INPUT figures/chapter4/astro_TA_output_seed_dependency766.png
+INPUT extractbb -B cropbox -O figures/chapter4/astro_TA_output_seed_dependency766.png
+INPUT figures/chapter4/astro-power-766_Comb.png
+INPUT extractbb -B cropbox -O figures/chapter4/astro-power-766_Comb.png
+INPUT figures/chapter4/astro-power-766_master.png
+INPUT extractbb -B cropbox -O figures/chapter4/astro-power-766_master.png
+INPUT figures/chapter4/astro-current-766_Comb.png
+INPUT extractbb -B cropbox -O figures/chapter4/astro-current-766_Comb.png
+INPUT figures/chapter4/astro-current-766_master.png
+INPUT extractbb -B cropbox -O figures/chapter4/astro-current-766_master.png
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
+INPUT figures/chapter4/M-S_power_comparison.png
+INPUT extractbb -B cropbox -O figures/chapter4/M-S_power_comparison.png
+INPUT figures/chapter4/pulse_power-gain-comparison_errorbar.png
+INPUT extractbb -B cropbox -O figures/chapter4/pulse_power-gain-comparison_errorbar.png
+INPUT figures/chapter4/TA_cuurent-gain_comparison.png
+INPUT extractbb -B cropbox -O figures/chapter4/TA_cuurent-gain_comparison.png
+INPUT figures/chapter4/TA_chip_ds.png
+INPUT extractbb -B cropbox -O figures/chapter4/TA_chip_ds.png
+INPUT figures/chapter4/TA_mounter_photo_comments.png
+INPUT extractbb -B cropbox -O figures/chapter4/TA_mounter_photo_comments.png
+INPUT figures/chapter4/TA_mounter_structure.png
+INPUT extractbb -B cropbox -O figures/chapter4/TA_mounter_structure.png
+INPUT figures/chapter4/TA_case.jpg
+INPUT extractbb -B cropbox -O figures/chapter4/TA_case.jpg
+INPUT figures/chapter4/890_astro_amp_diagram.png
+INPUT extractbb -B cropbox -O figures/chapter4/890_astro_amp_diagram.png
+INPUT figures/chapter4/TA_power-current_3A.png
+INPUT extractbb -B cropbox -O figures/chapter4/TA_power-current_3A.png
+INPUT figures/chapter4/890TPA_power_dependence_0117.png
+INPUT extractbb -B cropbox -O figures/chapter4/890TPA_power_dependence_0117.png
+INPUT figures/chapter4/astro-890_comb.png
+INPUT extractbb -B cropbox -O figures/chapter4/astro-890_comb.png
+INPUT figures/chapter4/doublepass_photo.png
+INPUT extractbb -B cropbox -O figures/chapter4/doublepass_photo.png
+INPUT figures/chapter4/double-pass_I-slavepower.png
+INPUT extractbb -B cropbox -O figures/chapter4/double-pass_I-slavepower.png
+INPUT figures/chapter4/double-pass_I-Gain.png
+INPUT extractbb -B cropbox -O figures/chapter4/double-pass_I-Gain.png
+INPUT figures/chapter4/double-pass-Slave-Spectrum.png
+INPUT extractbb -B cropbox -O figures/chapter4/double-pass-Slave-Spectrum.png
+INPUT figures/chapter4/doublepass_master.png
+INPUT extractbb -B cropbox -O figures/chapter4/doublepass_master.png
+INPUT figures/chapter4/result-colorplot.png
+INPUT extractbb -B cropbox -O figures/chapter4/result-colorplot.png
+INPUT nakanishi_bthesis.aux
