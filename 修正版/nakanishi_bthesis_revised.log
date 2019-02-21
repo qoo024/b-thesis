@@ -1,0 +1,783 @@
+This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2017.1.19)  21 FEB 2019 19:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**nakanishi_bthesis_revised.tex
+(./nakanishi_bthesis_revised.tex
+pLaTeX2e <2016/05/07u00> (based on LaTeX2e <2016/03/31>)
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/platex/jsclasses/jsbook.cls
+Document Class: jsbook 2014/02/07 okumura
+LaTeX Info: Redefining \rmfamily on input line 359.
+LaTeX Info: Redefining \sffamily on input line 362.
+LaTeX Info: Redefining \ttfamily on input line 365.
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY2/mc/m/n --> JY2/gt/m/n on input line 430.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 620.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 620.
+\fullwidth=\dimen118
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 7.39746pt on input line 775.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 7.39746pt on input line 775.
+\c@part=\count81
+\c@chapter=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\c@figure=\count88
+\c@table=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\js@tocl@width=\dimen119
+\@lnumwidth=\dimen120
+\bibindent=\dimen121
+LaTeX Info: Redefining \TeX on input line 1815.
+LaTeX Info: Redefining \LaTeX on input line 1841.
+LaTeX Info: Redefining \LaTeXe on input line 1866.
+\heisei=\count90
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2016/02/27 v1.2a Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup5
+\symboldletters=\mathgroup6
+\symboldsymbols=\mathgroup7
+\symboldmincho=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 142.
+LaTeX Info: Redefining \bm on input line 208.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen122
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+LaTeX Info: Redefining \boldsymbol on input line 28.
+\pmbraise@=\dimen123
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box41
+\strutbox@=\box42
+\big@size=\dimen124
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks16
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks17
+\eqnshift@=\dimen125
+\alignsep@=\dimen126
+\tagshift@=\dimen127
+\tagwidth@=\dimen128
+\totwidth@=\dimen129
+\lineht@=\dimen130
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/dvipdfmx-def/dvipdfmx.def
+File: dvipdfmx.def 2016/04/06 v4.08 LaTeX color/graphics driver for dvipdfmx (T
+eX Live/ChoF)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+\Gin@req@height=\dimen131
+\Gin@req@width=\dimen132
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen133
+\WF@size=\dimen134
+\c@WF@wrappedlines=\count103
+\WF@box=\box43
+\WF@everypar=\toks21
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen135
+\captionmargin@=\dimen136
+\captionwidth=\dimen137
+\caption@tempdima=\dimen138
+\caption@indent=\dimen139
+\caption@parindent=\dimen140
+\caption@hangindent=\dimen141
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->{\small \advance \lefts
+kip .0628\linewidth \advance \rightskip .0628\linewidth \vskip \abovecaptionski
+p \sbox \@tempboxa {#1\hskip 1zw\relax #2}\ifdim \wd \@tempboxa <\hsize \center
+ing \fi #1\hskip 1zw\relax #2\par \vskip \belowcaptionskip }.
+\c@ContinuedFloat=\count104
+Package caption Info: wrapfig package is loaded.
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
+\c@subfigure=\count105
+\c@subtable=\count106
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/here/here.sty)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count107
+\float@exts=\toks22
+\float@box=\box44
+\@float@everytoks=\toks23
+\@floatcapt=\box45
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment') (./nakanishi_bthesis_revised.aux)
+\openout1 = `nakanishi_bthesis_revised.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 23.0061pt on input line 19.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 23.0061pt on input line 19.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 15.9785pt on input line 25.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 15.9785pt on input line 25.
+ [1
+
+] [0
+
+]
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 44.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 44.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 23.0061pt on input line 44.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 23.0061pt on input line 44.
+
+(./nakanishi_bthesis_revised.toc
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 2.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 4.62341pt on input line 2.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 2.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 4.62341pt on input line 2.
+ [1
+
+] [2])
+\tf@toc=\write4
+\openout4 = `nakanishi_bthesis_revised.toc'.
+
+ [3]
+第1章
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 19.17792pt on input line 48.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 19.17792pt on input line 48.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 19.17792pt on input line 48.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 19.17792pt on input line 48.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 49.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 49.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 49.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 49.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 50.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 50.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 50.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 50.
+[4
+
+] [5]
+第2章
+[6
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 96.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 96.
+ [7] [8]
+Excluding 'comment' comment.
+File: figures/chapter2/MOT_circular_polarization.png Graphic file (type bmp)
+ <figures/chapter2/MOT_circular_polarization.png>
+Overfull \hbox (7.00967pt too wide) in paragraph at lines 160--161
+ [][] 
+ []
+
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 161.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 161.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <9> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 161.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 161.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <9> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 161.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 161.
+File: figures/chapter2/MOT_magnetic_field.png Graphic file (type bmp)
+<figures/chapter2/MOT_magnetic_field.png>
+Overfull \hbox (13.8817pt too wide) in paragraph at lines 170--171
+ [][] 
+ []
+
+File: figures/chapter2/MOT_zeeman_split.png Graphic file (type bmp)
+<figures/chapter2/MOT_zeeman_split.png>
+Overfull \hbox (43.89005pt too wide) in paragraph at lines 180--181
+ [][] 
+ []
+
+
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 153--187
+ [][][][] 
+ []
+
+[9]
+File: figures/chapter2/saturated_absorption_figure.png Graphic file (type bmp)
+ <figures/chapter2/saturated_absorption_figure.png>
+File: figures/chapter2/PD_Signal_main.png Graphic file (type bmp)
+
+<figures/chapter2/PD_Signal_main.png>
+File: figures/chapter2/crossover-diagram.png Graphic file (type bmp)
+ <figures/chapter2/crossover-diagram.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 200--230
+ [][][][] 
+ []
+
+[10] [11] [12] Excluding 'comment' comment. [13]
+第3章
+[14
+
+]
+File: figures/chapter3/two-photon-comb-figure.png Graphic file (type bmp)
+ <figures/chapter3/two-photon-comb-figure.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 340--350
+ [][][][] 
+ []
+
+[15]
+File: figures/chapter3/necessary_excitation_rate.png Graphic file (type bmp)
+ <figures/chapter3/necessary_excitation_rate.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 382--392
+ [][][][] 
+ []
+
+[16] [17]
+File: figures/chapter3/degenerated_2_photon_excitation_rate-P.png Graphic file 
+(type bmp)
+ <figures/chapter3/degenerated_2_photon_excitation_rate-P.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 449--458
+ [][][][] 
+ []
+
+[18]
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 466.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 4.62341pt on input line 466.
+ [19]
+File: figures/chapter3/1photon-sc-rate-2dcolor_120MHz_log.png Graphic file (typ
+e bmp)
+ <figures/chapter3/1photon-sc-rate-2dcolor_120MHz_log.png>
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 5.5481pt on input line 486.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 5.5481pt on input line 486.
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 481--490
+ [][][][] 
+ []
+
+[20]
+File: figures/chapter3/2dcolor/5THz-120MHz-02GHz_new.png Graphic file (type bmp
+)
+ <figures/chapter3/2dcolor/5THz-120MHz-02GHz_new.png>
+Excluding 'comment' comment.
+File: figures/chapter3/2dcolor/5THz-120MHz-04GHz_new.png Graphic file (type bmp
+)
+
+<figures/chapter3/2dcolor/5THz-120MHz-04GHz_new.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 498--521
+ [][][][] 
+ []
+
+[21]
+Overfull \vbox (7.73392pt too high) has occurred while \output is active []
+
+
+[22]
+File: figures/chapter3/rityounashi_level_diagram.png Graphic file (type bmp)
+ <figures/chapter3/rityounashi_level_diagram.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 530--539
+ [][][][] 
+ []
+
+File: figures/chapter3/1photon-ex-rate-rityounashi.png Graphic file (type bmp)
+<figures/chapter3/1photon-ex-rate-rityounashi.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 542--552
+ [][][][] 
+ []
+
+[23] [24]
+File: figures/chapter3/rityounashi_16GHz.png Graphic file (type bmp)
+ <figures/chapter3/rityounashi_16GHz.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 559--568
+ [][][][] 
+ []
+
+[25]
+第4章
+File: figures/saturated-absorption/Cs_level_diagram_MOT.png Graphic file (type 
+bmp)
+<figures/saturated-absorption/Cs_level_diagram_MOT.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 582--591
+ [][][][] 
+ []
+
+[26
+
+]
+File: figures/saturated-absorption/ECDL_diagram.png Graphic file (type bmp)
+ <figures/saturated-absorption/ECDL_diagram.png>
+Overfull \hbox (11.91144pt too wide) in paragraph at lines 601--602
+ [][] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 597--606
+ [][][][] 
+ []
+
+File: figures/saturated-absorption/Main_Laser_diagram.png Graphic file (type bm
+p)
+<figures/saturated-absorption/Main_Laser_diagram.png>
+File: figures/saturated-absorption/repump_diagram.png Graphic file (type bmp)
+
+<figures/saturated-absorption/repump_diagram.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 613--630
+ [][][][] 
+ []
+
+[27] [28]
+File: figures/saturated-absorption/PD_Signal_Main.png Graphic file (type bmp)
+ <figures/saturated-absorption/PD_Signal_Main.png>
+File: figures/saturated-absorption/error_signal_main_all-structure.png Graphic 
+file (type bmp)
+
+<figures/saturated-absorption/error_signal_main_all-structure.png>
+File: figures/saturated-absorption/main-locking-error.png Graphic file (type bm
+p)
+
+<figures/saturated-absorption/main-locking-error.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 641--667
+ [][][][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 17.5045pt on input line 667.
+
+[29] [30]
+File: figures/saturated-absorption/Repump_PD_signal.png Graphic file (type bmp)
+
+ <figures/saturated-absorption/Repump_PD_signal.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 672--681
+ [][][][] 
+ []
+
+[31]
+第5章
+[32
+
+]
+File: figures/chapter2/semicon_structure.png Graphic file (type bmp)
+ <figures/chapter2/semicon_structure.png>
+File: figures/chapter2/semicon_bands.png Graphic file (type bmp)
+
+<figures/chapter2/semicon_bands.png> [33]
+File: figures/chapter2/TA_structure.png Graphic file (type bmp)
+ <figures/chapter2/TA_structure.png>
+[34]
+File: figures/chapter4/760_amp_diagram.png Graphic file (type bmp)
+ <figures/chapter4/760_amp_diagram.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 756--765
+ [][][][] 
+ []
+
+File: figures/chapter4/spectrum_current_MODORI.png Graphic file (type bmp)
+<figures/chapter4/spectrum_current_MODORI.png> [35]
+File: figures/chapter4/comb-spectrum_no-return.png Graphic file (type bmp)
+
+<figures/chapter4/comb-spectrum_no-return.png> [36] [37]
+File: figures/chapter4/766-M-S-power.png Graphic file (type bmp)
+
+<figures/chapter4/766-M-S-power.png>
+File: figures/chapter4/Gain-current-766.png Graphic file (type bmp)
+ <figures/chapter4/Gain-current-766.png>
+Overfull \hbox (24.58015pt too wide) in paragraph at lines 793--810
+ [][][][] 
+ []
+
+[38]
+File: figures/chapter4/766_slave-input-power.png Graphic file (type bmp)
+ <figures/chapter4/766_slave-input-power.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 815--824
+ [][][][] 
+ []
+
+[39]
+File: figures/chapter4/766_slave-current_spectrum.png Graphic file (type bmp)
+ <figures/chapter4/766_slave-current_spectrum.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 829--838
+ [][][][] 
+ []
+
+[40]
+File: figures/chapter4/120-power-comb.png Graphic file (type bmp)
+ <figures/chapter4/120-power-comb.png>
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 850--851
+ [][] 
+ []
+
+File: figures/chapter4/120-power_Master.png Graphic file (type bmp)
+<figures/chapter4/120-power_Master.png>
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 857--858
+ [][] 
+ []
+
+File: figures/chapter4/120-current-comb.png Graphic file (type bmp)
+<figures/chapter4/120-current-comb.png>
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 865--866
+ [][] 
+ []
+
+File: figures/chapter4/120-current-766_Master.png Graphic file (type bmp)
+<figures/chapter4/120-current-766_Master.png>
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 872--873
+ [][] 
+ []
+
+
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 845--877
+ [][][][] 
+ []
+
+[41]
+File: figures/chapter4/carrier_saturation.png Graphic file (type bmp)
+ <figures/chapter4/carrier_saturation.png> [42] [43]
+Excluding 'comment' comment. Excluding 'comment' comment.
+File: figures/chapter4/astro_amp_diagram_isolator.png Graphic file (type bmp)
+
+<figures/chapter4/astro_amp_diagram_isolator.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 954--963
+ [][][][] 
+ []
+
+File: figures/chapter4/760_astro_amp_diagram.png Graphic file (type bmp)
+<figures/chapter4/760_astro_amp_diagram.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 966--975
+ [][][][] 
+ []
+
+[44] [45]
+File: figures/chapter4/current-gain_astro766_errorbar.png Graphic file (type bm
+p)
+ <figures/chapter4/current-gain_astro766_errorbar.png>
+File: figures/chapter4/astro_seed_dependency760.png Graphic file (type bmp)
+
+<figures/chapter4/astro_seed_dependency760.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 982--1000
+ [][][][] 
+ []
+
+[46] [47]
+File: figures/chapter4/760_slave-current_spectrum_astro.png Graphic file (type 
+bmp)
+ <figures/chapter4/760_slave-current_spectrum_astro.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1004--1013
+ [][][][] 
+ []
+
+[48]
+File: figures/chapter4/astro_TA_output_seed_dependency766.png Graphic file (typ
+e bmp)
+ <figures/chapter4/astro_TA_output_seed_dependency766.png>
+Overfull \hbox (26.89255pt too wide) in paragraph at lines 1022--1023
+ [][] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1018--1027
+ [][][][] 
+ []
+
+
+Overfull \vbox (5.05348pt too high) has occurred while \output is active []
+
+
+[49]
+File: figures/chapter4/astro-power-766_Comb.png Graphic file (type bmp)
+ <figures/chapter4/astro-power-766_Comb.png>
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 1037--1038
+ [][] 
+ []
+
+File: figures/chapter4/astro-power-766_master.png Graphic file (type bmp)
+<figures/chapter4/astro-power-766_master.png>
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 1044--1045
+ [][] 
+ []
+
+File: figures/chapter4/astro-current-766_Comb.png Graphic file (type bmp)
+<figures/chapter4/astro-current-766_Comb.png>
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 1052--1053
+ [][] 
+ []
+
+File: figures/chapter4/astro-current-766_master.png Graphic file (type bmp)
+<figures/chapter4/astro-current-766_master.png>
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 1059--1060
+ [][] 
+ []
+
+
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 1032--1064
+ [][][][] 
+ []
+
+[50]
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 7.39746pt on input line 1068.
+File: figures/chapter4/M-S_power_comparison.png Graphic file (type bmp)
+ <figures/chapter4/M-S_power_comparison.png>
+File: figures/chapter4/pulse_power-gain-comparison_errorbar.png Graphic file (t
+ype bmp)
+
+<figures/chapter4/pulse_power-gain-comparison_errorbar.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1075--1098
+ [][][][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 20.69092pt on input line 1098.
+
+[51] [52]
+File: figures/chapter4/TA_cuurent-gain_comparison.png Graphic file (type bmp)
+ <figures/chapter4/TA_cuurent-gain_comparison.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1103--1112
+ [][][][] 
+ []
+
+[53]
+File: figures/chapter4/TA_chip_ds.png Graphic file (type bmp)
+ <figures/chapter4/TA_chip_ds.png>
+File: figures/chapter4/TA_mounter_photo_comments.png Graphic file (type bmp)
+
+<figures/chapter4/TA_mounter_photo_comments.png>
+File: figures/chapter4/TA_mounter_structure.png Graphic file (type bmp)
+
+<figures/chapter4/TA_mounter_structure.png>
+Overfull \hbox (23.17033pt too wide) in paragraph at lines 1143--1144
+ [][] 
+ []
+
+
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 1127--1149
+ [][][][] 
+ []
+
+[54]
+File: figures/chapter4/TA_case.jpg Graphic file (type bmp)
+ <figures/chapter4/TA_case.jpg>
+File: figures/chapter4/890_astro_amp_diagram.png Graphic file (type bmp)
+
+<figures/chapter4/890_astro_amp_diagram.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1166--1175
+ [][][][] 
+ []
+
+[55]
+File: figures/chapter4/TA_power-current_3A.png Graphic file (type bmp)
+ <figures/chapter4/TA_power-current_3A.png>
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 1186--1187
+ [][] 
+ []
+
+File: figures/chapter4/890TPA_power_dependence_0117.png Graphic file (type bmp)
+
+<figures/chapter4/890TPA_power_dependence_0117.png>
+Overfull \hbox (13.37982pt too wide) in paragraph at lines 1196--1197
+ [][] 
+ []
+
+
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 1182--1202
+ [][][][] 
+ []
+
+File: figures/chapter4/astro-890_comb.png Graphic file (type bmp)
+<figures/chapter4/astro-890_comb.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1206--1215
+ [][][][] 
+ []
+
+[56]
+File: figures/chapter4/doublepass_photo.png Graphic file (type bmp)
+ <figures/chapter4/doublepass_photo.png> [57] [58]
+File: figures/chapter4/double-pass_I-slavepower.png Graphic file (type bmp)
+
+<figures/chapter4/double-pass_I-slavepower.png>
+File: figures/chapter4/double-pass_I-Gain.png Graphic file (type bmp)
+
+<figures/chapter4/double-pass_I-Gain.png>
+File: figures/chapter4/double-pass-Slave-Spectrum.png Graphic file (type bmp)
+
+<figures/chapter4/double-pass-Slave-Spectrum.png>
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 1238--1262
+ [][][][] 
+ []
+
+
+Overfull \vbox (6.49675pt too high) has occurred while \output is active []
+
+
+[59]
+File: figures/chapter4/doublepass_master.png Graphic file (type bmp)
+ <figures/chapter4/doublepass_master.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1266--1275
+ [][][][] 
+ []
+
+File: figures/chapter4/rityounashi_result.png Graphic file (type bmp)
+<figures/chapter4/rityounashi_result.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1287--1296
+ [][][][] 
+ []
+
+[60] [61]
+第6章
+[62
+
+] [63] (./nakanishi_bthesis_revised.bbl [64
+
+]
+LaTeX Font Info:    Font shape `JT2/gt/m/it' in size <10> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 11.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 11.
+LaTeX Font Info:    Font shape `JY2/gt/m/it' in size <10> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 11.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 11.
+ [65
+
+]
+Missing character: There is no ^^e2 in font cmr10!
+Missing character: There is no ^^80 in font cmr10!
+Missing character: There is no ^^89 in font cmr10!
+) [66]
+(./nakanishi_bthesis_revised.aux) ) 
+Here is how much of TeX's memory you used:
+ 3299 strings out of 493689
+ 54136 string characters out of 6149981
+ 119410 words of memory out of 5000000
+ 6750 multiletter control sequences out of 15000+600000
+ 27440 words of font info for 123 fonts, out of 8000000 for 9000
+ 934 hyphenation exceptions out of 8191
+ 36i,19n,39p,1544b,621s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on nakanishi_bthesis_revised.dvi (68 pages, 169184 bytes).
