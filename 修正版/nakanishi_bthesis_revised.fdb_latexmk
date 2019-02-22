@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex nakanishi_bthesis_revised"] 1550746435 "nakanishi_bthesis_revised.aux" "nakanishi_bthesis_revised.bbl" "nakanishi_bthesis_revised" 1550746467
+["bibtex nakanishi_bthesis_revised"] 1550808643 "nakanishi_bthesis_revised.aux" "nakanishi_bthesis_revised.bbl" "nakanishi_bthesis_revised" 1550810344
   "junsrt.bst" 0 -1 0 ""
-  "nakanishi_bthesis_revised.aux" 1550746444 29387 6ef5929813b47669da7d807926f62df5 ""
+  "nakanishi_bthesis_revised.aux" 1550810319 29387 6ef5929813b47669da7d807926f62df5 ""
   "reference.bib" 1550742589 7008 e90f7b715c0d23ae5bc7c537acb6391b ""
   (generated)
   "nakanishi_bthesis_revised.bbl"
   "nakanishi_bthesis_revised.blg"
-["dvipdf"] 1550746444 "nakanishi_bthesis_revised.dvi" "nakanishi_bthesis_revised.pdf" "nakanishi_bthesis_revised" 1550746467
-  "nakanishi_bthesis_revised.dvi" 1550746444 166996 1eb2e19b74009121f80ed70167276bb8 "latex"
+["dvipdf"] 1550810319 "nakanishi_bthesis_revised.dvi" "nakanishi_bthesis_revised.pdf" "nakanishi_bthesis_revised" 1550810344
+  "nakanishi_bthesis_revised.dvi" 1550810319 167012 b74f41024eb7f8481e50a1bdcb468a84 "latex"
   (generated)
   "nakanishi_bthesis_revised.pdf"
-["latex"] 1550746435 "nakanishi_bthesis_revised.tex" "nakanishi_bthesis_revised.dvi" "nakanishi_bthesis_revised" 1550746467
+["latex"] 1550810309 "nakanishi_bthesis_revised.tex" "nakanishi_bthesis_revised.dvi" "nakanishi_bthesis_revised" 1550810344
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1480098698 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1480098698 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -170,16 +170,16 @@
   "figures/chapter4/760_amp_diagram.png" 1548299173 130791 b605d412d55ed5ed1b12c62f0687409d ""
   "figures/chapter4/760_astro_amp_diagram.png" 1548300022 86638 6542d0150f0daca3724c5d20b83bcd97 ""
   "figures/chapter4/760_slave-current_spectrum_astro.png" 1550745700 384308 16b3d17e2ff32dd68182e7707e21f0a3 ""
-  "figures/chapter4/766-M-S-power.png" 1549007699 13178 1b6b598aa5005f1d8d00a015fcfe09f4 ""
+  "figures/chapter4/766-M-S-power.png" 1550809259 13260 de2c97894caa1ac5ad08cf5a0722c8fb ""
   "figures/chapter4/766_slave-current_spectrum.png" 1550745535 342052 cb5935b74e4f71db5b5391e1323bb3cc ""
   "figures/chapter4/766_slave-input-power.png" 1550746014 392044 4771fd6434c00235df035027bfad0fbb ""
   "figures/chapter4/890TPA_power_dependence_0117.png" 1547723197 8982 1687646a9e9061409497b5f9e05a0c5c ""
   "figures/chapter4/890_astro_amp_diagram.png" 1548300495 57541 286c4182f5963efe35b9205789e4443b ""
-  "figures/chapter4/Gain-current-766.png" 1548958489 9892 f9c0ae9c467d3f0f8d15b6aebf42f6b4 ""
+  "figures/chapter4/Gain-current-766.png" 1550808386 9724 a62ee208b332ce4fcc1b876089c4f122 ""
   "figures/chapter4/M-S_power_comparison.png" 1548506522 11602 3349363984b8b367ead47f471999e350 ""
   "figures/chapter4/TA_case.jpg" 1548498188 1023245 e5fd5c67b25eb8b13428620f6dee6562 ""
   "figures/chapter4/TA_chip_ds.png" 1548228833 350108 4b3c78e6f556ad8eb7a0872c5193f1d3 ""
-  "figures/chapter4/TA_cuurent-gain_comparison.png" 1548564457 9981 68b5154a3e4fb973e44cd67b8e7bcb98 ""
+  "figures/chapter4/TA_cuurent-gain_comparison.png" 1550808193 9984 cb18166d5fed52bb9da0883c33c4bd98 ""
   "figures/chapter4/TA_mounter_photo_comments.png" 1548226485 1831443 1670e4f6f0f0e311278abe4c9dac75d6 ""
   "figures/chapter4/TA_mounter_structure.png" 1548210246 92534 489199b1554c5dc27b2762028b5983c2 ""
   "figures/chapter4/TA_power-current_3A.png" 1549008084 9554 80ed06b91998553b3510e89f92498860 ""
@@ -210,12 +210,12 @@
   "figures/saturated-absorption/error_signal_main_all-structure.png" 1548386178 15688 fec30454a3849e072e586dc2b764504b ""
   "figures/saturated-absorption/main-locking-error.png" 1548626669 70845 10d8f363e630b9d8d49e961d03ac8c1d ""
   "figures/saturated-absorption/repump_diagram.png" 1548907210 35258 755fcf126d66ea6a2192a7c31260fbf0 ""
-  "nakanishi_bthesis_revised.aux" 1550746444 29387 6ef5929813b47669da7d807926f62df5 ""
-  "nakanishi_bthesis_revised.bbl" 1550746435 0 d41d8cd98f00b204e9800998ecf8427e "bibtex nakanishi_bthesis_revised"
-  "nakanishi_bthesis_revised.tex" 1550746413 120925 862c1d3e3aea8d86d0cbb2e4997d433e ""
-  "nakanishi_bthesis_revised.toc" 1550746444 5990 2c417057c354163caff399e6f8567352 ""
+  "nakanishi_bthesis_revised.aux" 1550810319 29387 6ef5929813b47669da7d807926f62df5 ""
+  "nakanishi_bthesis_revised.bbl" 1550810273 0 d41d8cd98f00b204e9800998ecf8427e "bibtex nakanishi_bthesis_revised"
+  "nakanishi_bthesis_revised.tex" 1550810308 120935 f9ba4b0f801e78bb79f795fa751c3892 ""
+  "nakanishi_bthesis_revised.toc" 1550810319 5990 2c417057c354163caff399e6f8567352 ""
   (generated)
   "nakanishi_bthesis_revised.dvi"
-  "nakanishi_bthesis_revised.log"
   "nakanishi_bthesis_revised.aux"
+  "nakanishi_bthesis_revised.log"
   "nakanishi_bthesis_revised.toc"
